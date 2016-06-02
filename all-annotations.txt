@@ -1,0 +1,4965 @@
+nucleus	13548
+molecular_function	10183
+biological_process	9757
+chloroplast	6750
+protein binding	5575
+plasma membrane	5519
+mitochondrion	5081
+regulation of transcription, DNA-templated	4581
+cytoplasm	4566
+cellular_component	4368
+chloroplast stroma	4328
+chloroplast thylakoid membrane	3680
+chloroplast envelope	3556
+sequence-specific DNA binding transcription factor activity	2986
+extracellular region	2966
+translational elongation	2163
+triplet codon-amino acid adaptor activity	2064
+cytosol	2037
+vacuolar membrane	1806
+cytosolic ribosome	1672
+membrane	1652
+response to salt stress	1630
+vacuole	1540
+Golgi apparatus	1523
+positive regulation of transcription, DNA-templated	1518
+DNA binding	1360
+translation	1176
+systemic acquired resistance, salicylic acid mediated signaling pathway	1108
+protein targeting to membrane	1098
+kinase activity	1065
+ubiquitin-dependent protein catabolic process	1056
+response to cold	1046
+protein phosphorylation	1008
+protein folding	948
+ATP binding	948
+plasmodesma	909
+defense response to bacterium	906
+chloroplast thylakoid	864
+response to water deprivation	800
+endoplasmic reticulum	747
+regulation of plant-type hypersensitive response	738
+nucleolus	734
+photosystem II assembly	732
+peroxisome	732
+histone H3-K9 methylation	728
+-------
+defense response to fungus	716
+trans-Golgi network	708
+embryo development ending in seed dormancy	680
+response to cadmium ion	673
+MAPK cascade	636
+glycolytic process	630
+response to heat	626
+cytosolic small ribosomal subunit	608
+reciprocal meiotic recombination	604
+plastoglobule	604
+pollen tube growth	596
+zinc ion binding	592
+jasmonic acid mediated signaling pathway	590
+protein ubiquitination	588
+endoplasmic reticulum unfolded protein response	570
+response to abscisic acid	557
+cytosolic large ribosomal subunit	548
+DNA methylation	543
+protein serine/threonine kinase activity	532
+transferase activity, transferring glycosyl groups	528
+systemic acquired resistance	524
+negative regulation of transcription, DNA-templated	516
+DNA repair	496
+toxin catabolic process	490
+protein autophosphorylation	489
+N-terminal protein myristoylation	489
+anchored component of membrane	487
+abscisic acid-activated signaling pathway	484
+response to chitin	482
+endosome	478
+methylation-dependent chromatin silencing	476
+cell wall	476
+photomorphogenesis	472
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	472
+photosynthesis, light reaction	465
+rRNA processing	452
+chloroplast thylakoid lumen	448
+mitochondrial respiratory chain complex I	436
+response to auxin	434
+apoplast	429
+thylakoid membrane organization	428
+cysteine biosynthetic process	428
+salicylic acid biosynthetic process	424
+photosynthesis	424
+regulation of protein dephosphorylation	411
+defense response	407
+cellular response to phosphate starvation	402
+response to wounding	398
+starch biosynthetic process	394
+structural constituent of ribosome	388
+thylakoid	386
+----------
+GTP binding	386
+protein kinase activity	384
+DNA-templated transcription, elongation	384
+chromatin silencing	381
+glucosinolate biosynthetic process	378
+histone lysine methylation	376
+fatty acid beta-oxidation	376
+xylan biosynthetic process	372
+regulation of hydrogen peroxide metabolic process	372
+signal transduction	371
+root hair elongation	370
+response to endoplasmic reticulum stress	368
+photorespiration	368
+DNA endoreduplication	366
+RNA binding	362
+pentose-phosphate shunt	360
+Golgi organization	358
+glucuronoxylan metabolic process	356
+chromatin silencing by small RNA	354
+plant-type cell wall modification	346
+RNA methylation	346
+proteasome-mediated ubiquitin-dependent protein catabolic process	345
+hyperosmotic salinity response	344
+protein targeting to mitochondrion	342
+transporter activity	341
+salicylic acid mediated signaling pathway	334
+chloroplast organization	334
+regulation of DNA replication	333
+mitochondrial inner membrane	332
+response to osmotic stress	326
+plastid	325
+protein glycosylation	324
+cullin deneddylation	324
+proteolysis	321
+ubiquitin-protein transferase activity	317
+nucleic acid binding	317
+vegetative to reproductive phase transition of meristem	315
+regulation of flower development	312
+protein import into peroxisome matrix	312
+plant-type cell wall	312
+DNA replication	309
+transcription from plastid promoter	308
+response to jasmonic acid	308
+jasmonic acid biosynthetic process	306
+maltose metabolic process	304
+histone methylation	304
+double-strand break repair via homologous recombination	304
+microtubule cytoskeleton organization	302
+DNA-dependent DNA replication	300
+root hair cell differentiation	298
+sister chromatid cohesion	294
+meiotic DNA double-strand break formation	291
+trichome morphogenesis	288
+protein N-linked glycosylation	288
+photoperiodism, flowering	288
+RNA processing	286
+proteasomal protein catabolic process	285
+response to ethylene	283
+unidimensional cell growth	282
+post-translational protein modification	282
+embryo sac egg cell differentiation	278
+RNA splicing, via endonucleolytic cleavage and ligation	276
+negative regulation of defense response	275
+production of miRNAs involved in gene silencing by miRNA	272
+telomere maintenance in response to DNA damage	270
+ethylene biosynthetic process	270
+cell wall organization	270
+pyrimidine ribonucleotide biosynthetic process	268
+pollen exine formation	267
+ethylene-activated signaling pathway	266
+chlorophyll biosynthetic process	266
+histone phosphorylation	264
+respiratory burst involved in defense response	250
+chloroplast inner membrane	250
+protein desumoylation	249
+plant-type vacuole membrane	249
+vernalization response	248
+catalytic activity	245
+----2015-05-23----
+production of ta-siRNAs involved in RNA interference	244 ***
+histone modification	244
+mRNA splicing, via spliceosome	238
+ATPase activity, coupled to transmembrane movement of substances	238
+sugar mediated signaling pathway	234
+cytokinin-activated signaling pathway	234
+oxygen binding	232
+cellular response to iron ion starvation	232
+response to high light intensity	231
+response to sucrose	230
+calmodulin binding	230
+heterotrimeric G-protein complex	228
+indoleacetic acid biosynthetic process	226
+cytoskeleton organization	224
+ribosome	222
+response to cytokinin	222
+----2015-05-25----
+regulation of telomere maintenance	220
+iron-sulfur cluster assembly	220
+double-strand break repair	220
+metabolic process	218
+meiotic chromosome segregation	218
+nitrate transport	215
+copper ion binding	214
+response to oxidative stress	213
+cellular response to water deprivation	213
+virus induced gene silencing	212
+actin nucleation	212
+leaf morphogenesis	211
+plant-type cell wall organization	210
+galactolipid biosynthetic process	210
+DNA replication initiation	210
+response to hydrogen peroxide	209
+mRNA modification	208
+carotenoid biosynthetic process	208
+response to bacterium	204
+pollen development	203
+gene silencing by RNA	202
+response to nitrate	201
+regulation of chromosome organization	200
+phosphatidylinositol biosynthetic process	200
+endoplasmic reticulum membrane	200
+response to freezing	198
+methylglyoxal catabolic process to D-lactate	198
+chloroplast relocation	198
+nuclear-transcribed mRNA catabolic process	196
+cytokinesis by cell plate formation	195
+methionine biosynthetic process	194
+Cul4-RING E3 ubiquitin ligase complex	194
+vesicle-mediated transport	192
+hyperosmotic response	192
+hydrolase activity, hydrolyzing O-glycosyl compounds	191
+sterol biosynthetic process	189
+seed germination	187
+response to misfolded protein	185
+calcium ion binding	184
+response to light stimulus	181
+cell proliferation	181
+gibberellic acid mediated signaling pathway	180
+circadian rhythm	180
+chloroplast outer membrane	180
+cellulose biosynthetic process	180
+protein serine/threonine phosphatase activity	178
+defense response, incompatible interaction	176
+synapsis	174
+plastid organization	174
+mRNA export from nucleus	174
+cell tip growth	172
+photosynthetic electron transport in photosystem I	171
+ovule development	171
+negative regulation of programmed cell death	170
+heat acclimation	170
+nucleotide binding	169
+response to hypoxia	168
+nucleotide biosynthetic process	168
+gluconeogenesis	166
+transport	164
+----2015-05-26----
+regulation of unidimensional cell growth	164
+mitotic cell cycle	163
+tryptophan catabolic process	162
+translational initiation	162
+protein deubiquitination	162
+oxidoreductase activity	162
+anchored component of plasma membrane	162
+Golgi vesicle transport	161
+response to cyclopentenone	160
+cell wall macromolecule metabolic process	160
+regulation of meristem growth	159
+hydrogen peroxide catabolic process	158
+hydrogen peroxide biosynthetic process	158
+seed dormancy process	156
+RNA interference	156
+----2015-05-27----
+ncRNA metabolic process	154
+acetyl-CoA metabolic process	154
+response to gibberellin	153
+amino acid transport	153
+hydrolase activity	152
+root development	150
+response to salicylic acid	150
+meiotic nuclear division	150
+cell differentiation	150
+autophagy	150
+ATPase activity	150
+response to fructose	149
+leaf development	149
+postreplication repair	148
+lipid transport	148
+regulation of cell cycle	147
+unsaturated fatty acid biosynthetic process	146
+stomatal complex morphogenesis	146
+multicellular organismal development	146
+--- 2015-05-29----
+water transport	142
+myo-inositol hexakisphosphate biosynthetic process	142
+fatty acid biosynthetic process	142
+--- 2015-05-30----
+carbohydrate transmembrane transporter activity	141
+intracellular signal transduction	139
+aromatic amino acid family biosynthetic process	138
+protein targeting to vacuole	137
+meristem initiation	135
+gravitropism	135
+response to fungus	133
+gene silencing by miRNA	132
+purine nucleobase transport	131
+transmembrane receptor protein tyrosine kinase signaling pathway	130
+rRNA modification	130
+plant-type cell wall loosening	130
+phosphatidylglycerol biosynthetic process	130
+microtubule nucleation	130
+microsporogenesis	130
+gibberellin biosynthetic process	130
+brassinosteroid biosynthetic process	130
+response to karrikin	129
+large ribosomal subunit	129
+cell morphogenesis	128
+calcium ion transport	128
+--- 2015-05-31----
+proteasome core complex assembly	126
+gene silencing	126
+fatty acid catabolic process	126
+determination of bilateral symmetry	126
+defense response to fungus, incompatible interaction	124
+response to blue light	123
+iron ion transport	123
+carbohydrate metabolic process	123
+protein dephosphorylation	120
+phragmoplast	120
+organ morphogenesis	120
+defense response to virus	120
+chlorophyll catabolic process	120
+cell growth	120
+response to UV-B	119
+stromule	117
+plant-type cell wall biogenesis	117
+negative regulation of cyclin-dependent protein serine/threonine kinase activity	117
+stomatal lineage progression	116
+anthocyanin accumulation in tissues in response to UV light	116
+transition metal ion transport	115
+vacuole organization	114
+coumarin biosynthetic process	114
+cell wall modification	114
+starch metabolic process	112
+positive regulation of catalytic activity	112
+--- 2015-06-01----
+nuclear envelope	112
+lignin biosynthetic process	112
+cellular respiration	111
+oligopeptide transport	110
+integral component of membrane	110
+regulation of defense response	108
+red or far-red light signaling pathway	108
+phenylpropanoid metabolic process	108
+lipid storage	108
+ribosome biogenesis	107
+response to far red light	107
+UDP-glycosyltransferase activity	107
+--- 2015-06-04----
+signal transducer activity	106
+response to red light	106
+response to molecule of bacterial origin	106
+protein maturation	106
+positive regulation of flavonoid biosynthetic process	106
+intracellular	106
+response to temperature stimulus	105
+cellular cation homeostasis	105
+aerobic respiration	105
+very long-chain fatty acid metabolic process	104
+regulation of cell size	104
+pentacyclic triterpenoid biosynthetic process	104
+mitochondrial inner membrane presequence translocase complex	104
+lipid binding	104
+flower development	104
+auxin polar transport	104
+protein import into nucleus	102
+mitotic nuclear division	102
+glycine catabolic process	102
+chromatin assembly or disassembly	102
+meristem structural organization	101
+detection of biotic stimulus	101
+cell-cell signaling	101
+stamen development	100
+cellular amino acid biosynthetic process	100
+--- 2015-06-05----
+translation initiation factor activity	99
+xylem development	98
+trichoblast differentiation	98
+phosphorelay response regulator activity	98
+cytokinin biosynthetic process	98
+positive regulation of organelle organization	96
+integral component of mitochondrial outer membrane	96
+carbohydrate binding	96
+identical protein binding	95
+chloroplast photosystem II	95
+actin filament-based movement	95
+protein serine/threonine/tyrosine kinase activity	94
+nucleotide metabolic process	94
+intracellular protein transport	94
+auxin-activated signaling pathway	94
+RNA splicing	94
+ER to Golgi vesicle-mediated transport	94
+polysaccharide biosynthetic process	93
+multidimensional cell growth	93
+mitochondrial matrix	93
+innate immune response	93
+glucose catabolic process	93
+cellular protein modification process	93
+PSII associated light-harvesting complex II catabolic process	93
+sulfur amino acid metabolic process	92
+spindle assembly	92
+response to nematode	92
+production of siRNA involved in RNA interference	92
+plastid large ribosomal subunit	92
+mitochondrial proton-transporting ATP synthase complex	92
+defense response to bacterium, incompatible interaction	92
+actin filament organization	92
+sugar:proton symporter activity	91
+lateral root development	91
+response to other organism	90
+regulation of multi-organism process	90
+protein homodimerization activity	90
+nuclear division	90
+response to glucose	88
+response to brassinosteroid	88
+--- 2015-06-06----
+proteasome assembly	88
+plant-type vacuole	88
+mitochondrial membrane	88
+microtubule binding	88
+cotyledon development	88
+cell adhesion	88
+calcium-transporting ATPase activity	88
+peroxidase activity	87
+polarity specification of adaxial/abaxial axis	86
+plant-type hypersensitive response	86
+peptidyl-prolyl cis-trans isomerase activity	86
+hormone-mediated signaling pathway	86
+carpel development	86
+brassinosteroid mediated signaling pathway	86
+transferase activity	85
+--- 2015-06-07----
+small nucleolar ribonucleoprotein complex	85
+sodium ion transmembrane transport	84
+response to desiccation	84
+polyamine catabolic process	84
+MAP kinase activity	84
+response to gamma radiation	83
+divalent metal ion transport	83
+lipoate metabolic process	82
+aromatic amino acid family metabolic process	82
+xylem and phloem pattern formation	81
+response to xenobiotic stimulus	81
+protein sumoylation	81
+embryo sac development	81
+cell wall pectin metabolic process	81
+cell division	81
+trichome branching	80
+sulfur compound biosynthetic process	80
+oxidoreduction coenzyme metabolic process	80
+leaf senescence	80
+coenzyme biosynthetic process	80
+actin binding	80
+--- 2015-06-09----
+regulation of proton transport	79
+regulation of translation	78
+plant-type cell wall cellulose metabolic process	78
+cold acclimation	78
+calmodulin-dependent protein kinase activity	78
+pectinesterase activity	77
+protein heterodimerization activity	76
+proline transport	76
+plastid small ribosomal subunit	76
+para-aminobenzoic acid metabolic process	76
+mitochondrial respiratory chain complex III	76
+jasmonic acid metabolic process	76
+integral component of plasma membrane	76
+ATP-dependent helicase activity	76
+sequence-specific DNA binding	75
+positive regulation of cell proliferation	75
+polygalacturonase activity	75
+petal formation	75
+flavonoid biosynthetic process	75
+sepal formation	74
+purine nucleotide biosynthetic process	74
+negative regulation of abscisic acid-activated signaling pathway	74
+metal ion binding	74
+meristem maintenance	74
+floral organ formation	74
+amino acid import	74
+tRNA metabolic process	72
+shoot system development	72
+serine-type endopeptidase activity	72
+--- 2015-06-10----
+polar nucleus fusion	72
+mismatch repair	72
+defense response to insect	72
+cellular response to hypoxia	72
+cellular modified amino acid biosynthetic process	72
+abscisic acid biosynthetic process	72
+vegetative phase change	70
+terpenoid biosynthetic process	70
+microtubule motor activity	70
+intra-Golgi vesicle-mediated transport	70
+flower morphogenesis	70
+cation transport	70
+callose deposition in cell wall	70
+seed development	69
+peptidyl-proline modification	69
+mitochondrial outer membrane	68
+karyogamy	68
+glucosinolate metabolic process	68
+chiasma assembly	68
+anther development	68
+Golgi membrane	68
+regulation of hormone levels	67
+pectinesterase inhibitor activity	67
+generation of precursor metabolites and energy	67
+sphingoid biosynthetic process	66
+root epidermal cell differentiation	66
+peroxisome organization	66
+mediator complex	66
+transferase activity, transferring hexosyl groups	65
+translational termination	64
+regulation of anion channel activity	64
+regulation of G2/M transition of mitotic cell cycle	64
+negative regulation of MAP kinase activity	64
+glutathione transferase activity	64
+--- 2015-06-11----
+cyclin-dependent protein serine/threonine kinase activity	64
+cellulose metabolic process	64
+cell plate	64
+response to zinc ion	63
+protein transporter activity	63
+protein targeting to chloroplast	63
+plastid stroma	63
+cell wall biogenesis	63
+response to mechanical stimulus	62
+pollen tube development	62
+pollen sperm cell differentiation	62
+pattern specification process	62
+lipid metabolic process	62
+lipase activity	62
+calcium-mediated signaling	62
+peptidase activity	61
+cysteine-type peptidase activity	61
+cell death	61
+aging	61
+water channel activity	60
+positive regulation of translation	60
+peroxisomal membrane	60
+mitotic recombination	60
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	60
+long-chain fatty acid metabolic process	60
+fatty acid metabolic process	60
+exocyst	60
+cellular response to cold	60
+base-excision repair	60
+DNA-directed RNA polymerase activity	60
+DNA topological change	60
+acid phosphatase activity	59
+transferase activity, transferring acyl groups	58
+receptor serine/threonine kinase binding	58
+nuclear speck	58
+mRNA processing	58
+amino acid transmembrane transporter activity	58
+thylakoid lumen	57
+tRNA aminoacylation for protein translation	57
+regulation of DNA endoreduplication	57
+proteasome complex	57
+nuclear pore	57
+growth	57
+cellular response to salt stress	57
+auxin efflux	57
+DNA-templated transcription, initiation	57
+DNA recombination	57
+maintenance of meristem identity	56
+histone deacetylation	56
+cuticle development	56
+chromatin modification	56
+anthocyanin-containing compound biosynthetic process	56
+serine-type carboxypeptidase activity	55
+response to red or far red light	55
+carbohydrate biosynthetic process	55
+tryptophan biosynthetic process	54
+protein peptidyl-prolyl isomerization	54
+plastid chromosome	54
+electron carrier activity	54
+chromatin organization	54
+cell communication	54
+blue light signaling pathway	54
+biosynthetic process	54
+anaerobic respiration	54
+actin cytoskeleton organization	54
+transcription, DNA-templated	53
+pollen germination	53
+starch catabolic process	52
+plant-type cell wall modification involved in multidimensional cell growth	52
+negative regulation of ethylene-activated signaling pathway	52
+inositol phosphate dephosphorylation	52
+cortical microtubule organization	52
+RNA modification	52
+tricarboxylic acid cycle	51
+transcription from RNA polymerase II promoter	51
+root hair cell tip growth	51
+red, far-red light phototransduction	51
+protein acetylation	51
+photosynthetic electron transport chain	51
+developmental growth	51
+cell wall modification involved in abscission	51
+Golgi stack	51
+ubiquinone biosynthetic process	50
+trehalose biosynthetic process	50
+transcription factor import into nucleus	50
+response to insect	50
+peroxisome fission	50
+nucleoplasm	50
+nucleolus organization	50
+negative regulation of flower development	50
+chloroplast fission	50
+chlorophyll metabolic process	50
+cellular response to nitrogen starvation	50
+cellular amino acid metabolic process	50
+root morphogenesis	49
+regulation of seed germination	49
+primary shoot apical meristem specification	49
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors	49
+monooxygenase activity	49
+--- 2015-06-12----
+defense response by callose deposition	49
+GTPase activity	49
+regulation of stomatal movement	48
+regulation of cell proliferation	48
+regulation of cell cycle process	48
+protein histidine kinase activity	48
+peptidyl-cysteine S-nitrosylation	48
+oxidation-reduction process	48
+one-carbon metabolic process	48
+heme biosynthetic process	48
+defense response by callose deposition in cell wall	48
+cytokinin metabolic process	48
+tissue development	47
+sodium ion transport	47
+meristem development	47
+antiporter activity	47
+vesicle docking involved in exocytosis	46
+protein catabolic process	46
+peroxisome localization	46
+oxylipin biosynthetic process	46
+negative regulation of biological process	46
+mitochondrion localization	46
+cellulose synthase activity	46
+Golgi localization	46
+COP9 signalosome	46
+triglyceride lipase activity	45
+small ribosomal subunit	45
+--- 2015-06-13----
+secondary metabolic process	45
+plant-type secondary cell wall biogenesis	45
+mitochondrial transport	45
+lithium ion transport	45
+integral component of chloroplast outer membrane	45
+cobalt ion binding	45
+chromosome segregation	45
+cellular response to heat	45
+FK506 binding	45
+telomere maintenance	44
+seed maturation	44
+proteasome core complex	44
+pollen tube	44
+induced systemic resistance, jasmonic acid mediated signaling pathway	44
+dolichol biosynthetic process	44
+1-phosphatidylinositol-4-phosphate 5-kinase activity	44
+regulation of innate immune response	43
+wax biosynthetic process	42
+sulfate assimilation	42
+--- 2015-06-14----
+sodium:proton antiporter activity	42
+response to arsenic-containing substance	42
+regulation of cell division	42
+phosphorylation	42
+negative regulation of photomorphogenesis	42
+inositol trisphosphate metabolic process	42
+helicase activity	42
+floral organ abscission	42
+cellular response to DNA damage stimulus	42
+auxin biosynthetic process	42
+actin filament binding	42
+--- 2015-06-20----
+structural molecule activity	41
+regulation of protein localization	41
+regulation of circadian rhythm	41
+potassium ion transmembrane transporter activity	41
+positive regulation of flower development	41
+phosphatidylinositol binding	41
+cell fate specification	41
+vitamin metabolic process	40
+transmembrane transport	40
+stomatal movement	40
+response to symbiotic fungus	40
+response to ozone	40
+response to molecule of fungal origin	40
+regulation of gene expression by genetic imprinting	40
+plastid translation	40
+photosystem II repair	40
+photoinhibition	40
+nucleotide-sugar metabolic process	40
+nucleoid	40
+mitochondrial small ribosomal subunit	40
+meiotic mismatch repair	40
+long-day photoperiodism, flowering	40
+hydrolase activity, acting on glycosyl bonds	40
+embryonic pattern specification	40
+chromosome organization	40
+chlorophyll binding	40
+cellular response to nitric oxide	40
+D-xylose metabolic process	40
+--- 2015-06-21----
+transmembrane receptor protein serine/threonine kinase activity	39
+structural constituent of cytoskeleton	39
+regulation of translational initiation	39
+regulation of cell differentiation	39
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	39
+mitochondrial envelope	39
+clathrin vesicle coat	39
+sulfur compound metabolic process	38
+response to virus	38
+protein histidine kinase binding	38
+phospholipid biosynthetic process	38
+motor activity	38
+methyl-CpG binding	38
+male meiosis	38
+lateral root formation	38
+isoprenoid biosynthetic process	38
+covalent chromatin modification	38
+--- 2015-06-24----
+cellular response to sulfate starvation	38
+cellular response to light stimulus	38
+anion transport	38
+P-P-bond-hydrolysis-driven protein transmembrane transporter activity	38
+MAP kinase kinase activity	38
+DNA metabolic process	38
+ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism	38
+specification of floral organ identity	37
+response to reactive oxygen species	37
+response to absence of light	37
+response to UV	37
+--- 2015-06-25----
+purine nucleobase transmembrane transporter activity	37
+DNA mediated transformation	37
+sporopollenin biosynthetic process	36
+removal of superoxide radicals	36
+receptor activity	36
+reactive oxygen species metabolic process	36
+proton-transporting ATP synthase activity, rotational mechanism	36
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process	36
+protein secretion	36
+preprophase band	36
+positive regulation of abscisic acid-activated signaling pathway	36
+petal development	36
+hydrolase activity, acting on ester bonds	36
+histone H3-K4 methylation	36
+double fertilization forming a zygote and endosperm	36
+cytoplasmic mRNA processing body	36
+DNA unwinding involved in DNA replication	36
+ATP synthesis coupled proton transport	36
+--- 2015-06-26----
+nutrient reservoir activity	35
+lyase activity	35
+SCF ubiquitin ligase complex	35
+somatic cell DNA recombination	34
+response to superoxide	34
+--- 2015-06-30----
+regulation of pollen tube growth	34
+pyruvate kinase activity	34
+protein import into chloroplast stroma	34
+nucleosome assembly	34
+lignan biosynthetic process	34
+histone deacetylase activity	34
+fucosyltransferase activity	34
+fruit development	34
+defense response signaling pathway, resistance gene-dependent	34
+DNA-directed RNA polymerase V complex	34
+DNA-directed RNA polymerase II, core complex	34
+protein transport	33
+protein autoubiquitination	33
+potassium ion transport	33
+metal ion transport	33
+SNAP receptor activity	33
+transmembrane transporter activity	32
+--- 2015-07-01----
+post-embryonic development	32
+photosystem I assembly	32
+phospholipase D activity	32
+multicellular organism reproduction	32
+integral component of endoplasmic reticulum membrane	32
+histidine biosynthetic process	32
+glycerol metabolic process	32
+chromatin remodeling	32
+chloroplastic endopeptidase Clp complex	32
+chloroplast stromal thylakoid	32
+chloroplast nucleoid	32
+carpel morphogenesis	32
+apical plasma membrane	32
+CCAAT-binding factor complex	32
+regulation of mitotic cell cycle	31
+pseudouridine synthase activity	31
+positive regulation of cellular process	31
+organ senescence	31
+metal ion transmembrane transporter activity	31
+cellular response to iron ion	31
+ammonium transport	31
+S-adenosylmethionine-dependent methyltransferase activity	31
+N-acetyltransferase activity	31
+ubiquitin-specific protease activity	30
+triglyceride biosynthetic process	30
+spindle	30
+root hair cell development	30
+response to iron ion	30
+regulation of timing of transition from vegetative to reproductive phase	30
+regulation of organelle organization	30
+negative regulation of endopeptidase activity	30
+late endosome	30
+endoplasmic reticulum lumen	30
+endocytosis	30
+drug transmembrane transport	30
+chromatin binding	30
+chloroplast membrane	30
+chloroplast ATP synthase complex	30
+cation transmembrane transporter activity	30
+basic amino acid transport	30
+UDP-glucosyltransferase activity	30
+RNA-directed DNA methylation	30
+GPI anchor biosynthetic process	30
+DNA topoisomerase type II (ATP-hydrolyzing) activity	30
+--- 2015-07-02----
+translation elongation factor activity	29
+serine-type peptidase activity	29
+serine-type endopeptidase inhibitor activity	29
+phosphate ion transport	29
+phloem or xylem histogenesis	29
+metalloendopeptidase activity	29
+leaf vascular tissue pattern formation	29
+iron ion homeostasis	29
+intracellular membrane-bounded organelle	29
+cyclic nucleotide binding	29
+--- 2015-07-03----
+transmembrane receptor protein serine/threonine kinase binding	28
+transcription regulatory region DNA binding	28
+thylakoid membrane	28
+threonine catabolic process	28
+sphingolipid biosynthetic process	28
+sexual reproduction	28
+regulation of gene expression	28
+regulation of chlorophyll biosynthetic process	28
+polysaccharide catabolic process	28
+photosystem II oxygen evolving complex	28
+phenylpropanoid biosynthetic process	28
+pectate lyase activity	28
+nucleotide-excision repair	28
+monovalent cation:proton antiporter activity	28
+mitochondrial outer membrane translocase complex	28
+microtubule	28
+malate metabolic process	28
+induced systemic resistance	28
+glucosinolate catabolic process	28
+eukaryotic translation initiation factor 2B complex	28
+endonucleolytic cleavage involved in rRNA processing	28
+cytochrome-c oxidase activity	28
+actin filament bundle assembly	28
+acetyl-CoA biosynthetic process	28
+NAD(P)H dehydrogenase complex (plastoquinone)	28
+DNA-directed RNA polymerase IV complex	28
+DNA-dependent ATPase activity	28
+6-phosphofructokinase activity	28
+--- 2015-07-05----
+regulation of ion transport	27
+receptor binding	27
+positive gravitropism	27
+pollen tube guidance	27
+nucleotide transport	27
+mitochondrial electron transport, NADH to ubiquinone	27
+methyltransferase activity	27
+megagametogenesis	27
+histone acetyltransferase activity	27
+ESCRT III complex	27
+ER-associated ubiquitin-dependent protein catabolic process	27
+--- 2015-07-06----
+xyloglucan metabolic process	26
+sucrose biosynthetic process	26
+response to carbohydrate	26
+proline biosynthetic process	26
+oligopeptide transporter activity	26
+nuclear body	26
+mitochondrion organization	26
+maintenance of shoot apical meristem identity	26
+heterochromatin assembly	26
+glucuronoxylan biosynthetic process	26
+cellular response to oxidative stress	26
+camalexin biosynthetic process	26
+beta-galactosidase activity	26
+alkaloid biosynthetic process	26
+L-ascorbic acid biosynthetic process	26
+ATP-dependent peptidase activity	26
+(1->3)-beta-D-glucan biosynthetic process	26
+--- 2015-07-07----
+ubiquitin protein ligase binding	25
+transcription coactivator activity	25
+protein self-association	25
+polygalacturonate 4-alpha-galacturonosyltransferase activity	25
+metallopeptidase activity	25
+damaged DNA binding	25
+chloroplast photosystem I	25
+cellular calcium ion homeostasis	25
+Tic complex	25
+--- 2015-07-08----
+trans-Golgi network transport vesicle	24
+syncytium formation	24
+sulfotransferase activity	24
+response to ionizing radiation	24
+resolution of meiotic recombination intermediates	24
+regulation of reactive oxygen species metabolic process	24
+red light signaling pathway	24
+protein import into nucleus, docking	24
+posttranscriptional gene silencing	24
+porphyrin-containing compound biosynthetic process	24
+plastid outer membrane	24
+peptide biosynthetic process	24
+organ development	24
+nuclear chromatin	24
+--- 2015-07-09----
+mitochondrial mRNA modification	24
+mitochondrial large ribosomal subunit	24
+microtubule-based process	24
+histone acetylation	24
+diacylglycerol kinase activity	24
+defense response signaling pathway, resistance gene-independent	24
+cytokinin catabolic process	24
+cyclin-dependent protein serine/threonine kinase regulator activity	24
+auxin metabolic process	24
+Ran GTPase binding	24
+N-glycan processing	24
+Mo-molybdopterin cofactor biosynthetic process	24
+Golgi transport complex	24
+1,3-beta-D-glucan synthase complex	24
+--- 2015-07-10----
+response to copper ion	23
+respiratory chain complex I	23
+quercetin 3-O-glucosyltransferase activity	23
+post-embryonic morphogenesis	23
+histidine phosphotransfer kinase activity	23
+endosperm development	23
+developmental process	23
+basipetal auxin transport	23
+NADH dehydrogenase activity	23
+4-coumarate-CoA ligase activity	23
+1,3-beta-D-glucan synthase activity	23
+--- 2015-07-11----
+trichome differentiation	22
+suberin biosynthetic process	22
+spliceosomal complex	22
+single-stranded DNA binding	22
+signal recognition particle, endoplasmic reticulum targeting	22
+protein disulfide isomerase activity	22
+photosystem I reaction center	22
+nuclease activity	22
+nitrate assimilation	22
+mRNA binding	22
+hydrogen-exporting ATPase activity, phosphorylative mechanism	22
+hexokinase activity	22
+endomembrane system	22
+--- 2015-07-16----
+double-stranded RNA binding	22
+defense response to oomycetes	22
+cellular macromolecule catabolic process	22
+cell wall macromolecule catabolic process	22
+auxin homeostasis	22
+Group II intron splicing	22
+Cajal body	22
+ubiquitin ligase complex	21
+transmembrane receptor protein kinase activity	21
+shade avoidance	21
+root hair initiation	21
+rhamnogalacturonan II biosynthetic process	21
+regulation of shoot system development	21
+regulation of gene expression, epigenetic	21
+regulation of anthocyanin biosynthetic process	21
+regulation of DNA methylation	21
+pollen wall assembly	21
+plastid envelope	21
+photosynthetic electron transport in photosystem II	21
+organic anion transmembrane transporter activity	21
+nucleocytoplasmic transport	21
+mitochondrial intermembrane space	21
+mitochondrial electron transport, succinate to ubiquinone	21
+--- 2015-07-17----
+endosome membrane	21
+endosomal transport	21
+cotyledon vascular tissue pattern formation	21
+cellular zinc ion homeostasis	21
+cellular response to ethylene stimulus	21
+aminoacyl-tRNA ligase activity	21
+6-phosphofructokinase complex	21
+--- 2015-07-18----
+zinc ion transmembrane transporter activity	20
+zinc II ion transport	20
+very long-chain fatty acid biosynthetic process	20
+trans-Golgi network membrane	20
+thiamine biosynthetic process	20
+tRNA processing	20
+sucrose synthase activity	20
+spermidine biosynthetic process	20
+serine family amino acid metabolic process	20
+ribonuclease activity	20
+riboflavin biosynthetic process	20
+regulation of proteolysis	20
+regulation of glucosinolate biosynthetic process	20
+programmed cell death	20
+primary root development	20
+plasmodesmata-mediated intercellular transport	20
+phylloquinone biosynthetic process	20
+nucleus organization	20
+negative regulation of gibberellic acid mediated signaling pathway	20
+mitotic spindle assembly checkpoint	20
+mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	20
+maintenance of root meristem identity	20
+maintenance of inflorescence meristem identity	20
+maintenance of DNA repeat elements	20
+magnesium chelatase complex	20
+lignin metabolic process	20
+light-harvesting complex	20
+inward rectifier potassium channel activity	20
+--- 2016-06-01----
+intracellular ligand-gated ion channel activity	20
+integral component of cytoplasmic side of endoplasmic reticulum membrane	20
+inflorescence development	20
+induced systemic resistance, ethylene mediated signaling pathway	20
+histone H3-K9 demethylation	20
+fatty acid elongation	20
+double-strand break repair via synthesis-dependent strand annealing	20
+de-etiolation	20
+cortical microtubule	20
+chloroplast RNA processing	20
+cation:cation antiporter activity	20
+SCAR complex	20
+DNA-directed DNA polymerase activity	20
+COPI vesicle coat	20
+1-aminocyclopropane-1-carboxylate synthase activity	20
+transaminase activity	19
+root cap development	19
+reproductive structure development	19
+regulation of lipid metabolic process	19
+protein targeting	19
+protein kinase binding	19
+poly(U) RNA binding	19
+negative regulation of seed germination	19
+long-chain fatty acid-CoA ligase activity	19
+ion channel activity	19
+gamete generation	19
+--- 2016-06-02----
+enzyme activator activity	19
+double-stranded DNA binding	19
+detection of bacterium	19
+cysteine-type endopeptidase activity	19
+copper ion transport	19
+asymmetric cell division	19
+vitamin E biosynthetic process	18
+vitamin B6 biosynthetic process	18
+sugar transmembrane transporter activity	18
+reproduction	18
+regulation of systemic acquired resistance	18
+regulation of root meristem growth	18
+regulation of photomorphogenesis	18
+regulation of meristem structural organization	18
+regulation of catalytic activity	18
+proximal/distal pattern formation	18
+protein tyrosine/serine/threonine phosphatase activity	18
+protein phosphatase type 2A regulator activity	18
+protein import into chloroplast thylakoid membrane	18
+photosynthesis, light harvesting in photosystem II	18
+phosphatidate cytidylyltransferase activity	18
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	18
+nuclear membrane	18
+negative regulation of DNA endoreduplication	18
+myosin complex	18
+mucilage biosynthetic process involved in seed coat development	18
+lateral root morphogenesis	18
+isocitrate metabolic process	18
+guard cell differentiation	18
+galactokinase activity	18
+exonuclease activity	18
+eukaryotic translation initiation factor 3 complex	18
+epidermal cell differentiation	18
+early endosome	18
+detection of external stimulus	18
+cytidine deaminase activity	18
+cysteinyl-tRNA aminoacylation	18
+cysteine synthase activity	18
+cortical microtubule, transverse to long axis	18
+coenzyme A biosynthetic process	18
+clathrin binding	18
+chromatin silencing complex	18
+chloroplast avoidance movement	18
+cellular heat acclimation	18
+carbonate dehydratase activity	18
+anther dehiscence	18
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	18
+NADH dehydrogenase (ubiquinone) activity	18
+L-serine metabolic process	18
+L-phenylalanine biosynthetic process	18
+ESCRT I complex	18
+DNA catabolic process	18
+trehalose-phosphatase activity	17
+sulfate transmembrane transporter activity	17
+secondary shoot formation	17
+regionalization	17
+quercetin 7-O-glucosyltransferase activity	17
+petal morphogenesis	17
+nitrogen compound metabolic process	17
+histone binding	17
+floral whorl development	17
+floral organ morphogenesis	17
+epidermal cell fate specification	17
+endonuclease activity	17
+copper ion transmembrane transporter activity	17
+cellular response to abscisic acid stimulus	17
+cellular iron ion homeostasis	17
+acetylglucosaminyltransferase activity	17
+UDP-glucose 4-epimerase activity	17
+3'-5'-exoribonuclease activity	17
+ureide catabolic process	16
+ubiquinol-cytochrome-c reductase activity	16
+synaptonemal complex	16
+structural constituent of cell wall	16
+stomatal complex development	16
+seed coat development	16
+regulation of secondary cell wall biogenesis	16
+regulation of anthocyanin metabolic process	16
+purine nucleobase catabolic process	16
+proteasome regulatory particle, base subcomplex	16
+plastid thylakoid membrane	16
+photoreactive repair	16
+osmosensory signaling pathway	16
+nucleotidyltransferase activity	16
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	16
+nitrate transmembrane transporter activity	16
+mitochondrial respiratory chain complex IV	16
+maintenance of floral meristem identity	16
+lysine biosynthetic process via diaminopimelate	16
+leucine biosynthetic process	16
+jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	16
+jasmonic acid and ethylene-dependent systemic resistance	16
+integral component of Golgi membrane	16
+inorganic phosphate transmembrane transporter activity	16
+hydrogen-translocating pyrophosphatase activity	16
+histone H3-K36 methylation	16
+histone H3 acetylation	16
+histone H2B ubiquitination	16
+glycine metabolic process	16
+glutamate-ammonia ligase activity	16
+glucose-1-phosphate adenylyltransferase activity	16
+floral meristem determinacy	16
+extrinsic component of endoplasmic reticulum membrane	16
+extracellular space	16
+diphosphate-fructose-6-phosphate 1-phosphotransferase activity	16
+cytidine deamination	16
+condensed nuclear chromosome	16
+chloroplast ribulose bisphosphate carboxylase complex	16
+chitinase activity	16
+cellular response to high light intensity	16
+actin cytoskeleton	16
+acropetal auxin transport	16
+U2 snRNP	16
+NAD biosynthetic process	16
+NAD binding	16
+FMN binding	16
+3-chloroallyl aldehyde dehydrogenase activity	16
+translation release factor activity	15
+suspensor development	15
+regulation of immune response	15
+protein targeting to peroxisome	15
+protein phosphatase type 2A complex	15
+protein glutathionylation	15
+protein deneddylation	15
+protein complex	15
+positive regulation of seed germination	15
+poly(A)+ mRNA export from nucleus	15
+phototropism	15
+photosystem II stabilization	15
+photosynthesis, light harvesting in photosystem I	15
+phosphoprotein phosphatase activity	15
+outward rectifier potassium channel activity	15
+nucleoside transmembrane transporter activity	15
+negative regulation of translation	15
+negative regulation of sequence-specific DNA binding transcription factor activity	15
+negative regulation of DNA recombination	15
+mitochondrial electron transport, ubiquinol to cytochrome c	15
+misfolded or incompletely synthesized protein catabolic process	15
+integral component of chloroplast inner membrane	15
+glycerophosphodiester phosphodiesterase activity	15
+farnesyltranstransferase activity	15
+extrinsic component of cytoplasmic side of plasma membrane	15
+endoribonuclease activity	15
+endoplasmic reticulum tubular network	15
+cyclin-dependent protein serine/threonine kinase inhibitor activity	15
+cinnamyl-alcohol dehydrogenase activity	15
+chromatin	15
+beta-amylase activity	15
+Rho guanyl-nucleotide exchange factor activity	15
+PSII associated light-harvesting complex II	15
+N-terminal protein amino acid modification	15
+ER-nucleus signaling pathway	15
+transcription factor binding	14
+tRNA splicing, via endonucleolytic cleavage and ligation	14
+superoxide dismutase activity	14
+steroid metabolic process	14
+second-messenger-mediated signaling	14
+salicylic acid metabolic process	14
+response to aluminum ion	14
+regulation of salicylic acid metabolic process	14
+regulation of cell growth	14
+regulation of auxin mediated signaling pathway	14
+rRNA methylation	14
+proton-transporting ATPase activity, rotational mechanism	14
+proton transport	14
+protein storage vacuole	14
+protein phosphorylated amino acid binding	14
+potassium:proton antiporter activity	14
+posttranscriptional gene silencing by RNA	14
+post-embryonic root development	14
+plastoquinone biosynthetic process	14
+phosphorelay signal transduction system	14
+phospholipid catabolic process	14
+phosphate ion transmembrane transporter activity	14
+phosphatase activity	14
+peptide-methionine (S)-S-oxide reductase activity	14
+pantothenate biosynthetic process	14
+nucleoside diphosphate kinase activity	14
+multivesicular body	14
+microgametogenesis	14
+manganese ion transport	14
+maintenance of floral organ identity	14
+mRNA cis splicing, via spliceosome	14
+indole glucosinolate biosynthetic process	14
+gynoecium development	14
+glucuronosyltransferase activity	14
+galactose metabolic process	14
+folic acid-containing compound biosynthetic process	14
+ferric-chelate reductase activity	14
+cytokinin dehydrogenase activity	14
+cellular response to sulfur starvation	14
+cellular response to starvation	14
+cellular response to blue light	14
+cellular lipid catabolic process	14
+carotene biosynthetic process	14
+box C/D snoRNP complex	14
+beta-fructofuranosidase activity	14
+auxin:proton symporter activity	14
+arsenate reductase (glutaredoxin) activity	14
+arginine biosynthetic process	14
+anion:anion antiporter activity	14
+anaphase-promoting complex	14
+RNA metabolic process	14
+MAP kinase kinase kinase activity	14
+ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process	14
+4-alpha-glucanotransferase activity	14
+1-phosphatidylinositol 4-kinase activity	14
+1-aminocyclopropane-1-carboxylate oxidase activity	14
+tubulin complex	13
+strictosidine synthase activity	13
+regulation of programmed cell death	13
+raffinose family oligosaccharide biosynthetic process	13
+positive regulation of cell cycle	13
+magnesium ion binding	13
+iron ion transmembrane transporter activity	13
+heme binding	13
+guanyl-nucleotide exchange factor activity	13
+fatty-acyl-CoA binding	13
+cell redox homeostasis	13
+cadmium ion transport	13
+beta-glucosidase activity	13
+alpha-mannosidase activity	13
+acyl-CoA hydrolase activity	13
+L-ascorbate peroxidase activity	13
+3'-5' exonuclease activity	13
+xyloglucan:xyloglucosyl transferase activity	12
+xyloglucan biosynthetic process	12
+xanthophyll biosynthetic process	12
+voltage-gated anion channel activity	12
+vacuolar protein processing	12
+trichome patterning	12
+translation factor activity, nucleic acid binding	12
+telomere maintenance via telomerase	12
+telomere capping	12
+tRNA modification	12
+sucrose:proton symporter activity	12
+sucrose metabolic process	12
+sphingolipid metabolic process	12
+skotomorphogenesis	12
+shoot system morphogenesis	12
+sesquiterpenoid biosynthetic process	12
+seedling development	12
+ribosomal small subunit assembly	12
+regulation of transport	12
+regulation of response to DNA damage stimulus	12
+regulation of phenylpropanoid metabolic process	12
+regulation of jasmonic acid mediated signaling pathway	12
+regulation of chromatin silencing	12
+regulation of MAP kinase activity	12
+regulation of DNA repair	12
+reductive pentose-phosphate cycle	12
+receptor signaling protein serine/threonine kinase activity	12
+pyrimidine dimer repair	12
+purine ribonucleotide biosynthetic process	12
+protein phosphatase type 1 complex	12
+protein monoubiquitination	12
+protein ADP-ribosylation	12
+proteasome regulatory particle, lid subcomplex	12
+proanthocyanidin biosynthetic process	12
+potassium ion import	12
+positive regulation of programmed cell death	12
+positive regulation of methylation-dependent chromatin silencing	12
+positive regulation of gibberellic acid mediated signaling pathway	12
+pollen tube tip	12
+pollen maturation	12
+plastid nucleoid	12
+plastid inner membrane	12
+phragmoplast assembly	12
+phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	12
+phosphatidylcholine biosynthetic process	12
+phosphatidate phosphatase activity	12
+pentose-phosphate shunt, oxidative branch	12
+pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	12
+pantothenate kinase activity	12
+oxysterol binding	12
+oxidation-dependent protein catabolic process	12
+non-photoreactive DNA repair	12
+mitochondrial respiratory chain	12
+mitochondrial nucleoid	12
+megasporogenesis	12
+magnesium ion transmembrane transporter activity	12
+mRNA polyadenylation	12
+mRNA cleavage involved in gene silencing by miRNA	12
+lipid oxidation	12
+leucine catabolic process	12
+intrinsic component of mitochondrial inner membrane	12
+integral component of peroxisomal membrane	12
+indole glucosinolate metabolic process	12
+histone peptidyl-prolyl isomerization	12
+histone H3-K27 methylation	12
+glycoprotein catabolic process	12
+glycine decarboxylation via glycine cleavage system	12
+glycine cleavage complex	12
+glutathione metabolic process	12
+glutamyl-tRNA aminoacylation	12
+glucose metabolic process	12
+glucose mediated signaling pathway	12
+gibberellin catabolic process	12
+extrinsic component of mitochondrial inner membrane	12
+extracellular matrix	12
+endoplasmic reticulum tubular network organization	12
+endopeptidase activity	12
+diacylglycerol O-acyltransferase activity	12
+defense response to Gram-negative bacterium	12
+cutin biosynthetic process	12
+core promoter proximal region sequence-specific DNA binding	12
+chromatin DNA binding	12
+chloroplast accumulation movement	12
+central vacuole	12
+cell wall pectin biosynthetic process	12
+cell plate formation involved in plant-type cell wall biogenesis	12
+calcium-dependent phospholipid binding	12
+ammonium transmembrane transporter activity	12
+aldo-keto reductase (NADP) activity	12
+alcohol dehydrogenase (NAD) activity	12
+adenylate kinase activity	12
+acyl-CoA oxidase activity	12
+actin filament polymerization	12
+SUMO activating enzyme activity	12
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	12
+RNA-dependent DNA replication	12
+RNA helicase activity	12
+NAD+ kinase activity	12
+L-serine biosynthetic process	12
+DNA methylation on cytosine	12
+C-terminal protein methylation	12
+Arp2/3 protein complex	12
+ATP:ADP antiporter activity	12
+AMP binding	12
+3'(2'),5'-bisphosphate nucleotidase activity	12
+1-phosphatidylinositol-3-phosphate 5-kinase activity	12
+tryptophan synthase activity	11
+thioglucosidase activity	11
+sucrose transmembrane transporter activity	11
+sodium ion transmembrane transporter activity	11
+single-stranded RNA binding	11
+response to starvation	11
+protein polymerization	11
+primary amine oxidase activity	11
+phosphatidylcholine 1-acylhydrolase activity	11
+methylated histone binding	11
+manganese ion transmembrane transporter activity	11
+heme oxygenase (decyclizing) activity	11
+glutathione peroxidase activity	11
+glucose-6-phosphate dehydrogenase activity	11
+chromosome	11
+anatomical structure morphogenesis	11
+alternative oxidase activity	11
+aldose 1-epimerase activity	11
+DNA N-glycosylase activity	11
+ARF guanyl-nucleotide exchange factor activity	11
+AMP dimethylallyltransferase activity	11
+9-cis-epoxycarotenoid dioxygenase activity	11
+voltage-gated potassium channel complex	10
+ubiquitin binding	10
+tyrosine biosynthetic process	10
+tubulin complex assembly	10
+transport of virus in multicellular host	10
+sucrose catabolic process	10
+stomatal closure	10
+somatic embryogenesis	10
+serine O-acetyltransferase activity	10
+ribonuclease III activity	10
+retromer complex	10
+response to light intensity	10
+regulation of stomatal closure	10
+regulation of starch metabolic process	10
+regulation of salicylic acid mediated signaling pathway	10
+regulation of photosynthesis	10
+regulation of ethylene biosynthetic process	10
+regulation of defense response to fungus	10
+regulation of cytokinin-activated signaling pathway	10
+regulation of cell shape	10
+regulation of abscisic acid-activated signaling pathway	10
+regulation of RNA splicing	10
+regulation of RNA biosynthetic process	10
+rRNA export from nucleus	10
+protein transmembrane transporter activity	10
+protein kinase C-activating G-protein coupled receptor signaling pathway	10
+protein homooligomerization	10
+procambium histogenesis	10
+primary miRNA processing	10
+positive regulation of fatty acid biosynthetic process	10
+positive regulation of actin nucleation	10
+polyamine transmembrane transporter activity	10
+poly(A) binding	10
+photosystem stoichiometry adjustment	10
+photosystem II reaction center	10
+photosystem II	10
+photosystem I	10
+photoperiodism	10
+phospholipase C activity	10
+phospholipase A2 activity	10
+phosphate ion homeostasis	10
+phloem transport	10
+perinuclear region of cytoplasm	10
+organ growth	10
+nucleotide-sugar transport	10
+nucleosome	10
+nucleoside metabolic process	10
+nuclear periphery	10
+nuclear heterochromatin	10
+nuclear chromosome	10
+nitrile biosynthetic process	10
+nitric oxide biosynthetic process	10
+negative regulation of gene expression, epigenetic	10
+negative gravitropism	10
+mucilage biosynthetic process	10
+mitochondrial fission	10
+microtubule polymerization	10
+miRNA catabolic process	10
+mRNA cleavage and polyadenylation specificity factor complex	10
+lipid X metabolic process	10
+isocitrate dehydrogenase (NAD+) activity	10
+isoamylase activity	10
+inositol biosynthetic process	10
+inorganic anion transport	10
+inorganic anion transmembrane transporter activity	10
+indolebutyric acid metabolic process	10
+hydrogen peroxide transmembrane transport	10
+guanylate kinase activity	10
+glycolipid biosynthetic process	10
+glycine hydroxymethyltransferase activity	10
+glutathione catabolic process	10
+glutathione biosynthetic process	10
+glutathione binding	10
+gametophyte development	10
+fruit dehiscence	10
+flavonol biosynthetic process	10
+flavin adenine dinucleotide binding	10
+female meiotic division	10
+farnesyl diphosphate biosynthetic process	10
+extrinsic component of membrane	10
+deadenylation-independent decapping of nuclear-transcribed mRNA	10
+cytoskeleton	10
+cytidine to uridine editing	10
+citrate lyase complex	10
+cinnamoyl-CoA reductase activity	10
+cellular response to sucrose starvation	10
+cellular response to UV-B	10
+cell-cell junction assembly	10
+cell surface	10
+cell plate assembly	10
+cell cortex	10
+calcium:proton antiporter activity	10
+calcium channel activity	10
+brassinosteroid metabolic process	10
+biotin biosynthetic process	10
+autophagy in response to ER overload	10
+aspartate kinase activity	10
+aspartate family amino acid biosynthetic process	10
+asparagine biosynthetic process	10
+antioxidant activity	10
+amino acid binding	10
+alpha-amylase activity	10
+adenine salvage	10
+adenine phosphoribosyltransferase activity	10
+actin filament capping	10
+actin filament	10
+abscisic acid metabolic process	10
+UDP-xylosyltransferase activity	10
+UDP-rhamnose biosynthetic process	10
+UDP-glucose 6-dehydrogenase activity	10
+ER body organization	10
+ER body	10
+7-methylguanosine mRNA capping	10
+transcription cofactor activity	9
+threonyl-tRNA aminoacylation	9
+thiosulfate sulfurtransferase activity	9
+sulfate transport	9
+sucrose transport	9
+stem cell maintenance	9
+snRNA transcription	9
+signal peptide processing	9
+serine C-palmitoyltransferase activity	9
+response to water	9
+response to hormone	9
+respiratory electron transport chain	9
+regulation of trichome morphogenesis	9
+regulation of meristem development	9
+proteolysis involved in cellular protein catabolic process	9
+protein targeting to plasma membrane	9
+protein prenylation	9
+protein palmitoylation	9
+protein import into mitochondrial inner membrane	9
+protein geranylgeranylation	9
+production of siRNA involved in chromatin silencing by small RNA	9
+positive regulation of telomerase activity	9
+positive regulation of DNA endoreduplication	9
+polysaccharide binding	9
+phyllome development	9
+photosystem I stabilization	9
+photosynthesis, light harvesting	9
+phosphoric diester hydrolase activity	9
+phosphatidylinositol-3,5-bisphosphate binding	9
+phosphatidic acid binding	9
+phenylalanyl-tRNA aminoacylation	9
+peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	9
+nucleotide-sugar transmembrane transporter activity	9
+nonphotochemical quenching	9
+mitochondrial ATP synthesis coupled proton transport	9
+inorganic diphosphatase activity	9
+immune response	9
+homogalacturonan biosynthetic process	9
+glutathione gamma-glutamylcysteinyltransferase activity	9
+floral organ development	9
+flavonol synthase activity	9
+far-red light signaling pathway	9
+dimethylallyltranstransferase activity	9
+chloride transport	9
+chitin binding	9
+chaperone-mediated protein folding	9
+cellular response to nitrogen levels	9
+cellular metal ion homeostasis	9
+cell periphery	9
+cation channel activity	9
+catalase activity	9
+calcium-dependent protein serine/threonine phosphatase activity	9
+auxin mediated signaling pathway involved in phyllotactic patterning	9
+auxin binding	9
+aldehyde dehydrogenase (NAD) activity	9
+UDP-glucuronate decarboxylase activity	9
+SUMO transferase activity	9
+RNA methyltransferase activity	9
+ESCRT II complex	9
+DNA methylation on cytosine within a CG sequence	9
+DNA demethylation	9
+ATP-dependent RNA helicase activity	9
+8-methylthiopropyl glucosinolate S-oxygenase activity	9
+4-methylthiopropyl glucosinolate S-oxygenase activity	9
+uridylate kinase activity	8
+uracil phosphoribosyltransferase activity	8
+tyrosine catabolic process	8
+triose phosphate transmembrane transport	8
+transport of virus in host, cell to cell	8
+trans-Golgi network transport vesicle membrane	8
+thiamine metabolic process	8
+tetrapyrrole biosynthetic process	8
+tRNA 3'-end processing	8
+sterol metabolic process	8
+stamen filament development	8
+sigma factor activity	8
+short-day photoperiodism, flowering	8
+shikimate metabolic process	8
+selenium compound metabolic process	8
+secretion by cell	8
+response to metal ion	8
+response to mannitol	8
+response to herbivore	8
+response to cation stress	8
+regulation of protein serine/threonine phosphatase activity	8
+regulation of jasmonic acid biosynthetic process	8
+regulation of gene silencing by miRNA	8
+regulation of fatty acid beta-oxidation	8
+regulation of double fertilization forming a zygote and endosperm	8
+regulation of amino acid export	8
+quercetin 4'-O-glucosyltransferase activity	8
+pyruvate dehydrogenase (acetyl-transferring) activity	8
+pyridoxine biosynthetic process	8
+purine ribonucleotide metabolic process	8
+purine nucleobase biosynthetic process	8
+protein dimerization activity	8
+protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity	8
+proteasome binding	8
+proline catabolic process	8
+preprophase band assembly	8
+pre-miRNA export from nucleus	8
+positive regulation of meiotic nuclear division	8
+positive regulation of long-day photoperiodism, flowering	8
+positive regulation of histone H3-K9 methylation	8
+positive regulation of histone H3-K9 dimethylation	8
+positive regulation of histone H3-K4 methylation	8
+positive regulation of histone H3-K27 methylation	8
+positive regulation of development, heterochronic	8
+positive regulation of cell size	8
+positive regulation of DNA repair	8
+polyamine biosynthetic process	8
+plastid ribosome	8
+plastid membrane	8
+plastid fission	8
+plastid DNA replication	8
+phytochelatin biosynthetic process	8
+photosystem II oxygen evolving complex assembly	8
+phosphogluconate dehydrogenase (decarboxylating) activity	8
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	8
+organ formation	8
+oligosaccharyltransferase complex	8
+nucleoside phosphate metabolic process	8
+nucleobase-containing compound metabolic process	8
+nuclear euchromatin	8
+nicotianamine biosynthetic process	8
+negative regulation of short-day photoperiodism, flowering	8
+negative regulation of reciprocal meiotic recombination	8
+negative regulation of long-day photoperiodism, flowering	8
+negative regulation of histone acetylation	8
+negative regulation of cell growth	8
+negative regulation of actin filament depolymerization	8
+negative regulation of DNA repair	8
+monoterpenoid biosynthetic process	8
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	8
+mitochondrial light strand promoter anti-sense binding	8
+mitochondrial genome maintenance	8
+mitochondrial DNA replication	8
+microtubule minus-end binding	8
+methyl indole-3-acetate esterase activity	8
+methionine metabolic process	8
+meiotic DNA double-strand break processing	8
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8
+malate transmembrane transport	8
+malate dehydrogenase activity	8
+maintenance of chromatin silencing	8
+maintenance of DNA methylation	8
+longitudinal axis specification	8
+linoleate 13S-lipoxygenase activity	8
+jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway	8
+isopentenyl diphosphate biosynthetic process, mevalonate pathway	8
+integral component of plastid membrane	8
+inositol-3-phosphate synthase activity	8
+hydroxyacylglutathione hydrolase activity	8
+histone monoubiquitination	8
+histone H4-R3 methylation	8
+histone H4 acetylation	8
+histone H3-R26 methylation	8
+histone H3-R2 methylation	8
+histone H3-R17 methylation	8
+high-affinity potassium ion import	8
+growth factor activity	8
+glycosylceramide catabolic process	8
+glycerophosphate shuttle	8
+glycerolipid biosynthetic process	8
+glycerol-3-phosphate metabolic process	8
+glycerol-3-phosphate dehydrogenase complex	8
+glycerol-3-phosphate dehydrogenase [NAD+] activity	8
+glycerol catabolic process	8
+glutamate biosynthetic process	8
+glucose 1-phosphate metabolic process	8
+glucokinase activity	8
+gibberellin mediated signaling pathway	8
+gibberellin 20-oxidase activity	8
+galactolipid metabolic process	8
+galactolipase activity	8
+folic acid-containing compound metabolic process	8
+fatty acid elongase complex	8
+external side of plasma membrane	8
+eukaryotic translation elongation factor 1 complex	8
+error-prone translesion synthesis	8
+enzyme binding	8
+endoplasmic reticulum organization	8
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8
+embryo sac cellularization	8
+efflux transmembrane transporter activity	8
+drought recovery	8
+double-strand break repair via nonhomologous end joining	8
+diacylglycerol biosynthetic process	8
+dephosphorylation	8
+cytoplasmic side of plasma membrane	8
+cytochrome b6f complex assembly	8
+cysteine-type endopeptidase inhibitor activity	8
+cortical cytoskeleton organization	8
+citrate (Si)-synthase activity	8
+chorismate biosynthetic process	8
+chloroplast-nucleus signaling pathway	8
+chloroplast rRNA processing	8
+cellulose microfibril organization	8
+cellular response to unfolded protein	8
+cellular response to molecule of bacterial origin	8
+cellular response to light intensity	8
+cellular response to UV-A	8
+cellular phosphate ion homeostasis	8
+branched-chain amino acid biosynthetic process	8
+asparagine catabolic process via L-aspartate	8
+arsenate ion transmembrane transport	8
+anthocyanin-containing compound metabolic process	8
+amyloplast organization	8
+ammonia assimilation cycle	8
+alpha-galactosidase activity	8
+alkane biosynthetic process	8
+alkane 1-monooxygenase activity	8
+aldehyde-lyase activity	8
+acyl-[acyl-carrier-protein] desaturase activity	8
+acetyl-CoA carboxylase activity	8
+abscisic acid binding	8
+UDP-glucuronate biosynthetic process	8
+UDP-L-arabinose metabolic process	8
+SWI/SNF complex	8
+SUMO-specific protease activity	8
+SOS response	8
+S-methyl-5-thioribose kinase activity	8
+S-adenosylmethionine biosynthetic process	8
+PRC1 complex	8
+MutSalpha complex	8
+L-methionine biosynthetic process from methylthioadenosine	8
+L-aspartate:2-oxoglutarate aminotransferase activity	8
+L-alanine:2-oxoglutarate aminotransferase activity	8
+GTPase binding	8
+G-protein beta/gamma-subunit complex binding	8
+DNA-(apurinic or apyrimidinic site) lyase activity	8
+DNA topoisomerase complex (ATP-hydrolyzing)	8
+DNA duplex unwinding	8
+ATP hydrolysis coupled proton transport	8
+voltage-gated chloride channel activity	7
+vacuolar transport	7
+transmembrane signaling receptor activity	7
+thioredoxin-disulfide reductase activity	7
+succinate dehydrogenase activity	7
+stem vascular tissue pattern formation	7
+spindle microtubule	7
+sepal development	7
+ribosomal small subunit biogenesis	7
+ribonuclease P activity	7
+retrograde vesicle-mediated transport, Golgi to ER	7
+response to lead ion	7
+regulation of seed growth	7
+regulation of carbohydrate metabolic process	7
+protease binding	7
+positive regulation of gene expression	7
+positive regulation of circadian rhythm	7
+polyamine oxidase activity	7
+phosphoribosylanthranilate isomerase activity	7
+phospholipid binding	7
+phosphoglucomutase activity	7
+phosphatidylserine decarboxylase activity	7
+phosphatidylinositol transporter activity	7
+phosphatidylethanolamine binding	7
+phosphatidylcholine-sterol O-acyltransferase activity	7
+palmitoyl-(protein) hydrolase activity	7
+oxidoreductase activity, acting on the CH-CH group of donors	7
+origin recognition complex	7
+organ boundary specification between lateral organs and the meristem	7
+negative regulation of cellular process	7
+monosaccharide transmembrane transporter activity	7
+mismatched DNA binding	7
+male gamete generation	7
+lupeol synthase activity	7
+lipid biosynthetic process	7
+leaf shaping	7
+lactoylglutathione lyase activity	7
+integument development	7
+glycolate oxidase activity	7
+glycine dehydrogenase (decarboxylating) activity	7
+glutathione dehydrogenase (ascorbate) activity	7
+formation of organ boundary	7
+farnesyl-diphosphate farnesyltransferase activity	7
+epoxide hydrolase activity	7
+endopeptidase inhibitor activity	7
+developmental process involved in reproduction	7
+detection of calcium ion	7
+dehydrodolichyl diphosphate synthase activity	7
+cellular response to auxin stimulus	7
+cellular developmental process	7
+cellular copper ion homeostasis	7
+calcium:cation antiporter activity	7
+beta-glucuronidase activity	7
+auxin influx transmembrane transporter activity	7
+anthranilate synthase activity	7
+amylopectin biosynthetic process	7
+aminopeptidase activity	7
+amine transmembrane transporter activity	7
+alanine-glyoxylate transaminase activity	7
+adaxial/abaxial pattern specification	7
+abaxial cell fate specification	7
+RNA polymerase binding	7
+NADPH dehydrogenase activity	7
+L-tyrosine:2-oxoglutarate aminotransferase activity	7
+Golgi to vacuole transport	7
+DNA-3-methyladenine glycosylase activity	7
+DNA ligase (ATP) activity	7
+D-erythro-sphingosine kinase activity	7
+C-4 methylsterol oxidase activity	7
+ATP transmembrane transporter activity	7
+ATP dimethylallyltransferase activity	7
+ADP dimethylallyltransferase activity	7
+12-oxophytodienoate reductase activity	7
+(E)-beta-ocimene synthase activity	7
+zygote elongation	6
+xylulokinase activity	6
+xylosyltransferase activity	6
+xyloglucan endotransglucosylase activity	6
+xylan metabolic process	6
+xylan catabolic process	6
+xylan 1,4-beta-xylosidase activity	6
+xanthophyll metabolic process	6
+xanthophyll catabolic process	6
+vesicle	6
+vacuolar lumen	6
+urea transmembrane transporter activity	6
+uracil catabolic process	6
+tubulin binding	6
+triterpenoid biosynthetic process	6
+transferase activity, transferring phosphorus-containing groups	6
+transcription initiation from RNA polymerase II promoter	6
+transcription factor TFIIE complex	6
+transcription factor TFIID complex	6
+threonine biosynthetic process	6
+thioredoxin biosynthetic process	6
+thalianol metabolic process	6
+tetrahydrofolylpolyglutamate synthase activity	6
+tetrahydrofolate metabolic process	6
+telomeric DNA binding	6
+tRNA wobble uridine modification	6
+tRNA export from nucleus	6
+sulfate adenylyltransferase (ATP) activity	6
+sucrose alpha-glucosidase activity	6
+succinate dehydrogenase complex	6
+stomatal complex patterning	6
+sterol esterification	6
+singlet oxygen-mediated programmed cell death	6
+shikimate kinase activity	6
+seryl-tRNA aminoacylation	6
+seed oilbody biogenesis	6
+retrograde transport, endosome to Golgi	6
+response to toxic substance	6
+response to singlet oxygen	6
+response to microbial phytotoxin	6
+response to manganese ion	6
+response to X-ray	6
+regulation of transcription from RNA polymerase II promoter	6
+regulation of stomatal complex development	6
+regulation of starch biosynthetic process	6
+regulation of secondary shoot formation	6
+regulation of salicylic acid biosynthetic process	6
+regulation of response to water deprivation	6
+regulation of proanthocyanidin biosynthetic process	6
+regulation of phosphorylation	6
+regulation of phosphate transmembrane transport	6
+regulation of pH	6
+regulation of meiosis	6
+regulation of leaf development	6
+regulation of gibberellin biosynthetic process	6
+regulation of exocytosis	6
+regulation of ethylene-activated signaling pathway	6
+regulation of epidermal cell differentiation	6
+regulation of defense response to fungus, incompatible interaction	6
+regulation of cyclin-dependent protein serine/threonine kinase activity	6
+regulation of chlorophyll catabolic process	6
+regulation of cellular amino acid metabolic process	6
+regulation of auxin polar transport	6
+regulation of auxin biosynthetic process	6
+regulation of abscisic acid biosynthetic process	6
+regulation of DNA-templated transcription, elongation	6
+radial pattern formation	6
+rRNA transcription	6
+pyruvate decarboxylase activity	6
+pyrophosphatase activity	6
+pyridine nucleotide biosynthetic process	6
+proton-transporting ATP synthase complex	6
+protein tyrosine kinase activity	6
+protein stabilization	6
+protein processing	6
+protein polyubiquitination	6
+protein neddylation	6
+protein myristoylation	6
+protein kinase CK2 complex	6
+protein deglycosylation	6
+protein complex assembly	6
+protein binding, bridging	6
+protein arginylation	6
+protein O-linked glycosylation	6
+protein N-linked glycosylation via asparagine	6
+protein K63-linked deubiquitination	6
+protein K48-linked deubiquitination	6
+production of lsiRNA involved in RNA interference	6
+prephenate dehydratase activity	6
+potassium ion homeostasis	6
+positive regulation of vernalization response	6
+positive regulation of protein catabolic process	6
+positive regulation of plant-type hypersensitive response	6
+positive regulation of microtubule depolymerization	6
+positive regulation of cellular response to phosphate starvation	6
+positive regulation of cell growth	6
+positive regulation of GTPase activity	6
+polar nucleus	6
+plastid sigma factor activity	6
+plasmodesma organization	6
+phytochromobilin biosynthetic process	6
+phycobilisome	6
+phragmoplast microtubule organization	6
+photosynthetic acclimation	6
+photoprotection	6
+phosphopyruvate hydratase activity	6
+phospholipid metabolic process	6
+phospholipase activity	6
+phospholipase activator activity	6
+phosphoglycerate transport	6
+phosphoglycerate transmembrane transporter activity	6
+phosphoglycerate kinase activity	6
+phosphoenolpyruvate carboxylase activity	6
+phosphatidylserine biosynthetic process	6
+phosphatidylinositol metabolic process	6
+phenylalanine ammonia-lyase activity	6
+peroxisomal matrix	6
+peptide receptor activity	6
+pectin biosynthetic process	6
+oxylipin metabolic process	6
+oxoglutarate:malate antiporter activity	6
+oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor	6
+oxidoreductase activity, acting on NAD(P)H	6
+oxidative phosphorylation uncoupler activity	6
+organic cation transport	6
+nucleotide-sugar biosynthetic process	6
+nuclear-transcribed mRNA poly(A) tail shortening	6
+nuclear outer membrane	6
+nuclear matrix	6
+nuclear dicing body	6
+negative regulation of transposition, DNA-mediated	6
+negative regulation of translational initiation	6
+negative regulation of systemic acquired resistance	6
+negative regulation of response to water deprivation	6
+negative regulation of reductive pentose-phosphate cycle	6
+negative regulation of plant-type hypersensitive response	6
+negative regulation of cytokinin-activated signaling pathway	6
+negative regulation of autophagy	6
+multivesicular body membrane	6
+mucilage metabolic process involved in seed coat development	6
+monoterpene biosynthetic process	6
+monopolar cell growth	6
+molybdenum incorporation into molybdenum-molybdopterin complex	6
+mitochondrial RNA processing	6
+microtubule bundle formation	6
+microtubule associated complex	6
+methyl jasmonate esterase activity	6
+methionine adenosyltransferase activity	6
+membrane budding	6
+mannan synthase activity	6
+maltose catabolic process	6
+malic enzyme activity	6
+malate transmembrane transporter activity	6
+mRNA catabolic process	6
+lipoate synthase activity	6
+lipid A biosynthetic process	6
+leucine metabolic process	6
+leaf pavement cell development	6
+lateral plasma membrane	6
+kinase binding	6
+interchromatin granule	6
+inositol-polyphosphate 5-phosphatase activity	6
+inositol phosphoceramide synthase activity	6
+indole-3-acetic acid amido synthetase activity	6
+indole phytoalexin biosynthetic process	6
+indole glucosinolate catabolic process	6
+homoserine kinase activity	6
+homogentisate catabolic process	6
+histone methyltransferase activity	6
+histone kinase activity (H3-S10 specific)	6
+histidyl-tRNA aminoacylation	6
+heme oxidation	6
+guard cell morphogenesis	6
+glycyl-tRNA aminoacylation	6
+glutamate metabolic process	6
+glutamate decarboxylation to succinate	6
+gibberellin metabolic process	6
+gibberellin 3-beta-dioxygenase activity	6
+fructokinase activity	6
+fatty-acyl-CoA reductase (alcohol-forming) activity	6
+fatty acid oxidation	6
+fatty acid elongase activity	6
+farnesyl diphosphate metabolic process	6
+exon-exon junction complex	6
+etioplast organization	6
+enzyme regulator activity	6
+enoyl-CoA hydratase activity	6
+endosome organization	6
+early endosome membrane	6
+double-stranded methylated DNA binding	6
+dipeptide transporter activity	6
+dihydrolipoyllysine-residue acetyltransferase activity	6
+cytoplasmic vesicle membrane	6
+cytochrome complex assembly	6
+cysteine-tRNA ligase activity	6
+cortical microtubule cytoskeleton	6
+condensed chromosome	6
+citrate metabolic process	6
+cis-Golgi network	6
+chromosome, centromeric region	6
+chromocenter	6
+choline kinase activity	6
+chloroplast mRNA processing	6
+chaperone mediated protein folding requiring cofactor	6
+cellular response to singlet oxygen	6
+cellular response to ozone	6
+cellular response to osmotic stress	6
+cellular response to hydrogen peroxide	6
+cellular response to gravity	6
+cellular response to freezing	6
+cellular response to anoxia	6
+cellular protein localization	6
+cation-transporting ATPase activity	6
+carotene metabolic process	6
+carotene catabolic process	6
+carotene beta-ring hydroxylase activity	6
+carbon-sulfur lyase activity	6
+carbon utilization	6
+brassinosteroid homeostasis	6
+box H/ACA snoRNP complex	6
+borate transport	6
+basal plasma membrane	6
+auxin efflux transmembrane transporter activity	6
+asparaginyl-tRNA aminoacylation	6
+arogenate dehydratase activity	6
+arginyl-tRNA aminoacylation	6
+anther wall tapetum development	6
+anion channel activity	6
+anaphase	6
+amidophosphoribosyltransferase activity	6
+amidase activity	6
+alternative respiration	6
+alpha-glucan, water dikinase activity	6
+alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity	6
+alanyl-tRNA aminoacylation	6
+adaxial/abaxial axis specification	6
+activation of MAPK activity involved in osmosensory signaling pathway	6
+aconitate hydratase activity	6
+acetyl-CoA C-acetyltransferase activity	6
+acetate metabolic process	6
+abscisic acid glucosyltransferase activity	6
+UDP-glucose transmembrane transporter activity	6
+UDP-galactose transmembrane transport	6
+UDP-N-acetylglucosamine biosynthetic process	6
+UBC13-MMS2 complex	6
+U6 snRNP	6
+U1 snRNP	6
+TAT protein transport complex	6
+Set1C/COMPASS complex	6
+SNARE complex	6
+RNA-directed RNA polymerase activity	6
+RNA polyadenylation	6
+RNA catabolic process	6
+NADP biosynthetic process	6
+NAD(P)H oxidase activity	6
+L-phenylalanine catabolic process	6
+Golgi-associated vesicle	6
+Golgi medial cisterna	6
+GINS complex	6
+G-protein coupled receptor signaling pathway	6
+DNA topoisomerase type I activity	6
+DNA strand elongation involved in DNA replication	6
+DNA photolyase activity	6
+DNA helicase activity	6
+COP9 signalosome assembly	6
+CAAX-box protein maturation	6
+ATP-dependent chromatin remodeling	6
+ATP transport	6
+4,4-dimethyl-9beta,19-cyclopropylsterol oxidation	6
+3-isopropylmalate dehydrogenase activity	6
+3-deoxy-8-phosphooctulonate synthase activity	6
+3'-tRNA processing endoribonuclease activity	6
+'de novo' pyrimidine nucleobase biosynthetic process	6
+voltage-gated potassium channel activity	5
+vasculature development	5
+ubiquitin activating enzyme activity	5
+triose-phosphate transmembrane transporter activity	5
+transpiration	5
+thigmotropism	5
+tRNA binding	5
+structural constituent of chromatin	5
+steroid biosynthetic process	5
+sinapate 1-glucosyltransferase activity	5
+simple leaf morphogenesis	5
+siRNA binding	5
+root system development	5
+root meristem specification	5
+ribulose-bisphosphate carboxylase activity	5
+ribose phosphate diphosphokinase activity	5
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	5
+response to carbon dioxide	5
+response to UV-C	5
+regulation of transcription from RNA polymerase II promoter in response to salt stress	5
+regulation of stomatal complex patterning	5
+regulation of seed dormancy process	5
+regulation of protein localization to cell surface	5
+regulation of nitrogen utilization	5
+regulation of growth	5
+pyridoxal phosphate binding	5
+protochlorophyllide reductase activity	5
+protein import into nucleus, translocation	5
+proline dehydrogenase activity	5
+prenyltransferase activity	5
+prefoldin complex	5
+positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response	5
+positive regulation of cell death	5
+polyamine transport	5
+plant-type primary cell wall biogenesis	5
+pinoresinol reductase activity	5
+phosphatidylinositol-4,5-bisphosphate binding	5
+peptidase inhibitor activity	5
+osmosensor activity	5
+organelle membrane	5
+oligosaccharide metabolic process	5
+nucleotide-excision repair, preincision complex assembly	5
+nucleotide kinase activity	5
+nitrilase activity	5
+neutral amino acid transmembrane transporter activity	5
+negative regulation of leaf senescence	5
+negative regulation of growth	5
+negative regulation of cell proliferation	5
+negative regulation of cell death	5
+myrcene synthase activity	5
+monosaccharide transport	5
+monolayer-surrounded lipid storage body	5
+monodehydroascorbate reductase (NADH) activity	5
+mitochondria-nucleus signaling pathway	5
+microtubule cytoskeleton	5
+miRNA binding	5
+methyl salicylate esterase activity	5
+malate transport	5
+magnesium chelatase activity	5
+mRNA 3'-UTR binding	5
+long-chain-alcohol oxidase activity	5
+lipid transporter activity	5
+ligase activity	5
+intracellular transport	5
+inositol 3-alpha-galactosyltransferase activity	5
+inflorescence morphogenesis	5
+glycoside catabolic process	5
+glycerol-3-phosphate 2-O-acyltransferase activity	5
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	5
+glutamyl-tRNA reductase activity	5
+glucosyltransferase activity	5
+glucose-6-phosphate transmembrane transporter activity	5
+geranyltranstransferase activity	5
+gamma-glutamyltransferase activity	5
+fructose-bisphosphate aldolase activity	5
+extracellular vesicular exosome	5
+ethylene binding	5
+enzyme inhibitor activity	5
+entrainment of circadian clock	5
+endosome to lysosome transport	5
+endo-1,4-beta-xylanase activity	5
+double-stranded telomeric DNA binding	5
+dodecenoyl-CoA delta-isomerase activity	5
+dihydroneopterin aldolase activity	5
+dihydrolipoyl dehydrogenase activity	5
+detection of gravity	5
+cytokinin receptor activity	5
+cytochrome b6f complex	5
+cyclin binding	5
+circumnutation	5
+chaperone-mediated protein complex assembly	5
+cellulase activity	5
+cellular response to sucrose stimulus	5
+cellular response to nitrate	5
+cellular response to cytokinin stimulus	5
+cellular potassium ion homeostasis	5
+cellular ion homeostasis	5
+cell fate determination	5
+carboxy-lyase activity	5
+carbon fixation	5
+calcium:sodium antiporter activity	5
+caffeoyl-CoA O-methyltransferase activity	5
+cadmium-transporting ATPase activity	5
+cadmium ion transmembrane transporter activity	5
+branched-chain-amino-acid transaminase activity	5
+borate transmembrane transporter activity	5
+blue light photoreceptor activity	5
+bile acid:sodium symporter activity	5
+aspartic-type endopeptidase activity	5
+asparaginase activity	5
+arsenite transport	5
+arginine transmembrane transporter activity	5
+arabinose biosynthetic process	5
+apical part of cell	5
+anisotropic cell growth	5
+amino acid homeostasis	5
+alpha-L-fucosidase activity	5
+allene-oxide cyclase activity	5
+aldehyde oxidase activity	5
+alcohol dehydrogenase (NADP+) activity	5
+adenylylsulfatase activity	5
+adenosylmethionine decarboxylase activity	5
+activation of signaling protein activity involved in unfolded protein response	5
+acireductone dioxygenase [iron(II)-requiring] activity	5
+acetyltransferase activity	5
+acetyl-CoA C-acyltransferase activity	5
+UDP-glucuronate 4-epimerase activity	5
+UDP-galactosyltransferase activity	5
+UDP-galactose transmembrane transporter activity	5
+UDP-L-rhamnose synthase activity	5
+Toc complex	5
+SNARE binding	5
+S-adenosylmethionine-homocysteine S-methyltransferase activity	5
+Rab GDP-dissociation inhibitor activity	5
+RNA-directed DNA polymerase activity	5
+O-methyltransferase activity	5
+NAD(P)H dehydrogenase complex assembly	5
+Mo-molybdopterin cofactor sulfurase activity	5
+MAP kinase phosphatase activity	5
+L-lysine transmembrane transporter activity	5
+IAA-amino acid conjugate hydrolase activity	5
+GTP cyclohydrolase II activity	5
+G1/S transition of mitotic cell cycle	5
+DNA topoisomerase activity	5
+DNA ligation	5
+DNA (cytosine-5-)-methyltransferase activity	5
+Casparian strip	5
+CTP synthase activity	5
+CTD phosphatase activity	5
+C-19 gibberellin 2-beta-dioxygenase activity	5
+ATP citrate synthase activity	5
+ADP-ribose diphosphatase activity	5
+90S preribosome	5
+7S RNA binding	5
+5'-3' exoribonuclease activity	5
+4-hydroxy-tetrahydrodipicolinate reductase	5
+3-deoxy-7-phosphoheptulonate synthase activity	5
+3'-5' DNA helicase activity	5
+2-isopropylmalate synthase activity	5
+1-deoxy-D-xylulose-5-phosphate synthase activity	5
+1-acylglycerol-3-phosphate O-acyltransferase activity	5
+(1->3)-beta-D-glucan binding	5
+zygote asymmetric cytokinesis in embryo sac	4
+zinc ion homeostasis	4
+xenobiotic-transporting ATPase activity	4
+xenobiotic metabolic process	4
+wax metabolic process	4
+water homeostasis	4
+voltage-gated calcium channel activity	4
+viral replication complex formation and maintenance	4
+viral gene silencing in virus induced gene silencing	4
+uroporphyrinogen III biosynthetic process	4
+urea transport	4
+unfolded protein binding	4
+tryptophan metabolic process	4
+triose-phosphate isomerase activity	4
+triglyceride metabolic process	4
+triglyceride catabolic process	4
+tricyclic triterpenoid biosynthetic process	4
+trehalose metabolic process	4
+transmitting tissue development	4
+translesion synthesis	4
+translation repressor activity, nucleic acid binding	4
+transcription antitermination	4
+trans-zeatin biosynthetic process	4
+trans-octaprenyltranstransferase activity	4
+toxin receptor binding	4
+thymidine kinase activity	4
+thiol oxidase activity	4
+thiamine diphosphokinase activity	4
+tetrahydrofolylpolyglutamate metabolic process	4
+tetrahydrofolate biosynthetic process	4
+tetraacyldisaccharide 4'-kinase activity	4
+terpene biosynthetic process	4
+telomerase holoenzyme complex	4
+tRNA-specific adenosine deaminase activity	4
+tRNA-intron endonuclease complex	4
+tRNA wobble adenosine to inosine editing	4
+tRNA aminoacylation	4
+tRNA 5'-leader removal	4
+synaptonemal complex assembly	4
+superoxide anion generation	4
+sulfolipid biosynthetic process	4
+sulfate reduction	4
+sucrose-phosphate phosphatase activity	4
+sucrose mediated signaling	4
+sucrose induced translational repression	4
+sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity	4
+starch synthase activity	4
+sphinganine kinase activity	4
+spermidine synthase activity	4
+spermidine metabolic process	4
+spermidine hydroxycinnamate conjugate biosynthetic process	4
+snoRNA processing	4
+siroheme biosynthetic process	4
+single-stranded telomeric DNA binding	4
+single-stranded DNA endodeoxyribonuclease activity	4
+single strand break repair	4
+single base insertion or deletion binding	4
+signal recognition particle, chloroplast targeting	4
+sesquiterpene biosynthetic process	4
+selenium binding	4
+seed morphogenesis	4
+secondary growth	4
+root meristem growth	4
+ribonucleoside-diphosphate reductase complex	4
+riboflavin kinase activity	4
+response to trehalose	4
+response to strigolactone	4
+response to low fluence blue light stimulus by blue low-fluence system	4
+response to flooding	4
+response to anoxia	4
+response to ammonium ion	4
+response to L-ascorbic acid	4
+response to 1-aminocyclopropane-1-carboxylic acid	4
+regulation of vegetative phase change	4
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress	4
+regulation of stomatal opening	4
+regulation of short-day photoperiodism, flowering	4
+regulation of seedling development	4
+regulation of root morphogenesis	4
+regulation of root development	4
+regulation of response to osmotic stress	4
+regulation of photorespiration	4
+regulation of photoperiodism, flowering	4
+regulation of peroxisome size	4
+regulation of nuclear-transcribed mRNA poly(A) tail shortening	4
+regulation of nitric oxide metabolic process	4
+regulation of nematode larval development	4
+regulation of monopolar cell growth	4
+regulation of lignin biosynthetic process	4
+regulation of isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	4
+regulation of inward rectifier potassium channel activity	4
+regulation of histone methylation	4
+regulation of histone deacetylation	4
+regulation of histone H4 acetylation	4
+regulation of histone H3-K9 methylation	4
+regulation of histone H3-K9 dimethylation	4
+regulation of gibberellic acid mediated signaling pathway	4
+regulation of endosperm development	4
+regulation of embryonic development	4
+regulation of embryo sac egg cell differentiation	4
+regulation of developmental process	4
+regulation of defense response to virus by host	4
+regulation of defense response to bacterium	4
+regulation of cellulose biosynthetic process	4
+regulation of cell growth by extracellular stimulus	4
+regulation of anatomical structure morphogenesis	4
+regulation of alternative mRNA splicing, via spliceosome	4
+regulation of actin filament polymerization	4
+regulation of actin filament depolymerization	4
+regulation of DNA-templated transcription in response to stress	4
+rRNA transcription from plastid promoter	4
+rRNA (adenine-N6,N6-)-dimethyltransferase activity	4
+pyridoxal kinase activity	4
+pyridoxal 5'-phosphate salvage	4
+putrescine biosynthetic process	4
+purine ribonucleoside monophosphate biosynthetic process	4
+purine nucleoside catabolic process	4
+protein-transmembrane transporting ATPase activity	4
+protein tyrosine phosphatase activity	4
+protein tag	4
+protein serine/threonine phosphatase complex	4
+protein localization to nuclear envelope	4
+protein farnesyltransferase complex	4
+protein C-terminus binding	4
+proline metabolic process	4
+priming of cellular response to stress	4
+pre-miRNA processing	4
+potassium channel activity	4
+positive regulation of trichoblast fate specification	4
+positive regulation of telomere maintenance via telomerase	4
+positive regulation of telomere maintenance	4
+positive regulation of sulfur metabolic process	4
+positive regulation of stomatal complex development	4
+positive regulation of salicylic acid mediated signaling pathway	4
+positive regulation of response to DNA damage stimulus	4
+positive regulation of reactive oxygen species metabolic process	4
+positive regulation of hydrogen peroxide biosynthetic process	4
+positive regulation of histone methylation	4
+positive regulation of brassinosteroid mediated signaling pathway	4
+positive regulation of autophagy	4
+positive regulation of anion channel activity	4
+positive regulation of abscisic acid biosynthetic process	4
+positive regulation of G2/M transition of mitotic cell cycle	4
+polyamine metabolic process	4
+pollen tube reception	4
+plasma membrane organization	4
+plant-type cell wall assembly	4
+phytol metabolic process	4
+photosystem II antenna complex	4
+photosystem I antenna complex	4
+phosphoserine phosphatase activity	4
+phosphorylase activity	4
+phosphoglycolate phosphatase activity	4
+phosphoglucan, water dikinase activity	4
+phosphoethanolamine N-methyltransferase activity	4
+phosphoenolpyruvate transport	4
+phosphatidylinositol phosphorylation	4
+phosphatidylinositol phospholipase C activity	4
+phosphatidylinositol phosphate kinase activity	4
+phosphatidylinositol dephosphorylation	4
+peptide deformylase activity	4
+pectin catabolic process	4
+para-aminobenzoic acid biosynthetic process	4
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	4
+oxidative photosynthetic carbon pathway	4
+oxazole or thiazole biosynthetic process	4
+ornithine-oxo-acid transaminase activity	4
+ornithine metabolic process	4
+ornithine catabolic process	4
+omega-3 fatty acid desaturase activity	4
+oligosaccharyl transferase activity	4
+oligopeptide-transporting ATPase activity	4
+oligopeptide transmembrane transport	4
+nucleotide-excision repair, DNA incision, 5'-to lesion	4
+nucleotide-excision repair, DNA gap filling	4
+nucleoside-diphosphatase activity	4
+nucleoside transport	4
+nuclear ubiquitin ligase complex	4
+nuclear lamina	4
+nuclear cohesin complex	4
+nitrate reductase activity	4
+nicotinate nucleotide salvage	4
+nicotinamidase activity	4
+nicotianamine synthase activity	4
+nickel cation transport	4
+negative regulation of unidimensional cell growth	4
+negative regulation of telomere maintenance via telomerase	4
+negative regulation of stomatal complex development	4
+negative regulation of organ growth	4
+negative regulation of microtubule polymerization	4
+negative regulation of histone H4 acetylation	4
+negative regulation of gibberellin biosynthetic process	4
+negative regulation of gene expression	4
+negative regulation of ethylene biosynthetic process	4
+negative regulation of defense response to bacterium	4
+negative regulation of chromatin silencing	4
+negative regulation of cell division	4
+negative regulation of catalytic activity	4
+negative regulation of anion channel activity by blue light	4
+myo-inositol:proton symporter activity	4
+mucilage pectin metabolic process	4
+mucilage extrusion from seed coat	4
+mitotic chromosome condensation	4
+mitotic checkpoint complex	4
+mitochondrial proton-transporting ATP synthase, catalytic core	4
+mitochondrial RNA modification	4
+microtubule nucleation by microtubule organizing center	4
+microsporocyte differentiation	4
+mevalonate kinase activity	4
+methylthioadenosine nucleosidase activity	4
+methyl-CpNpN binding	4
+methyl-CpNpG binding	4
+metalloexopeptidase activity	4
+meristem determinacy	4
+membrane lipid metabolic process	4
+meiotic sister chromatid cohesion, centromeric	4
+meiotic gene conversion	4
+meiotic chromosome separation	4
+meiotic chromosome condensation	4
+meiosis II	4
+medium-chain fatty acid metabolic process	4
+mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity	4
+mannose-6-phosphate isomerase activity	4
+malate dehydrogenase (decarboxylating) (NADP+) activity	4
+maintenance of seed dormancy	4
+mRNA cleavage factor complex	4
+mRNA cleavage	4
+lytic vacuole organization	4
+lytic vacuole	4
+low-affinity nitrate transport	4
+low-affinity nitrate transmembrane transporter activity	4
+long-distance posttranscriptional gene silencing	4
+lipoate biosynthetic process	4
+lipid particle organization	4
+leaf proximal/distal pattern formation	4
+leaf phyllotactic patterning	4
+leaf formation	4
+lead ion transport	4
+kinetochore	4
+keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	4
+isocitrate dehydrogenase (NADP+) activity	4
+isochorismate synthase activity	4
+iron incorporation into metallo-sulfur cluster	4
+intercellular transport	4
+integrin complex	4
+inositol-1,4,5-trisphosphate 6-kinase activity	4
+inositol-1,3,4-trisphosphate 6-kinase activity	4
+inositol metabolic process	4
+inosine catabolic process	4
+inflammatory response	4
+indole-3-acetonitrile nitrilase activity	4
+imidazoleglycerol-phosphate dehydratase activity	4
+hypotonic salinity response	4
+hydroxymethylglutaryl-CoA reductase activity	4
+hydroxymethyl-, formyl- and related transferase activity	4
+hydroxycinnamoyltransferase activity	4
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	4
+hydrogen peroxide-mediated programmed cell death	4
+hydro-lyase activity	4
+homologous chromosome segregation	4
+histone deubiquitination	4
+histone H3-T3 phosphorylation	4
+histone H3-T11 phosphorylation	4
+histone H3-S28 phosphorylation	4
+histone H3-S10 phosphorylation	4
+histone H3-K4 trimethylation	4
+histone H3-K4 demethylation	4
+histone H3-K23 acetylation	4
+histone H3-K18 acetylation	4
+histone H3-K14 acetylation	4
+histidinol-phosphate transaminase activity	4
+high-affinity copper ion transmembrane transporter activity	4
+hexokinase-dependent signaling	4
+guanylate cyclase activity	4
+guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity	4
+guanine/thymine mispair binding	4
+glyphosate metabolic process	4
+glycine:2-oxoglutarate aminotransferase activity	4
+glycerone kinase activity	4
+glycerol kinase activity	4
+glutathione-disulfide reductase activity	4
+glutamate binding	4
+glucuronoxylan glucuronosyltransferase activity	4
+glucuronoxylan 4-O-methyltransferase activity	4
+glucose transmembrane transporter activity	4
+generative cell mitosis	4
+gamma-tubulin ring complex	4
+gamma-tubulin complex	4
+gamma-aminobutyric acid catabolic process	4
+galactose transmembrane transporter activity	4
+fruit morphogenesis	4
+fructose 1,6-bisphosphate metabolic process	4
+fructose 1,6-bisphosphate 1-phosphatase activity	4
+four-way junction DNA binding	4
+formyltetrahydrofolate deformylase activity	4
+formaldehyde metabolic process	4
+ferrochelatase activity	4
+ferric iron binding	4
+fatty acid binding	4
+farnesol metabolic process	4
+extrinsic component of plastid membrane	4
+extrinsic component of plasma membrane	4
+extracellular matrix organization	4
+exocytic vesicle	4
+epsilon DNA polymerase complex	4
+endomembrane system organization	4
+endocytic vesicle	4
+electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	4
+effector dependent induction by symbiont of host immune response	4
+dolichyl-phosphate beta-D-mannosyltransferase activity	4
+dipeptide transport	4
+dicarboxylic acid transmembrane transporter activity	4
+diaminopimelate decarboxylase activity	4
+developmental vegetative growth	4
+detoxification of zinc ion	4
+dephosphorylation of RNA polymerase II C-terminal domain	4
+dephospho-CoA kinase activity	4
+deoxyribonucleoside diphosphate metabolic process	4
+defense response to nematode	4
+dTDP-rhamnose biosynthetic process	4
+dATP biosynthetic process from ADP	4
+cytochrome c-heme linkage	4
+cyanide metabolic process	4
+cuticle hydrocarbon biosynthetic process	4
+cotyledon morphogenesis	4
+cortical cytoskeleton	4
+core promoter binding	4
+copper chaperone activity	4
+coniferyl-alcohol glucosyltransferase activity	4
+clathrin-coated endocytic vesicle	4
+circadian regulation of gene expression	4
+chromosome condensation	4
+chorismate mutase activity	4
+choline-phosphate cytidylyltransferase activity	4
+chloroplast starch grain	4
+chloroplast mRNA modification	4
+chloroplast isoamylase complex	4
+chloroplast RNA modification	4
+chiasma	4
+cellular water homeostasis	4
+cellular response to red light	4
+cellular response to potassium ion starvation	4
+cellular response to glucose stimulus	4
+cellular response to fatty acid	4
+cellular response to far red light	4
+cellular manganese ion homeostasis	4
+cellular homeostasis	4
+cell wall modification involved in multidimensional cell growth	4
+cell morphogenesis involved in differentiation	4
+cell fate commitment	4
+carotenoid isomerase activity	4
+carbohydrate phosphorylation	4
+carbohydrate homeostasis	4
+carbamoyl-phosphate synthase complex	4
+calcium-dependent protein serine/threonine kinase activity	4
+calcium ion homeostasis	4
+cadmium ion transmembrane transport	4
+butyrate metabolic process	4
+bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity	4
+beta-amyrin synthase activity	4
+beta-N-acetylhexosaminidase activity	4
+benzoate metabolic process	4
+base-excision repair, gap-filling	4
+barbed-end actin filament capping	4
+axillary shoot meristem initiation	4
+auxin transport	4
+autophagic vacuole assembly	4
+autophagic vacuole	4
+attachment of spindle microtubules to kinetochore involved in homologous chromosome segregation	4
+arsenite-transmembrane transporting ATPase activity	4
+aromatic amino acid family biosynthetic process, prephenate pathway	4
+arginine catabolic process to glutamate	4
+arginase activity	4
+anthranilate synthase complex	4
+anther wall tapetum cell differentiation	4
+aminoacyl-tRNA hydrolase activity	4
+alternative mRNA splicing, via spliceosome	4
+alpha-L-arabinofuranosidase activity	4
+allantoin catabolic process	4
+allantoate deiminase activity	4
+adventitious root development	4
+adenylylsulfate kinase activity	4
+adenylyl-sulfate reductase activity	4
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	4
+adenosylhomocysteinase activity	4
+adenosine salvage	4
+adenosine kinase activity	4
+adenosine deaminase activity	4
+adenosine catabolic process	4
+acyl-[acyl-carrier-protein] hydrolase activity	4
+actin polymerization or depolymerization	4
+actin filament-based process	4
+actin filament depolymerization	4
+acetylglutamate kinase activity	4
+acetyl-CoA biosynthetic process from pyruvate	4
+abscisic acid catabolic process	4
+UV protection	4
+UTP:glucose-1-phosphate uridylyltransferase activity	4
+UMP salvage	4
+UDP-glucose metabolic process	4
+UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity	4
+UDP-N-acetylglucosamine metabolic process	4
+UDP-N-acetylgalactosamine metabolic process	4
+U12-type spliceosomal complex	4
+RNA secondary structure unwinding	4
+RNA 5'-end processing	4
+RNA 3'-end processing	4
+PAS complex	4
+O-phospho-L-serine:2-oxoglutarate aminotransferase activity	4
+NADPH-hemoprotein reductase activity	4
+NADP+ binding	4
+NADH kinase activity	4
+NAD+ ADP-ribosyltransferase activity	4
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity	4
+N,N-dimethylaniline monooxygenase activity	4
+MutLbeta complex	4
+MutLalpha complex	4
+Lewis a epitope biosynthetic process	4
+L-lysine catabolic process	4
+L-glutamate transmembrane transporter activity	4
+L-galactose-1-phosphate phosphatase activity	4
+GMP biosynthetic process	4
+GDP-mannose transport	4
+GDP binding	4
+G-protein coupled receptor binding	4
+G-protein coupled photoreceptor activity	4
+FACT complex	4
+Elongator holoenzyme complex	4
+ER to Golgi transport vesicle	4
+ER overload response	4
+DNA-directed RNA polymerase III complex	4
+DNA-directed RNA polymerase II, holoenzyme	4
+DNA synthesis involved in DNA repair	4
+DNA replication proofreading	4
+CoA pyrophosphatase activity	4
+C-5 sterol desaturase activity	4
+ATP biosynthetic process	4
+AP-1 adaptor complex	4
+AMP-activated protein kinase activity	4
+AMP deaminase activity	4
+ADP transmembrane transporter activity	4
+5-carbamoylmethyluridine metabolic process	4
+4-hydroxy-tetrahydrodipicolinate synthase	4
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	4
+4-alpha-methyl-delta7-sterol oxidation	4
+3-oxo-5-alpha-steroid 4-dehydrogenase activity	4
+3-methyl-2-oxobutanoate hydroxymethyltransferase activity	4
+3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity	4
+3-hydroxyisobutyryl-CoA hydrolase activity	4
+3-beta-hydroxy-delta5-steroid dehydrogenase activity	4
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity	4
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	4
+10-formyltetrahydrofolate biosynthetic process	4
+1-phosphatidylinositol-3-kinase activity	4
+1,4-alpha-glucan branching enzyme activity	4
+1,2-diacylglycerol 3-beta-galactosyltransferase activity	4
+(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	4
+(-)-pinoresinol biosynthetic process	4
+(+)-abscisic acid D-glucopyranosyl ester transmembrane transport	4
+(+)-abscisic acid 8'-hydroxylase activity	4
+'de novo' IMP biosynthetic process	4
+xyloglucan 6-xylosyltransferase activity	3
+xanthine dehydrogenase activity	3
+vacuolar proton-transporting V-type ATPase, V1 domain	3
+vacuolar proton-transporting V-type ATPase, V0 domain	3
+uroporphyrinogen-III synthase activity	3
+uridine kinase activity	3
+ureidoglycolate hydrolase activity	3
+urease activity	3
+uracil transmembrane transporter activity	3
+ubiquitin-like protein transferase activity	3
+tyrosine decarboxylase activity	3
+tubulin deacetylation	3
+tryptophanyl-tRNA aminoacylation	3
+tripeptide transporter activity	3
+tripeptide transport	3
+transposition, DNA-mediated	3
+transmembrane histidine kinase cytokinin receptor activity	3
+transketolase activity	3
+transferase activity, transferring alkyl or aryl (other than methyl) groups	3
+transcription from RNA polymerase I promoter	3
+trans-zeatin O-beta-D-glucosyltransferase activity	3
+threonine-tRNA ligase activity	3
+threonine synthase activity	3
+threonine aldolase activity	3
+thiol S-methyltransferase activity	3
+tetracycline transporter activity	3
+tRNA-intron endonuclease activity	3
+tRNA transcription	3
+tRNA (guanine-N2-)-methyltransferase activity	3
+sulfite reductase (ferredoxin) activity	3
+succinate-CoA ligase (GDP-forming) activity	3
+style development	3
+stigma development	3
+sterol 24-C-methyltransferase activity	3
+steroid 22-alpha hydroxylase activity	3
+starch grain	3
+squalene monooxygenase activity	3
+spliceosomal complex assembly	3
+sphingosine N-acyltransferase activity	3
+spermine synthase activity	3
+specification of organ position	3
+specification of floral organ number	3
+soluble NSF attachment protein activity	3
+small-subunit processome	3
+small protein activating enzyme activity	3
+single organismal cell-cell adhesion	3
+signal recognition particle binding	3
+signal complex assembly	3
+sialyltransferase activity	3
+serine-tRNA ligase activity	3
+serine racemase activity	3
+sequence-specific DNA binding RNA polymerase II transcription factor activity	3
+secondary cell wall	3
+ribulose-phosphate 3-epimerase activity	3
+rhamnogalacturonan I side chain metabolic process	3
+response to very low fluence red light stimulus	3
+response to photooxidative stress	3
+response to nutrient	3
+response to low light intensity stimulus	3
+response to indolebutyric acid	3
+response to calcium ion	3
+response to boron-containing substance	3
+response to acidic pH	3
+respiratory chain complex IV assembly	3
+release of seed from dormancy	3
+regulation of transcription elongation from RNA polymerase II promoter	3
+regulation of sequence-specific DNA binding transcription factor activity	3
+regulation of seed maturation	3
+regulation of response to red or far red light	3
+regulation of removal of superoxide radicals	3
+regulation of protein ubiquitination	3
+regulation of protein serine/threonine kinase activity	3
+regulation of protein phosphorylation	3
+regulation of protein homodimerization activity	3
+regulation of photosynthesis, light reaction	3
+regulation of nitrogen compound metabolic process	3
+regulation of multicellular organism growth	3
+regulation of lipid catabolic process	3
+regulation of glycolytic process	3
+regulation of developmental growth	3
+regulation of development, heterochronic	3
+regulation of cellular respiration	3
+regulation of cellular protein metabolic process	3
+regulation of cell wall pectin metabolic process	3
+regulation of cell aging	3
+regulation of carbohydrate biosynthetic process	3
+regulation of asymmetric cell division	3
+regulation of DNA demethylation	3
+red or far-red light photoreceptor activity	3
+radial axis specification	3
+quercetin 3'-O-glucosyltransferase activity	3
+pyrroline-5-carboxylate reductase activity	3
+purine nucleotide transport	3
+protein-arginine omega-N monomethyltransferase activity	3
+protein-arginine omega-N asymmetric methyltransferase activity	3
+protein-arginine N-methyltransferase activity	3
+protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	3
+protein unfolding	3
+protein trans-autophosphorylation	3
+protein poly-ADP-ribosylation	3
+protein phosphatase binding	3
+protein oligomerization	3
+protein methyltransferase activity	3
+protein lipoylation	3
+protein lipidation	3
+protein kinase regulator activity	3
+protein import into peroxisome matrix, docking	3
+protein homotetramerization	3
+protein farnesylation	3
+protein export from nucleus	3
+protein exit from endoplasmic reticulum	3
+protein binding involved in protein folding	3
+protein O-linked glycosylation via hydroxyproline	3
+proplastid stroma	3
+prenylated protein catabolic process	3
+premeiotic DNA replication	3
+potassium ion binding	3
+posttranslational protein targeting to membrane, translocation	3
+posttranscriptional regulation of gene expression	3
+post-embryonic organ development	3
+positive regulation of transcription factor catabolic process	3
+positive regulation of superoxide dismutase activity	3
+positive regulation of seed maturation	3
+positive regulation of protein kinase activity	3
+positive regulation of protein geranylgeranylation	3
+positive regulation of metalloenzyme activity	3
+positive regulation of growth	3
+positive regulation of cutin biosynthetic process	3
+positive regulation of cell division	3
+positive regulation of DNA replication	3
+polysaccharide transport	3
+poly(ADP-ribose) glycohydrolase activity	3
+pollen-pistil interaction	3
+pollen tube adhesion	3
+plastid pyruvate dehydrogenase complex	3
+plasma membrane repair	3
+phytochrome binding	3
+phyllotactic patterning	3
+photosynthetic NADP+ reduction	3
+phosphoric ester hydrolase activity	3
+phosphoribosylformylglycinamidine cyclo-ligase activity	3
+phosphopantothenoylcysteine decarboxylase activity	3
+phosphomannomutase activity	3
+phospholipid transfer to membrane	3
+phosphoenolpyruvate carboxykinase (ATP) activity	3
+phosphoacetylglucosamine mutase activity	3
+phosphatidyltransferase activity	3
+phosphatidylinositol 3-kinase complex, class IA	3
+phloem sucrose loading	3
+phloem development	3
+phenylalanine-tRNA ligase activity	3
+peroxiredoxin activity	3
+peptidyl-tyrosine dephosphorylation	3
+peptidyl-threonine dephosphorylation	3
+peptidyl-serine phosphorylation	3
+peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	3
+peptidyl-lysine trimethylation	3
+peptidyl-lysine modification to peptidyl-hypusine	3
+peptidyl-lysine methylation	3
+peptidyl-diphthamide biosynthetic process from peptidyl-histidine	3
+peptide cross-linking via L-cystine	3
+pantoate-beta-alanine ligase activity	3
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	3
+oxaloacetate transmembrane transporter activity	3
+nucleosomal DNA binding	3
+nuclear import	3
+nicotinate-nucleotide diphosphorylase (carboxylating) activity	3
+nickel cation transmembrane transporter activity	3
+negative regulation of translation involved in gene silencing by miRNA	3
+negative regulation of transcription by glucose	3
+negative regulation of telomerase activity	3
+negative regulation of protein sumoylation	3
+negative regulation of protein kinase activity	3
+negative regulation of peptidyl-tyrosine phosphorylation	3
+negative regulation of floral organ abscission	3
+negative regulation of cysteine-type endopeptidase activity	3
+negative regulation of circadian rhythm	3
+negative regulation of anthocyanin metabolic process	3
+negative regulation of DNA-dependent DNA replication	3
+nectary development	3
+molybdopterin cofactor biosynthetic process	3
+molybdate ion transport	3
+molybdate ion transmembrane transporter activity	3
+mitotic spindle	3
+mitochondrial DNA metabolic process	3
+mitochondrial ATP synthesis coupled electron transport	3
+mismatch repair complex	3
+miRNA loading onto RISC involved in gene silencing by miRNA	3
+methionyl-tRNA aminoacylation	3
+methionine synthase activity	3
+mechanically-gated ion channel activity	3
+male germ cell nucleus	3
+maintenance of protein location in nucleus	3
+magnesium ion transport	3
+macroautophagy	3
+mRNA transcription	3
+mRNA stabilization	3
+mRNA splice site selection	3
+mRNA guanylyltransferase activity	3
+lysyl-tRNA aminoacylation	3
+long-chain-fatty-acyl-CoA reductase activity	3
+lipoyltransferase activity	3
+lead ion binding	3
+late endosome to vacuole transport	3
+kinetochore microtubule	3
+isopentenyl-diphosphate delta-isomerase activity	3
+iron-sulfur cluster binding	3
+iron ion binding	3
+inositol-1,4,5-trisphosphate 5-phosphatase activity	3
+inositol oxygenase activity	3
+inositol monophosphate 1-phosphatase activity	3
+inosine nucleosidase activity	3
+indole-3-acetonitrile nitrile hydratase activity	3
+homoserine dehydrogenase activity	3
+histone-arginine N-methyltransferase activity	3
+histone methyltransferase activity (H3-K4 specific)	3
+histone demethylase activity (H3-K4 specific)	3
+histidine-tRNA ligase activity	3
+hexose phosphate transport	3
+hexosaminidase activity	3
+guiding stereospecific synthesis activity	3
+glyoxysomal membrane	3
+glyoxylate reductase (NADP) activity	3
+glyoxalase III activity	3
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	3
+glutathione transport	3
+glutathione synthase activity	3
+glutamate-cysteine ligase activity	3
+glutamate synthase (ferredoxin) activity	3
+glutamate dehydrogenase [NAD(P)+] activity	3
+glutamate decarboxylase activity	3
+galactose catabolic process	3
+fumarate hydratase activity	3
+fruit ripening	3
+fructose metabolic process	3
+folic acid transporter activity	3
+flavonoid sulfotransferase activity	3
+flavonoid metabolic process	3
+ferredoxin:thioredoxin reductase activity	3
+fatty acid synthase complex	3
+fatty acid synthase activity	3
+extrinsic component of vacuolar membrane	3
+etioplast	3
+establishment or maintenance of cell polarity	3
+establishment of vesicle localization	3
+establishment of planar polarity	3
+establishment of cell polarity	3
+entrainment of circadian clock by photoperiod	3
+ent-copalyl diphosphate synthase activity	3
+endosome transport via multivesicular body sorting pathway	3
+endoplasmic reticulum exit site	3
+endocytic recycling	3
+embryonic root morphogenesis	3
+electron transport chain	3
+dolichol-phosphate-mannose synthase complex	3
+disulfide oxidoreductase activity	3
+dihydropteroate synthase activity	3
+dihydroorotate dehydrogenase activity	3
+developmental programmed cell death	3
+detection of molecule of fungal origin	3
+detection of ethylene stimulus	3
+desulfoglucosinolate sulfotransferase activity	3
+deoxyribonuclease activity	3
+cytoplasmic side of endosome membrane	3
+cytochrome-b5 reductase activity, acting on NAD(P)H	3
+cysteine desulfurase activity	3
+cystathionine gamma-synthase activity	3
+cyclopropane-fatty-acyl-phospholipid synthase activity	3
+cortical endoplasmic reticulum	3
+copper ion homeostasis	3
+cohesin complex	3
+co-translational protein modification	3
+clathrin-mediated endocytosis	3
+cis-zeatin O-beta-D-glucosyltransferase activity	3
+cis assembly of pre-catalytic spliceosome	3
+circadian regulation of calcium ion oscillation	3
+chromosome, telomeric region	3
+chlororespiration	3
+chloroplast ribulose bisphosphate carboxylase complex biogenesis	3
+chaperone binding	3
+ceramidase activity	3
+cellular response to chitin	3
+cellular response to calcium ion	3
+cellular response to boron-containing substance levels	3
+cellular protein catabolic process	3
+cellular hyperosmotic salinity response	3
+cell surface receptor signaling pathway	3
+cell cycle arrest	3
+cation:chloride symporter activity	3
+carpel formation	3
+carbon-monoxide oxygenase activity	3
+carbohydrate transport	3
+carbohydrate kinase activity	3
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	3
+callose deposition in phloem sieve plate	3
+bract formation	3
+bis(5'-adenosyl)-pentaphosphatase activity	3
+beta-tubulin binding	3
+bHLH transcription factor binding	3
+autophagic cell death	3
+aspartyl-tRNA aminoacylation	3
+asparagine synthase (glutamine-hydrolyzing) activity	3
+arsenite transmembrane transporter activity	3
+arginyltransferase activity	3
+arabinogalactan protein metabolic process	3
+anthranilate phosphoribosyltransferase activity	3
+amyloplast	3
+aminomethyltransferase activity	3
+aminoacylase activity	3
+alpha-1,4-glucosidase activity	3
+allantoinase activity	3
+allantoin uptake transmembrane transporter activity	3
+allantoin transport	3
+aerenchyma formation	3
+adenosylmethionine-8-amino-7-oxononanoate transaminase activity	3
+actin monomer binding	3
+acidic amino acid transmembrane transporter activity	3
+acetyl CoA:(Z)-3-hexen-1-ol acetyltransferase activity	3
+acetate-CoA ligase activity	3
+abscission	3
+abscisic acid transport	3
+[myelin basic protein]-arginine N-methyltransferase activity	3
+UDP-glucose:4-aminobenzoate acylglucosyltransferase activity	3
+UDP-glucose transport	3
+UDP-arabinose 4-epimerase activity	3
+UDP-arabinopyranose mutase activity	3
+S-(hydroxymethyl)glutathione dehydrogenase activity	3
+Rho GDP-dissociation inhibitor activity	3
+Rab GTPase binding	3
+RNA-DNA hybrid ribonuclease activity	3
+RNA cap binding	3
+O-malonyltransferase activity	3
+NADH dehydrogenase complex (plastoquinone) assembly	3
+NAD transport	3
+N-terminal peptidyl-glycine N-myristoylation	3
+Mo-molybdopterin cofactor metabolic process	3
+MAP kinase tyrosine/serine/threonine phosphatase activity	3
+L-tryptophan:pyruvate aminotransferase activity	3
+L-tryptophan:2-oxoglutarate aminotransferase activity	3
+L-proline transmembrane transporter activity	3
+L-ornithine transmembrane transporter activity	3
+L-malate dehydrogenase activity	3
+L-gulonolactone oxidase activity	3
+L-arginine import	3
+Hsp90 protein binding	3
+Golgi vesicle budding	3
+Golgi trans cisterna	3
+GTP-dependent protein binding	3
+GTP diphosphokinase activity	3
+GPI-anchor transamidase activity	3
+GDP-mannose 4,6-dehydratase activity	3
+DNA-templated transcription, termination	3
+DNA replication, synthesis of RNA primer	3
+DNA replication, removal of RNA primer	3
+DNA replication factor C complex	3
+DNA primase activity	3
+DNA polymerase binding	3
+DNA methylation on cytosine within a CNG sequence	3
+DNA methylation on cytosine within a CHH sequence	3
+DNA catabolic process, exonucleolytic	3
+C-22 sterol desaturase activity	3
+BLOC-1 complex	3
+Atg8 activating enzyme activity	3
+ATP-dependent DNA helicase activity	3
+ATP phosphoribosyltransferase activity	3
+AT DNA binding	3
+ADP-ribose pyrophosphohydrolase activity	3
+ADP transport	3
+7-methylthiopropyl glucosinolate S-oxygenase activity	3
+5-methylthiopropyl glucosinolate S-oxygenase activity	3
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	3
+5-formyltetrahydrofolate cyclo-ligase activity	3
+5'-nucleotidase activity	3
+3R-hydroxyacyl-CoA dehydratase activity	3
+3-oxoacyl-[acyl-carrier-protein] synthase activity	3
+3-methylthiopropyl glucosinolate S-oxygenase activity	3
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity	3
+3-hydroxyacyl-CoA dehydrogenase activity	3
+2-(2'-methylthio)ethylmalate synthase activity	3
+zeta DNA polymerase complex	2
+zeaxanthin epoxidase [overall] activity	2
+xenobiotic catabolic process	2
+xanthophyll cycle	2
+xanthine transport	2
+xanthine transmembrane transporter activity	2
+xanthine metabolic process	2
+wybutosine biosynthetic process	2
+vitamin K biosynthetic process	2
+viral process	2
+vesicle organization	2
+very long-chain fatty acid-CoA ligase activity	2
+valine metabolic process	2
+valine catabolic process	2
+vacuolar sequestering	2
+vacuolar proton-transporting V-type ATPase complex assembly	2
+uroporphyrinogen decarboxylase activity	2
+uroporphyrin-III C-methyltransferase activity	2
+uridine catabolic process	2
+uridine biosynthetic process	2
+ureidoglycine aminohydrolase activity	2
+uracil transport	2
+uracil DNA N-glycosylase activity	2
+tyrosine metabolic process	2
+tyramine biosynthetic process	2
+trihydroxyferuloyl spermidine O-methyltransferase activity	2
+triglyceride mobilization	2
+tricoumaroylspermidine meta-hydroxylase activity	2
+tricarboxylic acid transmembrane transport	2
+trehalose catabolic process	2
+transport vesicle	2
+translation release factor complex	2
+transcription factor complex	2
+transcription factor TFIIF complex	2
+transcription factor TFIIA complex	2
+tocopherol cyclase activity	2
+thymidylate synthase activity	2
+thymidylate kinase activity	2
+threonine metabolic process	2
+thioglucosidase complex	2
+thiamine-phosphate diphosphorylase activity	2
+thiamine pyrophosphate transporter activity	2
+thiamine pyrophosphate transport	2
+tetrapyrrole binding	2
+tetraketide alpha-pyrone synthase activity	2
+tetrahydrofolylpolyglutamate biosynthetic process	2
+tetracyclic triterpenoid biosynthetic process	2
+terpenoid metabolic process	2
+telomerase activity	2
+tRNA dimethylallyltransferase activity	2
+tRNA 2'-phosphotransferase activity	2
+synergid death	2
+superoxide-generating NADPH oxidase activity	2
+superoxide dismutase copper chaperone activity	2
+sulfite reductase activity	2
+sulfite oxidase activity	2
+sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)	2
+sucrose-phosphate synthase activity	2
+succinyl-CoA metabolic process	2
+succinate-semialdehyde dehydrogenase (NAD+) activity	2
+succinate metabolic process	2
+succinate dehydrogenase (ubiquinone) activity	2
+strigolactone biosynthetic process	2
+stomium development	2
+stomatal complex formation	2
+sterol delta7 reductase activity	2
+sterol catabolic process	2
+sterol binding	2
+sterol 3-beta-glucosyltransferase activity	2
+steroid hydroxylase activity	2
+steroid dehydrogenase activity	2
+steroid binding	2
+stearoyl-CoA 9-desaturase activity	2
+stamen morphogenesis	2
+stamen formation	2
+spindle assembly involved in meiosis	2
+sphingosine hydroxylase activity	2
+sphingosine biosynthetic process	2
+sphingolipid delta-4 desaturase activity	2
+sphingolipid catabolic process	2
+spermidine:sinapoyl CoA N-acyltransferase activity	2
+specification of organ axis polarity	2
+spanning component of plasma membrane	2
+snoRNA binding	2
+sister chromatid segregation	2
+signaling receptor activity	2
+short-chain fatty acid metabolic process	2
+shikimate biosynthetic process	2
+sequestering of zinc ion	2
+senescence-associated vacuole	2
+selenocysteine lyase activity	2
+selenate transport	2
+sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity	2
+sarcosine oxidase activity	2
+salicylic acid glucosyltransferase (glucoside-forming) activity	2
+salicylic acid catabolic process	2
+salicylic acid binding	2
+saccharopine dehydrogenase activity	2
+root radial pattern formation	2
+ribonucleotide metabolic process	2
+response to vitamin B1	2
+response to radiation	2
+response to non-ionic osmotic stress	2
+response to nickel cation	2
+response to molecule of oomycetes origin	2
+response to lithium ion	2
+response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance	2
+response to humidity	2
+response to herbicide	2
+response to gravity	2
+response to continuous far red light stimulus by the high-irradiance response system	2
+response to cobalt ion	2
+response to benzoic acid	2
+regulatory region DNA binding	2
+regulation of viral process	2
+regulation of vesicle-mediated transport	2
+regulation of vesicle targeting, to, from or within Golgi	2
+regulation of vernalization response	2
+regulation of triglyceride catabolic process	2
+regulation of tetrapyrrole metabolic process	2
+regulation of synergid differentiation	2
+regulation of symbiosis, encompassing mutualism through parasitism	2
+regulation of superoxide metabolic process	2
+regulation of superoxide anion generation	2
+regulation of sulfur metabolic process	2
+regulation of response to salt stress	2
+regulation of radial pattern formation	2
+regulation of rRNA processing	2
+regulation of protein secretion	2
+regulation of protein metabolic process	2
+regulation of protein import into nucleus	2
+regulation of protein catabolic process	2
+regulation of potassium ion transport	2
+regulation of post-embryonic root development	2
+regulation of phragmoplast microtubule organization	2
+regulation of phosphorus metabolic process	2
+regulation of pectin biosynthetic process	2
+regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	2
+regulation of nuclear division	2
+regulation of nitrate assimilation	2
+regulation of mitotic spindle organization	2
+regulation of mitotic nuclear division	2
+regulation of microtubule polymerization or depolymerization	2
+regulation of mRNA splicing, via spliceosome	2
+regulation of mRNA polyadenylation	2
+regulation of long-day photoperiodism, flowering	2
+regulation of leaf formation	2
+regulation of jasmonic acid metabolic process	2
+regulation of intracellular pH	2
+regulation of inositol trisphosphate biosynthetic process	2
+regulation of inositol biosynthetic process	2
+regulation of growth rate	2
+regulation of gene silencing	2
+regulation of floral meristem growth	2
+regulation of flavonoid biosynthetic process	2
+regulation of fatty acid biosynthetic process	2
+regulation of epidermal cell division	2
+regulation of defense response to virus	2
+regulation of defense response to insect	2
+regulation of coenzyme A biosynthetic process	2
+regulation of chlorophyll metabolic process	2
+regulation of carbon utilization	2
+regulation of calcium-mediated signaling	2
+regulation of brassinosteroid biosynthetic process	2
+regulation of arginine biosynthetic process via ornithine	2
+regulation of RNA metabolic process	2
+regulation of L-ascorbic acid biosynthetic process	2
+regulation of 1-aminocyclopropane-1-carboxylate metabolic process	2
+regulation of (1->3)-beta-D-glucan biosynthetic process	2
+red chlorophyll catabolite reductase activity	2
+recombinase activity	2
+recognition of pollen	2
+receptor recycling	2
+radial microtubular system formation	2
+rRNA methyltransferase activity	2
+rRNA catabolic process	2
+rRNA binding	2
+rRNA 3'-end processing	2
+quinolinate synthetase A activity	2
+quercitrin binding	2
+pyruvate transmembrane transporter activity	2
+pyruvate dehydrogenase (acetyl-transferring) kinase activity	2
+pyrophosphate-dependent phosphofructokinase complex, beta-subunit complex	2
+pyrophosphate-dependent phosphofructokinase complex, alpha-subunit complex	2
+pyrimidine-containing compound salvage	2
+pyrimidine ribonucleoside monophosphate metabolic process	2
+pyrimidine nucleotide-sugar transmembrane transporter activity	2
+pyrimidine nucleotide biosynthetic process	2
+pyrimidine nucleobase salvage	2
+pyridoxamine-phosphate oxidase activity	2
+pyridoxal metabolic process	2
+pyridoxal biosynthetic process	2
+pyridine nucleotide salvage	2
+putrescine metabolic process	2
+purine ribonucleoside salvage	2
+purine nucleobase metabolic process	2
+proton motive force dependent protein transmembrane transporter activity	2
+proteoglycan binding	2
+protein-lysine N-methyltransferase activity	2
+protein tetramerization	2
+protein storage vacuole organization	2
+protein retention in ER lumen	2
+protein phosphatase inhibitor activity	2
+protein metabolic process	2
+protein localization involved in auxin polar transport	2
+protein kinase activator activity	2
+protein kinase C binding	2
+protein hexamerization	2
+protein domain specific binding	2
+protein complex scaffold	2
+protein complex disassembly	2
+protein body	2
+protein autoprocessing	2
+protein anchor	2
+protein N-acetylglucosaminyltransferase activity	2
+proteasome regulatory particle	2
+proteasome core complex, alpha-subunit complex	2
+proline catabolic process to glutamate	2
+progesterone 5-alpha-reductase activity	2
+production of small RNA involved in gene silencing by RNA	2
+procollagen-proline 4-dioxygenase activity	2
+prephenate dehydrogenase (NADP+) activity	2
+pre-autophagosomal structure	2
+potassium ion transmembrane transport	2
+potassium ion export	2
+potassium ion antiporter activity	2
+positive regulation of vacuole organization	2
+positive regulation of unidimensional cell growth	2
+positive regulation of tryptophan metabolic process	2
+positive regulation of triglyceride biosynthetic process	2
+positive regulation of systemic acquired resistance	2
+positive regulation of syringal lignin biosynthetic process	2
+positive regulation of sister chromatid cohesion	2
+positive regulation of shade avoidance	2
+positive regulation of response to water deprivation	2
+positive regulation of rRNA processing	2
+positive regulation of protein export from nucleus	2
+positive regulation of posttranscriptional gene silencing	2
+positive regulation of polynucleotide 3'-phosphatase activity	2
+positive regulation of organ growth	2
+positive regulation of nitrogen utilization	2
+positive regulation of mitotic cell cycle	2
+positive regulation of microtubule polymerization	2
+positive regulation of meiotic cell cycle	2
+positive regulation of intracellular protein transport	2
+positive regulation of heme biosynthetic process	2
+positive regulation of glycine hydroxymethyltransferase activity	2
+positive regulation of embryonic development	2
+positive regulation of defense response to bacterium	2
+positive regulation of defense response	2
+positive regulation of cytoplasmic mRNA processing body assembly	2
+positive regulation of cytokinin-activated signaling pathway	2
+positive regulation of cellular response to oxidative stress	2
+positive regulation of cellular defense response	2
+positive regulation of cell differentiation	2
+positive regulation of camalexin biosynthetic process	2
+positive regulation of calcium-mediated signaling	2
+positive regulation of brassinosteroid biosynthetic process	2
+positive regulation of auxin metabolic process	2
+positive regulation of auxin biosynthetic process	2
+positive regulation of atrichoblast fate specification	2
+positive regulation of anthocyanin metabolic process	2
+porphyrin-containing compound metabolic process	2
+porphobilinogen synthase activity	2
+polysaccharide metabolic process	2
+polyribonucleotide nucleotidyltransferase activity	2
+polynucleotide adenylyltransferase activity	2
+polynucleotide 5'-hydroxyl-kinase activity	2
+polyketide biosynthetic process	2
+polygalacturonase inhibitor activity	2
+polycistronic mRNA processing	2
+pollen hydration	2
+plasma membrane pyruvate transport	2
+plasma membrane of cell tip	2
+plasma membrane fusion	2
+phytosphingosine metabolic process	2
+phytochromobilin:ferredoxin oxidoreductase activity	2
+phytochelatin transmembrane transporter activity	2
+phytanoyl-CoA dioxygenase activity	2
+photosynthesis, dark reaction	2
+phosphotransferase activity, alcohol group as acceptor	2
+phosphorus metabolic process	2
+phosphoribulokinase activity	2
+phosphoribosylaminoimidazolesuccinocarboxamide synthase activity	2
+phosphoribosylaminoimidazole carboxylase complex	2
+phosphoribosylaminoimidazole carboxylase activity	2
+phosphoribosylamine-glycine ligase activity	2
+phosphomethylpyrimidine kinase activity	2
+phosphoenolpyruvate:phosphate antiporter activity	2
+phosphoadenylyl-sulfate reductase (thioredoxin) activity	2
+phosphatidylinositol-mediated signaling	2
+phosphatidylinositol-5-phosphate binding	2
+phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity	2
+phosphatidylinositol-3,4,5-trisphosphate binding	2
+phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	2
+phosphatidylglycerol metabolic process	2
+phosphatidylethanolamine biosynthetic process	2
+phosphatidylcholine metabolic process	2
+phosphatidic acid metabolic process	2
+phosphate-containing compound metabolic process	2
+phosphate ion transmembrane-transporting ATPase activity	2
+phloem glucosinolate loading	2
+phenylalanine-tRNA ligase complex	2
+phenylacetaldehyde synthase activity	2
+peroxisome matrix targeting signal-1 binding	2
+perinucleolar chromocenter	2
+pericentric heterochromatin assembly	2
+peptidoglycan binding	2
+peptide-methionine (R)-S-oxide reductase activity	2
+peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity	2
+pectin metabolic process	2
+pathogenesis	2
+pantetheine-phosphate adenylyltransferase activity	2
+p-coumarate 3-hydroxylase activity	2
+oxygen transporter activity	2
+oxygen evolving activity	2
+oxoglutarate dehydrogenase (succinyl-transferring) activity	2
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	2
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	2
+oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	2
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	2
+oxidized purine nucleobase lesion DNA N-glycosylase activity	2
+oxaloacetate transport	2
+oxalate catabolic process	2
+ovule morphogenesis	2
+orotidine-5'-phosphate decarboxylase activity	2
+orotate phosphoribosyltransferase activity	2
+organelle inner membrane	2
+omega-6 fatty acid desaturase activity	2
+omega peptidase activity	2
+oligosaccharide-lipid intermediate biosynthetic process	2
+oligosaccharide transmembrane transporter activity	2
+nucleotide-excision repair factor 1 complex	2
+nucleotide phosphorylation	2
+nucleosome binding	2
+nucleolus organizer region	2
+nucleologenesis	2
+nucleoid organization	2
+nucleocytoplasmic transporter activity	2
+nucleobase transmembrane transporter activity	2
+nuclear-transcribed mRNA catabolic process, exonucleolytic	2
+nuclear replisome	2
+nuclear microtubule	2
+nuclear membrane fusion	2
+nuclear lumen	2
+nuclear chromosome, telomeric region	2
+nuclear SCF ubiquitin ligase complex	2
+nitrite reductase complex [NAD(P)H]	2
+nitric oxide mediated signal transduction	2
+nitrate metabolic process	2
+nicotinate phosphoribosyltransferase activity	2
+nicotinamide-nucleotide adenylyltransferase activity	2
+neutral amino acid transport	2
+negative regulation of vernalization response	2
+negative regulation of trichome patterning	2
+negative regulation of trichoblast fate specification	2
+negative regulation of transposition	2
+negative regulation of signal transduction	2
+negative regulation of protein catabolic process	2
+negative regulation of proline biosynthetic process	2
+negative regulation of phosphoprotein phosphatase activity	2
+negative regulation of molecular function, epigenetic	2
+negative regulation of mitotic nuclear division	2
+negative regulation of microtubule depolymerization	2
+negative regulation of isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	2
+negative regulation of iron ion transport	2
+negative regulation of indoleacetic acid biosynthetic process via tryptophan	2
+negative regulation of hydrogen peroxide biosynthetic process	2
+negative regulation of flavonoid biosynthetic process	2
+negative regulation of exoribonuclease activity	2
+negative regulation of defense response to virus	2
+negative regulation of defense response to insect	2
+negative regulation of defense response to bacterium, incompatible interaction	2
+negative regulation of chlorophyll biosynthetic process	2
+negative regulation of cellular defense response	2
+negative regulation of cell size	2
+negative regulation of cell differentiation	2
+negative regulation of brassinosteroid biosynthetic process	2
+negative regulation of abscisic acid biosynthetic process	2
+negative regulation of Rho protein signal transduction	2
+negative regulation of L-ascorbic acid biosynthetic process	2
+myristoyltransferase activity	2
+myosin XI tail binding	2
+myo-inositol transport	2
+mucilage pectin biosynthetic process	2
+monocoumaroyl dicaffeoyl spermidine meta-hydroxylase activity	2
+monoacylglycerol catabolic process	2
+molybdate ion export from vacuole	2
+modulation by virus of host morphology or physiology	2
+mitotic spindle organization	2
+mitotic sister chromatid segregation	2
+mitotic cell size control checkpoint	2
+mitochondrial respiratory chain complex IV assembly	2
+mitochondrial respiratory chain complex I assembly	2
+mitochondrial RNA catabolic process	2
+microtubule plus-end binding	2
+microtubule organizing center	2
+microbody	2
+miRNA metabolic process	2
+methylglyoxal catabolic process	2
+methylenetetrahydrofolate reductase (NAD(P)H) activity	2
+methylammonium transmembrane transporter activity	2
+methionine-tRNA ligase activity	2
+methionine-oxo-acid transaminase activity	2
+methionine gamma-lyase activity	2
+methionine catabolic process via 2-oxobutanoate	2
+meristem growth	2
+membrane lipid catabolic process	2
+membrane disassembly	2
+meiotic spindle organization	2
+meiotic sister chromatid cohesion	2
+medium-chain fatty acid biosynthetic process	2
+mature ribosome assembly	2
+maturation of SSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)	2
+maturation of LSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)	2
+mannosyltransferase activity	2
+mannose-1-phosphate guanylyltransferase activity	2
+mannitol biosynthetic process	2
+manganese-transporting ATPase activity	2
+manganese ion transmembrane transport	2
+manganese ion homeostasis	2
+mandelonitrile lyase activity	2
+maltose transmembrane transporter activity	2
+maltose biosynthetic process	2
+malonyl-CoA catabolic process	2
+malonate catabolic process	2
+male meiosis sister chromatid cohesion	2
+male meiosis cytokinesis	2
+male meiosis II	2
+male meiosis I	2
+malate dehydrogenase (decarboxylating) (NAD+) activity	2
+maintenance of protein location in plasma membrane	2
+maintenance of protein localization in endoplasmic reticulum	2
+maintenance of meiotic sister chromatid cohesion	2
+magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity	2
+mRNA methylation	2
+mRNA metabolic process	2
+mRNA 5'-UTR binding	2
+m7G(5')pppN diphosphatase activity	2
+lytic vacuole within protein storage vacuole	2
+lysosome	2
+lysophospholipid acyltransferase activity	2
+lysine-tRNA ligase activity	2
+lycopene epsilon cyclase activity	2
+long-chain fatty acid biosynthetic process	2
+lipopolysaccharide biosynthetic process	2
+lipid particle	2
+linoleic acid epoxygenase activity	2
+linoleate 9S-lipoxygenase activity	2
+lignin catabolic process	2
+levanase activity	2
+leukotriene biosynthetic process	2
+lateral root branching	2
+kinase inhibitor activity	2
+ketoreductase activity	2
+jasmonate-amino synthetase activity	2
+jasmonate O-methyltransferase activity	2
+isovaleryl-CoA dehydrogenase activity	2
+isoprenoid metabolic process	2
+isopentenyl diphosphate biosynthetic process	2
+isomerase activity	2
+isoleucine biosynthetic process	2
+isocitrate lyase activity	2
+iron-nicotianamine transmembrane transporter activity	2
+iron ion transmembrane transport	2
+intrinsic component of plasma membrane	2
+intramolecular transferase activity, phosphotransferases	2
+intramolecular transferase activity	2
+intracellular transport of virus	2
+intracellular sequestering of iron ion	2
+intracellular lipid transport	2
+intracellular cyclic nucleotide activated cation channel activity	2
+intracellular copper ion transport	2
+intracellular cGMP activated cation channel activity	2
+interspecies interaction between organisms	2
+internode patterning	2
+integral component of thylakoid membrane	2
+inositol-1,3,4-trisphosphate 5-kinase activity	2
+inositol trisphosphate phosphatase activity	2
+inositol trisphosphate kinase activity	2
+inositol tetrakisphosphate kinase activity	2
+inositol tetrakisphosphate 2-kinase activity	2
+inositol phosphorylation	2
+inositol pentakisphosphate 2-kinase activity	2
+inflorescence meristem growth	2
+induction of programmed cell death	2
+indolepyruvate decarboxylase activity	2
+indoleacetic acid conjugate metabolic process	2
+indole-3-butyrate beta-glucosyltransferase activity	2
+indole-3-acetaldehyde oxidase activity	2
+hypoxanthine metabolic process	2
+hydroxypyruvate reductase activity	2
+hydroxymethylpyrimidine kinase activity	2
+hydroxymethylglutaryl-CoA synthase activity	2
+hydroxymethylglutaryl-CoA lyase activity	2
+hydroxymethylbilane synthase activity	2
+hydroxyisourate hydrolase activity	2
+hydrotropism	2
+hydrogen peroxide mediated signaling pathway involved in stomatal movement	2
+homogentisate phytyltransferase activity	2
+homogentisate 1,2-dioxygenase activity	2
+holo TFIIH complex	2
+histone-lysine N-methyltransferase activity	2
+histone methyltransferase activity (H3-K27 specific)	2
+histone kinase activity (H3-T3 specific)	2
+histone kinase activity (H3-T11 specific)	2
+histone kinase activity (H3-S28 specific)	2
+histone demethylase activity (H3-K9 specific)	2
+histone acetyltransferase complex	2
+histidinol-phosphatase activity	2
+high-affinity secondary active ammonium transmembrane transporter activity	2
+high-affinity iron ion transmembrane transport	2
+high-affinity copper ion transport	2
+heterotetrameric ADPG pyrophosphorylase complex	2
+heteropolysaccharide binding	2
+heteroduplex DNA loop binding	2
+hedgehog receptor activity	2
+guard mother cell differentiation	2
+guard mother cell cytokinesis	2
+guanosine deaminase activity	2
+guanine transport	2
+guanine salvage	2
+guanine metabolic process	2
+green leaf volatile biosynthetic process	2
+granum assembly	2
+glyoxysome organization	2
+glyoxysome	2
+glyoxylate metabolic process	2
+glyoxylate cycle	2
+glycine-tRNA ligase activity	2
+glycerophospholipid metabolic process	2
+glycerolipid metabolic process	2
+glycerol-3-phosphate dehydrogenase activity	2
+glycerol-3-phosphate biosynthetic process	2
+glycerol transmembrane transporter activity	2
+glycerate kinase activity	2
+glycerate dehydrogenase activity	2
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity	2
+glyceraldehyde-3-phosphate biosynthetic process	2
+glutathione transmembrane transport	2
+glutathione S-conjugate-exporting ATPase activity	2
+glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity	2
+glutamine secretion	2
+glutamine metabolic process	2
+glutamine biosynthetic process	2
+glutaminase activity	2
+glutamate-tRNA ligase activity	2
+glutamate-prephenate aminotransferase activity	2
+glutamate-1-semialdehyde 2,1-aminomutase activity	2
+glutamate synthase (NADH) activity	2
+glutamate receptor activity	2
+glucuronokinase activity	2
+glucosinolate:proton symporter activity	2
+glucosinolate transport	2
+glucosinolate biosynthetic process from homomethionine	2
+glucose-6-phosphate transport	2
+glucose-6-phosphate isomerase activity	2
+glucosamine 6-phosphate N-acetyltransferase activity	2
+glucan exo-1,3-beta-glucosidase activity	2
+gibberellin carboxyl-O-methyltransferase activity	2
+geranylgeranyl-diphosphate geranylgeranyltransferase activity	2
+generative cell differentiation	2
+gamma-aminobutyric acid transport	2
+gamma-aminobutyric acid transmembrane transporter activity	2
+gamma-aminobutyric acid metabolic process	2
+galacturonokinase activity	2
+galactose-1-phosphate guanylyltransferase (GDP) activity	2
+fumarylacetoacetase activity	2
+fumarate metabolic process	2
+fucokinase activity	2
+fructose export from vacuole to cytoplasm	2
+fructose 6-phosphate metabolic process	2
+fructose 2,6-bisphosphate metabolic process	2
+four-way junction helicase activity	2
+formamidase activity	2
+folic acid biosynthetic process	2
+focal adhesion assembly	2
+floral organ senescence	2
+flavonoid 3'-monooxygenase activity	2
+flavin-containing compound metabolic process	2
+filiform apparatus	2
+ferulate metabolic process	2
+female meiosis sister chromatid cohesion	2
+female gamete generation	2
+fatty-acyl-CoA synthase activity	2
+fatty-acyl-CoA biosynthetic process	2
+fatty acid transport	2
+fatty acid omega-oxidation	2
+fatty acid beta-oxidation, unsaturated, even number	2
+fatty acid alpha-oxidation	2
+fatty acid alpha-hydroxylase activity	2
+fat-soluble vitamin biosynthetic process	2
+far-red light photoreceptor activity	2
+exocytosis	2
+eukaryotic translation initiation factor 2alpha kinase activity	2
+euchromatin	2
+ethanolamine-phosphate cytidylyltransferase activity	2
+ethanolamine metabolic process	2
+establishment or maintenance of transmembrane electrochemical gradient	2
+establishment of meiotic sister chromatid cohesion	2
+epoxygenase P450 pathway	2
+ent-kaurenoate oxidase activity	2
+ent-kaurene oxidation to kaurenoic acid	2
+enoyl-[acyl-carrier-protein] reductase (NADH) activity	2
+enone reductase activity	2
+enhancer sequence-specific DNA binding	2
+endosperm cellularization	2
+endonucleolytic cleavage of tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)	2
+embryonic morphogenesis	2
+embryonic meristem initiation	2
+embryonic meristem development	2
+embryonic axis specification	2
+embryo sac morphogenesis	2
+embryo sac central cell differentiation	2
+elongation factor-2 kinase activity	2
+electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	2
+electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	2
+drug transmembrane transporter activity	2
+dolichol kinase activity	2
+diterpenoid biosynthetic process	2
+diphosphomevalonate decarboxylase activity	2
+dipeptidase activity	2
+dioxygenase activity	2
+dihydropyrimidinase activity	2
+dihydroorotase activity	2
+dihydrokaempferol 4-reductase activity	2
+dihydrofolate reductase activity	2
+dicoumaroyl monocaffeoyl spermidine meta-hydroxylase activity	2
+dicarboxylic acid transport	2
+diaminopimelate epimerase activity	2
+diaminohydroxyphosphoribosylaminopyrimidine deaminase activity	2
+diadenosine tetraphosphate catabolic process	2
+diacylglycerol catabolic process	2
+detoxification of nitrogen compound	2
+detoxification of copper ion	2
+detoxification of cadmium ion	2
+determination of left/right symmetry	2
+detection of mechanical stimulus	2
+detection of hypoxia	2
+detection of brassinosteroid stimulus	2
+deoxyribonucleoside triphosphate biosynthetic process	2
+delta3,5-delta2,4-dienoyl-CoA isomerase activity	2
+delta14-sterol reductase activity	2
+delta DNA polymerase complex	2
+defense response to protozoan, incompatible interaction	2
+cytoplasmic transport	2
+cytoplasmic stress granule	2
+cytoplasmic microtubule organization	2
+cytoplasmic microtubule	2
+cytoplasmic membrane-bounded vesicle	2
+cytoplasmic mRNA processing body assembly	2
+cytokinin 9-beta-glucosyltransferase activity	2
+cytokinin 7-beta-glucosyltransferase activity	2
+cysteine biosynthetic process from serine	2
+cystathionine beta-lyase activity	2
+cyclin-dependent protein kinase holoenzyme complex	2
+cyclin-dependent protein kinase activating kinase activity	2
+cyclic-nucleotide phosphodiesterase activity	2
+cyclase activity	2
+cyanide catabolic process	2
+cyanide biosynthetic process	2
+cyanate metabolic process	2
+cyanate hydratase activity	2
+cyanate catabolic process	2
+cutin transport	2
+cristae formation	2
+coumarin metabolic process	2
+cotyledon boundary formation	2
+core promoter sequence-specific DNA binding	2
+coproporphyrinogen oxidase activity	2
+copper-exporting ATPase activity	2
+copper uptake transmembrane transporter activity	2
+copper ion transmembrane transport	2
+coniferin beta-glucosidase activity	2
+condensin complex	2
+columella	2
+coenzyme A transmembrane transporter activity	2
+cobalt ion transport	2
+cleavage involved in rRNA processing	2
+clathrin-coated vesicle	2
+cis-Golgi network membrane	2
+cinnamic acid ester metabolic process	2
+cinnamic acid biosynthetic process	2
+chromoplast organization	2
+chorismate metabolic process	2
+choline biosynthetic process	2
+chloroplast elongation	2
+chlorophyllide a oxygenase [overall] activity	2
+chlorophyllase activity	2
+chlorophyll(ide) b reductase activity	2
+chlorophyll cycle	2
+chalcone isomerase activity	2
+chalcone biosynthetic process	2
+ceramide metabolic process	2
+centromere complex assembly	2
+cellular response to zinc ion	2
+cellular response to salicylic acid stimulus	2
+cellular response to redox state	2
+cellular response to reactive oxygen species	2
+cellular response to potassium ion	2
+cellular response to nutrient levels	2
+cellular response to mechanical stimulus	2
+cellular response to magnesium starvation	2
+cellular response to indolebutyric acid stimulus	2
+cellular response to glucose starvation	2
+cellular response to gibberellin stimulus	2
+cellular response to copper ion	2
+cellular response to calcium ion starvation	2
+cellular response to boron-containing substance deprivation	2
+cellular response to amino acid stimulus	2
+cellular response to UV-C	2
+cellular process regulating host cell cycle in response to virus	2
+cellular localization	2
+cellular carbohydrate metabolic process	2
+cellular aromatic compound metabolic process	2
+cellular amino acid catabolic process	2
+cellobiose glucosidase activity	2
+cell-cell signaling involved in cell fate commitment	2
+cell-cell junction	2
+cell wall thickening	2
+cell wall repair	2
+cell wall polysaccharide catabolic process	2
+cell surface pattern recognition receptor signaling pathway	2
+cell dedifferentiation	2
+carotenoid metabolic process	2
+carotenoid catabolic process	2
+carnitine racemase activity	2
+carboxyl- or carbamoyltransferase activity	2
+carbohydrate transmembrane transport	2
+carbohydrate phosphatase activity	2
+camalexin binding	2
+calcium-dependent protein kinase C activity	2
+calcium ion transmembrane transporter activity	2
+calcium ion transmembrane transport	2
+caffeate O-methyltransferase activity	2
+cGMP biosynthetic process	2
+butyrate-CoA ligase activity	2
+brassinosteroid sulfotransferase activity	2
+branched-chain amino acid catabolic process	2
+bract development	2
+borate transmembrane transport	2
+borate efflux transmembrane transporter activity	2
+biotin synthase activity	2
+biotin carboxylase activity	2
+biotin binding	2
+beta-ureidopropionase activity	2
+beta-alanine catabolic process	2
+beta-1,3-galactosyltransferase activity	2
+benzoic acid glucosyltransferase activity	2
+basic amino acid transmembrane transporter activity	2
+base conversion or substitution editing	2
+auxin influx	2
+auxin conjugate metabolic process	2
+aspartate-tRNA ligase activity	2
+aspartate-prephenate aminotransferase activity	2
+aspartate-ammonia ligase activity	2
+asparagine-tRNA ligase activity	2
+arsenate ion transmembrane transporter activity	2
+aromatic-amino-acid:2-oxoglutarate aminotransferase activity	2
+arginine-tRNA ligase activity	2
+arginine decarboxylase activity	2
+arginine catabolic process	2
+arginine biosynthetic process via ornithine	2
+apical cell fate commitment	2
+anther wall tapetum cell fate specification	2
+annealing helicase activity	2
+anion transmembrane transporter activity	2
+anion homeostasis	2
+anastral spindle assembly involved in male meiosis	2
+anaphase-promoting complex binding	2
+ammonium transmembrane transport	2
+alpha-ketoglutarate transmembrane transporter activity	2
+alpha-farnesene synthase activity	2
+alpha DNA polymerase:primase complex	2
+allene oxide synthase activity	2
+allantoin biosynthetic process	2
+alkyl caffeate ester biosynthetic process	2
+aldehyde catabolic process	2
+alanine biosynthetic process	2
+agmatinase activity	2
+adenylosuccinate synthase activity	2
+adenosine nucleosidase activity	2
+adenosine metabolic process	2
+adenine transport	2
+acyl-CoA metabolic process	2
+activating transcription factor binding	2
+actin filament severing	2
+actin crosslink formation	2
+acquisition of desiccation tolerance in seed	2
+acetyl-CoA:L-glutamate N-acetyltransferase activity	2
+acetyl-CoA carboxylase complex	2
+acetate CoA-transferase complex	2
+abscisic acid-activated signaling pathway involved in stomatal movement	2
+UDP-glucuronate metabolic process	2
+UDP-glucose 4,6-dehydratase activity	2
+UDP-N-acetylglucosamine diphosphorylase activity	2
+UDP-N-acetylgalactosamine diphosphorylase activity	2
+UDP-D-galactose metabolic process	2
+UDP-4-keto-rhamnose-4-keto-reductase activity	2
+UDP-4-keto-6-deoxy-glucose-3,5-epimerase activity	2
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity	2
+U6atac snRNP	2
+U4 snRNP	2
+TBP-class protein binding	2
+T/G mismatch-specific endonuclease activity	2
+S-methylmethionine cycle	2
+S-adenosylmethionine metabolic process	2
+RNA stabilization	2
+RNA polymerase complex	2
+RNA polymerase II core promoter sequence-specific DNA binding	2
+RNA polymerase I core factor complex	2
+RNA 3' uridylation	2
+PcG protein complex	2
+NADPH binding	2
+NADP metabolic process	2
+NAD+ diphosphatase activity	2
+NAD transporter activity	2
+NAD metabolic process	2
+N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	2
+N-acylethanolamine metabolic process	2
+MutSbeta complex	2
+Mre11 complex	2
+MAP kinase tyrosine phosphatase activity	2
+LRR domain binding	2
+L-threonine ammonia-lyase activity	2
+L-methionine biosynthetic process from L-homoserine via cystathionine	2
+L-histidine transmembrane transporter activity	2
+L-glutamate import	2
+L-cysteine catabolic process to pyruvate	2
+L-ascorbic acid metabolic process	2
+L-arabinokinase activity	2
+L-alanine catabolic process, by transamination	2
+IMP salvage	2
+IMP dehydrogenase activity	2
+IAA-Ala conjugate hydrolase activity	2
+Hsp70 protein binding	2
+Group III intron splicing	2
+Group I intron splicing	2
+GTPase activator activity	2
+GPI anchor metabolic process	2
+GMP salvage	2
+GDP-mannose transmembrane transporter activity	2
+GDP-mannose 3,5-epimerase activity	2
+GDP-fucose transport	2
+GDP-fucose transmembrane transporter activity	2
+GDP-L-fucose salvage	2
+GDP-L-fucose biosynthetic process	2
+GDP-D-glucose phosphorylase activity	2
+G2/M transition of mitotic cell cycle	2
+G-protein coupled receptor activity	2
+FAD metabolic process	2
+F-actin capping protein complex	2
+DNA rewinding	2
+DNA replication preinitiation complex	2
+DNA replication checkpoint	2
+DNA polymerase processivity factor activity	2
+DNA modification	2
+DNA ligase IV complex	2
+DNA integration	2
+DNA damage checkpoint	2
+DNA binding, bending	2
+DNA (6-4) photolyase activity	2
+DEAD/H-box RNA helicase binding	2
+D-serine metabolic process	2
+D-serine biosynthetic process	2
+D-galacturonate metabolic process	2
+D-cysteine desulfhydrase activity	2
+D-cysteine catabolic process	2
+D-amino acid catabolic process	2
+Cul3-RING ubiquitin ligase complex	2
+CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	2
+CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity	2
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity	2
+CDP-alcohol phosphatidyltransferase activity	2
+CAF-1 complex	2
+CAAX-protein geranylgeranyltransferase complex	2
+CAAX-protein geranylgeranyltransferase activity	2
+C-20 gibberellin 2-beta-dioxygenase activity	2
+Atg8-specific protease activity	2
+Atg8 ligase activity	2
+AU-rich element binding	2
+ATPase binding	2
+ATP-dependent microtubule motor activity, plus-end-directed	2
+ATP-dependent microtubule motor activity, minus-end-directed	2
+AMP biosynthetic process	2
+ADP-glucose pyrophosphohydrolase activity	2
+ADP binding	2
+7-methylguanosine metabolic process	2
+6-methylthiopropyl glucosinolate S-oxygenase activity	2
+6,7-dimethyl-8-ribityllumazine synthase activity	2
+5S rRNA binding	2
+5-amino-6-(5-phosphoribosylamino)uracil reductase activity	2
+5'-3' exonuclease activity	2
+4-aminobutyrate transaminase activity	2
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity	2
+4 iron, 4 sulfur cluster binding	2
+3-phosphoinositide-dependent protein kinase activity	2
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity	2
+3-mercaptopyruvate sulfurtransferase activity	2
+3-deoxy-manno-octulosonate cytidylyltransferase activity	2
+3-dehydrosphinganine reductase activity	2
+2-phytyl-1,4-naphthoquinone methyltransferase activity	2
+2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase activity	2
+2-methylguanosine metabolic process	2
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity	2
+2'-deoxyribonucleotide metabolic process	2
+1-pyrroline-5-carboxylate dehydrogenase activity	2
+1-methylguanosine metabolic process	2
+1-aminocyclopropane-1-carboxylate deaminase activity	2
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity	2
+(S)-coclaurine-N-methyltransferase activity	2
+(+)-abscisic acid D-glucopyranosyl ester transmembrane transporter activity	2
+'de novo' GDP-L-fucose biosynthetic process	2
+zygotene	1
+zygote asymmetric cell division	1
+zinc transporting ATPase activity	1
+zeinoxanthin epsilon hydroxylase activity	1
+xylulose metabolic process	1
+xylose isomerase activity	1
+xyloglucan-specific endo-beta-1,4-glucanase activity	1
+xyloglucan 1,6-alpha-xylosidase activity	1
+xylogalacturonan metabolic process	1
+xylem vessel member cell differentiation	1
+xanthoxin dehydrogenase activity	1
+xanthosine nucleotidase activity	1
+xanthophyll binding	1
+virion binding	1
+viral genome replication	1
+violaxanthin de-epoxidase activity	1
+vesicle membrane	1
+vacuolar sorting signal binding	1
+vacuolar sequestering of sodium ion	1
+vacuolar acidification	1
+uridine-diphosphatase activity	1
+uridine nucleosidase activity	1
+urate oxidase activity	1
+uracil:cation symporter activity	1
+unconventional myosin complex	1
+ubiquitin conjugating enzyme binding	1
+tubulin-tyrosine ligase activity	1
+tubulin deacetylase activity	1
+tryptophan transport	1
+tropism	1
+triphosphatase activity	1
+tripeptidyl-peptidase activity	1
+triose phosphate transport	1
+trihydroxyferuloyl spermidine:S-adenosyl-L-methionine O-methyltransferase activity	1
+triglyceride transport	1
+triglyceride homeostasis	1
+triferuloylspermidine meta-hydroxylase activity	1
+tricarboxylic acid transmembrane transporter activity	1
+tricaffeoyl spermidine:S-adenosyl-L-methionine O-methyltransferase activity	1
+tri-(feruloyl or hydroxyferuloyl) spermidine meta-hydroxylase activity	1
+trehalase activity	1
+transposition, RNA-mediated	1
+transposase activity	1
+translation repressor activity	1
+transition metal ion binding	1
+transferase activity, transferring pentosyl groups	1
+trans-cinnamate 4-monooxygenase activity	1
+trans-2-enoyl-CoA reductase (NADPH) activity	1
+tocopherol O-methyltransferase activity	1
+threonine-type endopeptidase activity	1
+thioredoxin peroxidase activity	1
+thiohydroximate beta-D-glucosyltransferase activity	1
+thioglucosidase binding	1
+thermospermine synthase activity	1
+thalianol synthase activity	1
+thalianol hydroxylase activity	1
+thalian-diol desaturase activity	1
+terpenoid transport	1
+temperature compensation of the circadian clock	1
+telomeric template RNA reverse transcriptase activity	1
+telomerase inhibitor activity	1
+tRNA methyltransferase activity	1
+tRNA adenylyltransferase activity	1
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase activity	1
+syncytium formation by mitosis without cytokinesis	1
+symbiosis, encompassing mutualism through parasitism	1
+symbiont intracellular protein transport in host	1
+supercoiled DNA binding	1
+sulfurtransferase activity	1
+sulfur dioxygenase activity	1
+sulfonylurea receptor activity	1
+sulfate ion homeostasis	1
+sulfate adenylyltransferase (ADP) activity	1
+sugar-phosphatase activity	1
+succinate transport	1
+succinate transmembrane transporter activity	1
+structural constituent of eye lens	1
+stomatal opening	1
+stipule development	1
+sterol 5-alpha reductase activity	1
+sterol 14-demethylase activity	1
+stem cell fate determination	1
+stem cell division	1
+stem cell development	1
+stele development	1
+starch binding	1
+sporocyte differentiation	1
+sphingosine-1-phosphate phosphatase activity	1
+sphingosine transmembrane transporter activity	1
+sphingolipid delta-8 desaturase activity	1
+spermidine:feruloyl CoA N-acyltransferase activity	1
+spermidine:coumaroyl CoA N-acyltransferase activity	1
+spermidine:caffeoyl CoA N-acyltransferase activity	1
+sperm capacitation	1
+specification of symmetry	1
+specification of decreased petal number	1
+specification of carpel identity	1
+sorbitol transmembrane transporter activity	1
+somatic stem cell maintenance	1
+somatic stem cell division	1
+solute:sodium symporter activity	1
+solute:proton antiporter activity	1
+sodium:potassium:chloride symporter activity	1
+sodium:dicarboxylate symporter activity	1
+sodium ion homeostasis	1
+sodium channel activity	1
+socket cell differentiation	1
+small nucleolar ribonucleoprotein complex assembly	1
+small GTPase mediated signal transduction	1
+site of polarized growth	1
+sirohydrochlorin ferrochelatase activity	1
+single fertilization	1
+sinapoyltransferase activity	1
+sinapoylglucose-malate O-sinapoyltransferase activity	1
+sinapoyl spermidine:sinapoyl CoA N-acyltransferase activity	1
+signaling	1
+signal sequence binding	1
+sialic acid transport	1
+sialic acid transmembrane transporter activity	1
+short-day photoperiodism	1
+shoot organ boundary specification	1
+shikimate O-hydroxycinnamoyltransferase activity	1
+shikimate 3-dehydrogenase (NADP+) activity	1
+sex determination	1
+sesquiterpene synthase activity	1
+serine-type aminopeptidase activity	1
+serine-pyruvate transaminase activity	1
+serine-glyoxylate transaminase activity	1
+sequestering of metal ion	1
+sepal vascular tissue pattern formation	1
+sepal giant cell development	1
+sedoheptulose-bisphosphatase activity	1
+salicylic acid glucosyltransferase (ester-forming) activity	1
+salicin transmembrane transporter activity	1
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity	1
+sabinene synthase activity	1
+rubber cis-polyprenylcistransferase activity	1
+root hair tip	1
+ribulose-1,5-bisphosphate carboxylase/oxygenase activator activity	1
+ribosomal large subunit biogenesis	1
+ribose-5-phosphate isomerase activity	1
+ribose-5-phosphate adenylyltransferase activity	1
+ribonucleoprotein complex	1
+riboflavin synthase activity	1
+rhamnose biosynthetic process	1
+response to very low light intensity stimulus	1
+response to unfolded protein	1
+response to trehalose-6-phosphate	1
+response to sulfur dioxide	1
+response to sorbitol	1
+response to selenium ion	1
+response to salt	1
+response to redox state	1
+response to proline	1
+response to potassium ion	1
+response to phenylpropanoid	1
+response to phenylalanine	1
+response to parasitic fungus	1
+response to paraquat	1
+response to pH	1
+response to oxygen levels	1
+response to organonitrogen compound	1
+response to organic substance	1
+response to oomycetes	1
+response to nitric oxide	1
+response to mycotoxin	1
+response to low fluence red light stimulus	1
+response to lipid hydroperoxide	1
+response to leucine	1
+response to histidine	1
+response to growth hormone	1
+response to extracellular stimulus	1
+response to ethanol	1
+response to drug	1
+response to chlorate	1
+response to cesium ion	1
+response to antibiotic	1
+response to L-glutamate	1
+response to DDT	1
+response to ATP	1
+respiratory burst	1
+replication fork	1
+regulation of tocopherol cyclase activity	1
+regulation of timing of organ formation	1
+regulation of sulfur utilization	1
+regulation of stem cell maintenance	1
+regulation of stem cell division	1
+regulation of shoot apical meristem development	1
+regulation of seed development	1
+regulation of ribosome biogenesis	1
+regulation of response to nutrient levels	1
+regulation of raffinose metabolic process	1
+regulation of raffinose biosynthetic process	1
+regulation of primary metabolic process	1
+regulation of plant-type cell wall organization or biogenesis	1
+regulation of organ morphogenesis	1
+regulation of organ formation	1
+regulation of multicellular organismal development	1
+regulation of membrane potential	1
+regulation of meiotic cell cycle	1
+regulation of mRNA stability	1
+regulation of lateral root development	1
+regulation of iron ion transport	1
+regulation of ion homeostasis	1
+regulation of inflorescence meristem growth	1
+regulation of hydrolase activity	1
+regulation of hormone metabolic process	1
+regulation of flavonol biosynthetic process	1
+regulation of establishment of cell polarity	1
+regulation of defense response by callose deposition	1
+regulation of cell death	1
+regulation of cell adhesion	1
+regulation of anthocyanin catabolic process	1
+regulation of adaxial/abaxial pattern formation	1
+regulation of ATPase activity	1
+regulation of 1-deoxy-D-xylulose-5-phosphate synthase activity	1
+regulation by virus of viral protein levels in host cell	1
+red light photoreceptor activity	1
+reciprocal DNA recombination	1
+receptor-mediated endocytosis	1
+receptor complex	1
+raffinose catabolic process	1
+raffinose alpha-galactosidase activity	1
+racemase and epimerase activity, acting on amino acids and derivatives	1
+rDNA binding	1
+quinone binding	1
+quinate O-hydroxycinnamoyltransferase activity	1
+quercetin 3-O-methyltransferase activity	1
+pyruvate, phosphate dikinase activity	1
+pyruvate transport	1
+pyrimidine nucleoside transport	1
+pyridoxine:NADP 4-dehydrogenase activity	1
+purine nucleotide binding	1
+purine nucleoside transmembrane transporter activity	1
+pullulanase activity	1
+proximal/distal axis specification	1
+proton-transporting two-sector ATPase complex	1
+proton-transporting V-type ATPase complex assembly	1
+protoderm histogenesis	1
+protein-tyrosine sulfotransferase activity	1
+protein-disulfide reductase activity	1
+protein-N-terminal asparagine amidohydrolase activity	1
+protein tyrosine phosphatase activity, metal-dependent	1
+protein trimerization	1
+protein retention in Golgi apparatus	1
+protein prenyltransferase activity	1
+protein phosphatase type 2B regulator activity	1
+protein phosphatase 2A binding	1
+protein localization to organelle	1
+protein homotrimerization	1
+protein farnesyltransferase activity	1
+protein disulfide oxidoreductase activity	1
+proplastid	1
+profilin binding	1
+primary miRNA binding	1
+primary meristem tissue development	1
+primary endosperm nucleus	1
+primary active transmembrane transporter activity	1
+prenylcysteine oxidase activity	1
+prenylcysteine methylesterase activity	1
+pre-miRNA binding	1
+potassium:sodium symporter activity	1
+positive regulation of transferase activity	1
+positive regulation of secondary growth	1
+positive regulation of secondary cell wall biogenesis	1
+positive regulation of potassium ion transport	1
+positive regulation of leaf senescence	1
+positive regulation of hydroxymethylglutaryl-CoA reductase (NADPH) activity	1
+positive regulation of growth of symbiont involved in interaction with host	1
+positive regulation of cytosolic calcium ion concentration	1
+positive regulation of cytokinesis	1
+positive regulation of cell fate commitment	1
+positive regulation of cell communication	1
+positive regulation of catalase activity	1
+positive regulation of calcium ion transport	1
+positive regulation of asymmetric cell division	1
+positive regulation of DNA-5-methylcytosine glycosylase activity	1
+positive regulation of DNA binding	1
+porin activity	1
+polysome	1
+polyprenyltransferase activity	1
+polyprenyldihydroxybenzoate methyltransferase activity	1
+polyol transport	1
+poly(G) binding	1
+pollination	1
+pollen coat	1
+plastoquinol--plastocyanin reductase activity	1
+plasma membrane to endosome transport	1
+plant-type spore development	1
+plant-type cell wall organization or biogenesis	1
+plant seed peroxidase activity	1
+pinocytosis	1
+pinene synthase activity	1
+pigment binding	1
+phytol kinase activity	1
+phytoene synthase activity	1
+phytoene dehydrogenase activity	1
+phosphoribosylglycinamide formyltransferase activity	1
+phosphoribosylformylglycinamidine synthase activity	1
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity	1
+phosphoribosyl-ATP diphosphatase activity	1
+phosphoribosyl-AMP cyclohydrolase activity	1
+phosphopantothenate--cysteine ligase activity	1
+phosphomethylethanolamine N-methyltransferase activity	1
+phospholipid:diacylglycerol acyltransferase activity	1
+phospholipid transporter activity	1
+phospholipid transport	1
+phospholipid homeostasis	1
+phosphohistidine phosphatase activity	1
+phosphoglycerate mutase activity	1
+phosphoglycerate dehydrogenase activity	1
+phosphoethanolamine phosphatase activity	1
+phosphocholine phosphatase activity	1
+phosphatidylinositol-4-phosphate phosphatase activity	1
+phosphatidylinositol-4-phosphate binding	1
+phosphatidylinositol-3-phosphate binding	1
+phosphatidylinositol-3-phosphatase activity	1
+phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity	1
+phosphatidylinositol-3,4-bisphosphate binding	1
+phosphatidylinositol phosphate phosphatase activity	1
+phosphatidylinositol phosphate binding	1
+phosphatidylinositol N-acetylglucosaminyltransferase activity	1
+phosphatidylethanolamine-sterol O-acyltransferase activity	1
+phosphatidylcholine binding	1
+phosphatidyl-N-methylethanolamine N-methyltransferase activity	1
+phosphatidyl-N-dimethylethanolamine N-methyltransferase activity	1
+phosphatidate-sterol O-acyltransferase activity	1
+phosphatase activator activity	1
+phloem nitrate loading	1
+pheophytinase activity	1
+pheophorbide a oxygenase activity	1
+phenylcoumaran benzylic ether reductase activity	1
+petal vascular tissue pattern formation	1
+petal epidermis patterning	1
+peroxisome matrix targeting signal-2 binding	1
+peroxisomal transport	1
+perianth development	1
+peptide transporter activity	1
+peptide transport	1
+peptide binding	1
+p-coumaryl alcohol transport	1
+oxygen-dependent protoporphyrinogen oxidase activity	1
+oxygen transport	1
+oxidosqualene cyclase activity	1
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	1
+oxidoreductase activity, acting on a sulfur group of donors	1
+oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	1
+oxidoreductase activity, acting on CH-OH group of donors	1
+oxalate-CoA ligase activity	1
+ovary septum development	1
+ornithine transport	1
+organic hydroxy compound transport	1
+organelle lumen	1
+organelle	1
+o-succinylbenzoate-CoA ligase activity	1
+nucleotide transmembrane transporter activity	1
+nucleoside transmembrane transporter activity, against a concentration gradient	1
+nucleobase:cation symporter activity	1
+nucleobase-containing compound transmembrane transporter activity	1
+nuclear outer membrane-endoplasmic reticulum membrane network	1
+nodulation	1
+nitrogen utilization	1
+nitrogen fixation	1
+nitrite reductase (NO-forming) activity	1
+nitrile hydratase activity	1
+nitric oxide binding	1
+nitrate:proton symporter activity	1
+nitrate reductase (NADH) activity	1
+nitrate efflux transmembrane transporter activity	1
+nicotinate-nucleotide adenylyltransferase activity	1
+nicotinate transporter activity	1
+nicotinate transport	1
+nickel cation binding	1
+negative regulation of seed maturation	1
+negative regulation of seed dormancy process	1
+negative regulation of secondary growth	1
+negative regulation of protein binding	1
+negative regulation of mitotic cell cycle	1
+negative regulation of metabolic process	1
+negative regulation of lateral root development	1
+negative regulation of developmental growth	1
+negative regulation of cell cycle	1
+negative regulation of cell aging	1
+negative regulation of DNA binding	1
+nectar secretion	1
+naringenin-chalcone synthase activity	1
+naringenin 3-dioxygenase activity	1
+myricetin 3'-O-methyltransferase activity	1
+myo-inositol transmembrane transporter activity	1
+multicellular organismal water homeostasis	1
+multicellular organism growth	1
+monosaccharide metabolic process	1
+monoferuloyl di-(hydroxyferuloyl) spermidine meta-hydroxylase activity	1
+molybdenum ion binding	1
+mitotic cell cycle checkpoint	1
+mitotic M phase	1
+mitotic DNA integrity checkpoint	1
+mitogen-activated protein kinase binding	1
+mitochondrial respiratory chain complex IV biogenesis	1
+mitochondrial respiratory chain complex I biogenesis	1
+minus-end kinesin complex	1
+midchain alkane hydroxylase activity	1
+methylcrotonoyl-CoA carboxylase activity	1
+methylammonium transport	1
+methotrexate transporter activity	1
+methotrexate transport	1
+methionine-R-sulfoxide reductase activity	1
+metallochaperone activity	1
+metal ion homeostasis	1
+membrane invagination	1
+medium-chain fatty acid-CoA ligase activity	1
+mechanosensory behavior	1
+marneral synthase activity	1
+mannose-1-phosphate guanylyltransferase (GDP) activity	1
+mannose biosynthetic process	1
+mannitol transmembrane transporter activity	1
+mannan endo-1,4-beta-mannosidase activity	1
+manganese:proton antiporter activity	1
+manganese ion binding	1
+maltose:proton symporter activity	1
+maltose transport	1
+malonyl-CoA synthetase activity	1
+malonyl-CoA decarboxylase activity	1
+maleylacetoacetate isomerase activity	1
+male-female gamete recognition during double fertilization	1
+malate synthase activity	1
+maintenance of protein location	1
+magnesium protoporphyrin IX methyltransferase activity	1
+mRNA cap binding complex	1
+mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity	1
+lysophospholipase activity	1
+lysophosphatidic acid phosphatase activity	1
+lysophosphatidic acid acyltransferase activity	1
+lycopene beta cyclase activity	1
+luteolin O-methyltransferase activity	1
+low-affinity phosphate transmembrane transporter activity	1
+longitudinal side of cell surface	1
+long-day photoperiodism	1
+long-chain-enoyl-CoA hydratase activity	1
+long-chain-alcohol O-fatty-acyltransferase activity	1
+long-chain fatty acid [acyl-carrier-protein] ligase activity	1
+localization	1
+lithium:proton antiporter activity	1
+lithium ion export	1
+lipoyl(octanoyl) transferase activity	1
+lipid homeostasis	1
+limit dextrinase activity	1
+ligand-gated ion channel activity	1
+leukotriene production involved in inflammatory response	1
+leucoplast	1
+leucocyanidin oxygenase activity	1
+leptotene	1
+large ribosomal subunit rRNA binding	1
+lanosterol synthase activity	1
+lactate transport	1
+lactate transmembrane transporter activity	1
+lactate dehydrogenase activity	1
+kinesin complex	1
+kinase activator activity	1
+ketol-acid reductoisomerase activity	1
+jasmonyl-Ile conjugate hydrolase activity	1
+jasmonoyl-isoleucine-12-hydroxylase activity	1
+iron chelate transport	1
+ion transport	1
+inulinase activity	1
+intramolecular transferase activity, transferring hydroxy groups	1
+intrachromosomal DNA recombination	1
+intracellular organelle	1
+intracellular cAMP activated cation channel activity	1
+intracellular auxin transport	1
+interphase	1
+intermembrane transport	1
+inter-Golgi cisterna vesicle-mediated transport	1
+inositol-1,4-bisphosphate 1-phosphatase activity	1
+inositol phosphate-mediated signaling	1
+inositol hexakisphosphate binding	1
+inositol bisphosphate phosphatase activity	1
+inosine-diphosphatase activity	1
+inorganic diphosphate transmembrane transporter activity	1
+inductive cell-cell signaling	1
+indoleacetamide hydrolase activity	1
+indoleacetaldoxime dehydratase activity	1
+indole-3-glycerol-phosphate synthase activity	1
+indole-3-glycerol-phosphate lyase activity	1
+indole-3-acetate beta-glucosyltransferase activity	1
+indole acetic acid carboxyl methyltransferase activity	1
+indol-3-yl-methyl-desulfoglucosinolate sulfotransferase activity	1
+indeterminate inflorescence morphogenesis	1
+immune response-regulating signaling pathway	1
+imidazoleglycerol-phosphate synthase activity	1
+hypoxanthine phosphoribosyltransferase activity	1
+hydroxyjasmonate sulfotransferase activity	1
+hydrogen peroxide mediated signaling pathway	1
+hydrogen ion transmembrane transporter activity	1
+hydrogen ion channel activity	1
+host response to induction by symbiont of tumor, nodule or growth in host	1
+host programmed cell death induced by symbiont	1
+homogentisate solanesyltransferase activity	1
+homogentisate geranylgeranyltransferase activity	1
+homogentisate farnesyltransferase activity	1
+homogalacturonan metabolic process	1
+histone methyltransferase activity (H3-K9 specific)	1
+histone demethylase activity (H4-R3 specific)	1
+histone demethylase activity (H3-R2 specific)	1
+histidinol dehydrogenase activity	1
+high-affinity oligopeptide transporter activity	1
+high-affinity hydrogen:glucose symporter activity	1
+hexose:proton symporter activity	1
+hexose catabolic process	1
+hexaprenyldihydroxybenzoate methyltransferase activity	1
+heme transporter activity	1
+heat shock protein binding	1
+guanosine-diphosphatase activity	1
+ground tissue pattern formation	1
+glycylpeptide N-tetradecanoyltransferase activity	1
+glycoprotein 2-beta-D-xylosyltransferase activity	1
+glycolate dehydrogenase activity	1
+glycerol-3-phosphate transport	1
+glycerol-3-phosphate transmembrane transporter activity	1
+glycerol-3-phosphate O-acyltransferase activity	1
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) activity	1
+glutathione disulfide oxidoreductase activity	1
+glutaminyl-peptide cyclotransferase activity	1
+glutamine-tRNA ligase activity	1
+glutamine-fructose-6-phosphate transaminase (isomerizing) activity	1
+glutamate dehydrogenase (NAD+) activity	1
+glutamate N-acetyltransferase activity	1
+glucuronate-1-phosphate uridylyltransferase activity	1
+glucoside transport	1
+glucosidase activity	1
+glucose-1-phosphate guanylyltransferase (GDP) activity	1
+glucose-1-phosphate adenylyltransferase complex	1
+glucose transport	1
+glucose homeostasis	1
+glucosamine biosynthetic process	1
+glucan endo-1,3-beta-D-glucosidase activity	1
+gibberellin binding	1
+germ-line stem-cell niche homeostasis	1
+geranylgeranyl reductase activity	1
+geranylgeraniol kinase activity	1
+geraniol kinase activity	1
+generative cell nucleus	1
+gamma-tubulin binding	1
+gamma-glutamyl-peptidase activity	1
+galactosyltransferase activity	1
+galactose biosynthetic process	1
+galactonolactone dehydrogenase activity	1
+galactolipid galactosyltransferase activity	1
+galactinol-sucrose galactosyltransferase activity	1
+galactinol-raffinose galactosyltransferase activity	1
+fucosidase activity	1
+fucose-1-phosphate guanylyltransferase activity	1
+fucose biosynthetic process	1
+fruit septum development	1
+fruit abscission	1
+fructose-2,6-bisphosphate 2-phosphatase activity	1
+fructose transport	1
+fructose transmembrane transporter activity	1
+formation by symbiont of syncytium involving giant cell for nutrient acquisition from host	1
+formate-tetrahydrofolate ligase activity	1
+folic acid transport	1
+floral whorl morphogenesis	1
+floral meristem growth	1
+flavonol metabolic process	1
+flavonol 3-O-glucosyltransferase activity	1
+flavonol 3-O-arabinosyltransferase activity	1
+ferulate 5-hydroxylase activity	1
+ferredoxin-nitrate reductase activity	1
+ferredoxin hydrogenase activity	1
+fatty-acyl-CoA transport	1
+fatty acid transporter activity	1
+fatty acid in-chain hydroxylase activity	1
+fatty acid homeostasis	1
+farnesol kinase activity	1
+farnesol dehydrogenase activity	1
+farnesoic acid O-methyltransferase activity	1
+extracellular transport	1
+extracellular matrix structural constituent	1
+exochitinase activity	1
+establishment of tissue polarity	1
+establishment of petal orientation	1
+esculin beta-glucosidase activity	1
+ent-kaurene synthase activity	1
+enoyl-[acyl-carrier-protein] reductase activity	1
+endoribonuclease activity, producing 5'-phosphomonoesters	1
+endomitotic cell cycle	1
+endodeoxyribonuclease activity	1
+endochitinase activity	1
+embryonic shoot morphogenesis	1
+electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+electron transporter, transferring electrons from cytochrome b6/f complex of photosystem II activity	1
+early endosome to late endosome transport	1
+double-strand/single-strand DNA junction binding	1
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity	1
+diphthine synthase activity	1
+dihydroxy-acid dehydratase activity	1
+dihydropyrimidine dehydrogenase (NADP+) activity	1
+dihydroneopterin triphosphate pyrophosphohydrolase activity	1
+dihydrolipoamide branched chain acyltransferase activity	1
+dihydrofolate synthase activity	1
+dihydrocamalexic acid decarboxylase activity	1
+digalactosyldiacylglycerol synthase activity	1
+diferuloyl mono-(hydroxyferuloyl) spermidine meta-hydroxylase activity	1
+diacylglycerol cholinephosphotransferase activity	1
+diacylglycerol binding	1
+detoxification of cobalt ion	1
+detoxification of arsenic-containing substance	1
+dethiobiotin synthase activity	1
+determination of dorsal identity	1
+detection of temperature stimulus	1
+detection of redox state	1
+detection of phosphate ion	1
+detection of peptidoglycan	1
+detection of nutrient	1
+detection of light stimulus	1
+detection of cytokinin stimulus	1
+deoxynucleoside kinase activity	1
+delta12-fatty acid dehydrogenase activity	1
+delta1-pyrroline-5-carboxylate synthetase activity	1
+delta 3-trans-hexadecenoic acid phosphatidylglycerol desaturase activity	1
+deaminase activity	1
+dUTP diphosphatase activity	1
+dTDP-glucose 4,6-dehydratase activity	1
+dTDP-4-dehydrorhamnose reductase activity	1
+dTDP-4-dehydrorhamnose 3,5-epimerase activity	1
+cytosol to ER transport	1
+cytoskeletal protein binding	1
+cytokinin transport	1
+cytokine binding	1
+cytidylate kinase activity	1
+cyclosporin A binding	1
+cycloeucalenol cycloisomerase activity	1
+cycloartenol synthase activity	1
+cyanoalanine nitrilase activity	1
+cyanidin 3-O-glucoside metabolic process	1
+cutinase activity	1
+crotonoyl-[acyl-carrier-protein] hydratase activity	1
+coniferyl-aldehyde dehydrogenase activity	1
+coenzyme F420 hydrogenase activity	1
+cobalt ion transmembrane transporter activity	1
+cobalt ion homeostasis	1
+citrate transmembrane transporter activity	1
+chromosome separation	1
+chromosome localization	1
+chromoplast	1
+chloroplast localization	1
+chlorophyll synthetase activity	1
+chlorophyll catabolite transmembrane transporter activity	1
+chitosan binding	1
+chitin catabolic process	1
+channel regulator activity	1
+ceramide kinase activity	1
+ceramide glucosyltransferase activity	1
+centrolateral axis specification	1
+cellulose synthase complex	1
+cellulose synthase (UDP-forming) activity	1
+cellular transition metal ion homeostasis	1
+cellular sodium ion homeostasis	1
+cellular response to sorbitol	1
+cellular response to selenium ion	1
+cellular response to mannitol stimulus	1
+cellular response to magnesium ion	1
+cellular response to cytokine stimulus	1
+cellular response to brassinosteroid stimulus	1
+cellular response to acetate	1
+cellular component organization	1
+cellular aluminum ion homeostasis	1
+cell-matrix adhesion	1
+cell volume homeostasis	1
+cell division site	1
+cell cycle switching	1
+cell	1
+cation homeostasis	1
+cation binding	1
+carotene 7,8-desaturase activity	1
+carnitine:acyl carnitine antiporter activity	1
+carnitine transmembrane transporter activity	1
+cardiolipin synthase activity	1
+carboxypeptidase activity	1
+carboxyl-O-methyltransferase activity	1
+carbon dioxide transport	1
+camelliol C synthase activity	1
+calcium-dependent ATPase activity	1
+calcium-activated potassium channel activity	1
+calcium ion import	1
+calcineurin complex	1
+caffeoyl-CoA: alcohol caffeoyl transferase activity	1
+caffeoyl CoA:S-adenosyl-L-methionine O-methyltransferase activity	1
+cadmium ion binding	1
+brassinosteroid binding	1
+borate uptake transmembrane transporter activity	1
+bis(5'-adenosyl)-triphosphatase activity	1
+biotin-[methylcrotonoyl-CoA-carboxylase] ligase activity	1
+biotin-[acetyl-CoA-carboxylase] ligase activity	1
+biotin transporter activity	1
+biotin carboxyl carrier protein biosynthetic process	1
+binding, bridging	1
+betaine-aldehyde dehydrogenase activity	1
+beta-sitosterol UDP-glucosyltransferase activity	1
+beta-mannosidase activity	1
+beta-lactamase activity	1
+beta-gentiobiose beta-glucosidase activity	1
+benzoate-CoA ligase activity	1
+benzaldehyde dehydrogenase (NAD+) activity	1
+baruol synthase activity	1
+auxin transmembrane transporter activity	1
+attachment of peroxisome to chloroplast	1
+aspartic-type peptidase activity	1
+aspartate-semialdehyde dehydrogenase activity	1
+aspartate transport	1
+aspartate carbamoyltransferase activity	1
+asparaginyl-tRNA synthase (glutamine-hydrolyzing) activity	1
+arylesterase activity	1
+aryl-aldehyde oxidase activity	1
+aryl-alcohol dehydrogenase (NADP+) activity	1
+arsenate reductase activity	1
+aromatic-L-amino-acid decarboxylase activity	1
+aromatic amino acid transmembrane transporter activity	1
+argininosuccinate synthase activity	1
+argininosuccinate lyase activity	1
+arginine transport	1
+arginine binding	1
+arbutin transmembrane transporter activity	1
+arabinosyltransferase activity	1
+arabinose metabolic process	1
+arabinan catabolic process	1
+arabinan biosynthetic process	1
+arabidiol synthase activity	1
+apical protein localization	1
+antibiotic transport	1
+anthocyanin 5-O-glucosyltransferase activity	1
+anthocyanidin reductase activity	1
+anthocyanidin 3-O-glucosyltransferase activity	1
+anther wall tapetum morphogenesis	1
+anther morphogenesis	1
+amygdalin beta-glucosidase activity	1
+ammonium ion metabolic process	1
+amino-terminal vacuolar sorting propeptide binding	1
+amino acid export	1
+aluminum cation transport	1
+alpha-tubulin binding	1
+alpha-ketoglutarate transport	1
+alpha-ketoacid dehydrogenase activity	1
+alpha-humulene synthase activity	1
+alpha-N-acetylglucosaminidase activity	1
+alpha-1,6-mannosyltransferase activity	1
+alpha-1,4-mannosyltransferase activity	1
+alpha-1,3-mannosyltransferase activity	1
+alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity	1
+alpha-1,2-mannosyltransferase activity	1
+alpha-(1->3)-fucosyltransferase activity	1
+alpha,alpha-trehalase activity	1
+alkylbase DNA N-glycosylase activity	1
+aldehyde dehydrogenase (NADP+) activity	1
+aldehyde decarbonylase activity	1
+alcohol metabolic process	1
+agmatine deiminase activity	1
+agmatine N4-coumaroyltransferase activity	1
+adenylyltransferase activity	1
+adenylate cyclase activity	1
+adenosine 5'-monophosphoramidase activity	1
+adenine nucleotide transport	1
+acylphosphatase activity	1
+acylglycerol transport	1
+acylglycerol lipase activity	1
+acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase activity	1
+acyl-CoA ligase activity	1
+acyl-CoA dehydrogenase activity	1
+acyl binding	1
+activation of phospholipase C activity	1
+acidic amino acid transport	1
+acetylglutamate kinase regulator activity	1
+acetolactate synthase activity	1
+acetoacetyl-CoA reductase activity	1
+acceptance of pollen	1
+abscisic aldehyde oxidase activity	1
+abscisic acid transporter activity	1
+abscisic acid glucose ester beta-glucosidase activity	1
+[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity	1
+Y-form DNA binding	1
+UTP:xylose-1-phosphate uridylyltransferase activity	1
+UTP:galactose-1-phosphate uridylyltransferase activity	1
+UTP:arabinose-1-phosphate uridylyltransferase activity	1
+UTP-monosaccharide-1-phosphate uridylyltransferase activity	1
+UDPsulfoquinovose synthase activity	1
+UDP-sulfoquinovose:DAG sulfoquinovosyltransferase activity	1
+UDP-glucose:glycoprotein glucosyltransferase activity	1
+UDP-galactose:N-glycan beta-1,3-galactosyltransferase activity	1
+UDP-galactose transport	1
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase activity	1
+U2 snRNA binding	1
+U1 snRNA binding	1
+TFIIB-class transcription factor binding	1
+SCF complex assembly	1
+S-nitrosoglutathione reductase activity	1
+S-methyl-5-thioribose-1-phosphate isomerase activity	1
+S-linalool synthase activity	1
+S-formylglutathione hydrolase activity	1
+S-alkylthiohydroximate lyase activity	1
+S-adenosyl-L-methionine:benzoic acid carboxyl methyl transferase activity	1
+S-adenosyl-L-methionine transport	1
+S-adenosyl-L-methionine transmembrane transporter activity	1
+S-acyltransferase activity	1
+Rho GTPase binding	1
+RNA-dependent ATPase activity	1
+RNA-3'-phosphate cyclase activity	1
+RNA polymerase activity	1
+RNA polymerase II transcription factor binding transcription factor activity	1
+RNA ligase (ATP) activity	1
+RNA lariat debranching enzyme activity	1
+RNA binding transcription antitermination factor activity	1
+RNA 7-methylguanosine cap binding	1
+O-acetyltransferase activity	1
+NEDD8-specific protease activity	1
+NEDD8 transferase activity	1
+NEDD8 activating enzyme activity	1
+NADH pyrophosphatase activity	1
+NAD(P)H dehydrogenase (quinone) activity	1
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity	1
+N-methyltransferase activity	1
+N-methylnicotinate transporter activity	1
+N-methylnicotinate transport	1
+N-carbamoylputrescine amidase activity	1
+N-acyltransferase activity	1
+N-acetylglucosamine metabolic process	1
+N-1-naphthylphthalamic acid binding	1
+N-(long-chain-acyl)ethanolamine deacylase activity	1
+MCM complex	1
+L-tyrosine:pyruvate aminotransferase activity	1
+L-tyrosine transmembrane transporter activity	1
+L-serine hydro-lyase (adding indole, L-tryptophan-forming) activity	1
+L-serine ammonia-lyase activity	1
+L-phenylalanine:pyruvate aminotransferase activity	1
+L-phenylalanine:2-oxoglutarate aminotransferase activity	1
+L-methionine:thioredoxin-disulfide S-oxidoreductase activity	1
+L-methionine:2-oxoglutarate aminotransferase activity	1
+L-leucine:2-oxoglutarate aminotransferase activity	1
+L-gulono-1,4-lactone dehydrogenase activity	1
+L-glutamine:2-oxoglutarate aminotransferase activity	1
+L-glutamate transport	1
+L-galactose dehydrogenase activity	1
+L-fucose biosynthetic process	1
+L-cysteine desulfhydrase activity	1
+L-aspartate oxidase activity	1
+L-ascorbate oxidase activity	1
+L-amino acid efflux transmembrane transporter activity	1
+L-alanine transmembrane transporter activity	1
+L-3-cyanoalanine synthase activity	1
+L,L-diaminopimelate aminotransferase activity	1
+KDEL sequence binding	1
+IMP cyclohydrolase activity	1
+IAA-Phe conjugate hydrolase activity	1
+IAA-Leu conjugate hydrolase activity	1
+H4 histone acetyltransferase activity	1
+H3 histone acetyltransferase activity	1
+GTPase inhibitor activity	1
+GTPase activating protein binding	1
+GTP:GDP antiporter activity	1
+GTP cyclohydrolase I activity	1
+GMP synthase (glutamine-hydrolyzing) activity	1
+GDP-galactose:myoinositol-1-phosphate guanylyltransferase activity	1
+GDP-galactose:mannose-1-phosphate guanylyltransferase activity	1
+GDP-galactose:glucose-1-phosphate guanylyltransferase activity	1
+GDP-Man:Man3GlcNAc2-PP-Dol alpha-1,2-mannosyltransferase activity	1
+GDP-L-fucose synthase activity	1
+G-protein coupled receptor signaling pathway, coupled to S1P second messenger	1
+FMN reductase activity	1
+FMN adenylyltransferase activity	1
+FAD diphosphatase activity	1
+ER to chloroplast lipid transport	1
+DNA replication origin binding	1
+DNA demethylase activity	1
+D-xylose transmembrane transporter activity	1
+D-serine ammonia-lyase activity	1
+D-ribose transmembrane transporter activity	1
+D-lactate dehydrogenase (cytochrome) activity	1
+D-aminoacyl-tRNA deacylase activity	1
+D-alanine-D-alanine ligase activity	1
+CTP:2-trans,-6-trans-farnesol kinase activity	1
+CMP-N-acetylneuraminate transmembrane transporter activity	1
+CDP-diacylglycerol-serine O-phosphatidyltransferase activity	1
+C-8 sterol isomerase activity	1
+ATPase inhibitor activity	1
+AMP transport	1
+AMP transmembrane transporter activity	1
+ADP-sugar diphosphatase activity	1
+9,15,9'-tri-cis-zeta-carotene isomerase activity	1
+8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity	1
+8-methylthiooctyl-desulfoglucosinolate sulfotransferase activity	1
+8-amino-7-oxononanoate synthase activity	1
+7-methylthioheptyl-desulfoglucosinolate sulfotransferase activity	1
+7-hydroxymethyl chlorophyll a reductase activity	1
+6-phosphogluconolactonase activity	1
+5S rDNA binding	1
+5-oxoprolinase (ATP-hydrolyzing) activity	1
+5-methylthiopentyl-desulfoglucosinolate sulfotransferase activity	1
+5-formyltetrahydrofolate transporter activity	1
+5'-flap endonuclease activity	1
+4-methylumbelliferyl-beta-D-glucopyranoside beta-glucosidase activity	1
+4-methylthiobutyl-desulfoglucosinolate sulfotransferase activity	1
+4-hydroxyphenylpyruvate dioxygenase activity	1
+4-hydroxybenzoate nonaprenyltransferase activity	1
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase activity	1
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase activity	1
+4-aminobutyrate:pyruvate transaminase activity	1
+4-amino-4-deoxychorismate synthase activity	1
+4-amino-4-deoxychorismate lyase activity	1
+4,8,12-trimethyltrideca-1,3,7,11-tetraene synthase activity	1
+3-phosphoshikimate 1-carboxyvinyltransferase activity	1
+3-methylthiopropyl-desulfoglucosinolate sulfotransferase activity	1
+3-hydroxybutyryl-CoA dehydrogenase activity	1
+3-hydroxybutyrate dehydrogenase activity	1
+3-dehydroquinate dehydratase activity	1
+3-cyanoalanine hydratase activity	1
+3,8-divinyl protochlorophyllide a 8-vinyl reductase activity	1
+3'-tyrosyl-DNA phosphodiesterase activity	1
+3'-5'-exodeoxyribonuclease activity	1
+2-methyl-6-phytyl-1,4-benzoquinone methyltransferase activity	1
+2-dehydropantoate 2-reductase activity	1
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity	1
+2-alkenal reductase [NAD(P)] activity	1
+2-alkenal reductase (NADP+) activity	1
+2-acylglycerol O-acyltransferase activity	1
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity	1
+2',3'-cyclic-nucleotide 3'-phosphodiesterase activity	1
+2 iron, 2 sulfur cluster binding	1
+17-beta-ketosteroid reductase activity	1
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity	1
+16:0 monogalactosyldiacylglycerol desaturase activity	1
+11-beta-hydroxysteroid dehydrogenase (NADP+) activity	1
+1-phosphatidylinositol binding	1
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity	1
+1-acylglycerophosphocholine O-acyltransferase activity	1
+1,4-dihydroxy-2-naphthoyl-CoA synthase activity	1
+1,4-dihydroxy-2-naphthoate octaprenyltransferase activity	1
+1,2-alpha-L-fucosidase activity	1
+(R)-limonene synthase activity	1
+(R)-2-hydroxyglutarate dehydrogenase activity	1
+(E,E)-geranyllinalool synthase activity	1
+(4S)-limonene synthase activity	1
+(3E)-4,8-dimethyl-1,3,7-nonatriene synthase activity	1
+(-)-menthol dehydrogenase activity	1
+(-)-E-beta-caryophyllene synthase activity	1
+(+)-neomenthol dehydrogenase activity	1
