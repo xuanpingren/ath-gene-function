@@ -1311,7 +1311,7 @@ print("<html>")
 print("<head><title>%s  %s</title></head>" % (gene, description))
 print("<body>")
 if result != '':
-   print("<p>基因：%s<br/>名字：%s</p>" % (gene, gene_name))
+   print("<p>基因：<font color=\"blue\">%s</font><br/>名字：%s</p>" % (gene, gene_name))
    print("%s" % result)
    print("<br/>")    
 elif not invalid_gene:
@@ -1324,13 +1324,14 @@ if description != '':
       print("<p><b>有%s功能的基因</b></p>" % (description))
    else:
       exit()
+   print("<ul>")
    d = make_gene_name_dict('gene_aliases_20140331.txt')
    for x in gene_annot_d:
       g = x
       a = gene_annot_d[g]
       gn = d.get(g, '?')
-      print("%s (%s) |  %s<br/>" % (g, gn, a))
-
+      print("<li><font color=\"blue\">%s</font> (%s) <br/> %s</li><br/>" % (g, gn, a))
+   print("<ul>")
 print("</body>")
 print("</html>")
       
