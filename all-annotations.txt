@@ -1074,6 +1074,7 @@ regulation of catalytic activity	18
 proximal/distal pattern formation	18
 protein tyrosine/serine/threonine phosphatase activity	18
 protein phosphatase type 2A regulator activity	18
+--- 2016-06-03----
 protein import into chloroplast thylakoid membrane	18
 photosynthesis, light harvesting in photosystem II	18
 phosphatidate cytidylyltransferase activity	18
