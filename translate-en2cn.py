@@ -43,6 +43,7 @@ d = {'histone methylation':'组织蛋白甲基化',
      'detection of external stimulus':'外激探测',
      'binding':'绑定',
      'pathway':'路径',
+     'pathways':'路径',
      'root development':'根生长',
      'root':'根',
      'root cap':'根冠',
@@ -90,6 +91,7 @@ d = {'histone methylation':'组织蛋白甲基化',
      'cytoplasm':'细胞质',
      'cytosol':'胞浆',
      'protein':'蛋白质',
+     'Protein':'蛋白质',
      'N-linked':'N链',
      'N-glycan':'N聚糖',
      'glycosylation':'醣基化',
@@ -784,7 +786,7 @@ d = {'histone methylation':'组织蛋白甲基化',
      'anion channel':'阴离子通道',
      'anion':'阴离子',
      'organic anion transmembrane transporter activity':'有机阴离子跨膜运输蛋白活性',
-     'G2/M transition of mitotic cell cycle':'<a title=\"G2/M\">有丝分裂细胞周期中前有丝分裂向有丝分裂转变</a>',
+     'G2/M transition of mitotic cell cycle':'G2/M有丝分裂细胞周期中前有丝分裂向有丝分裂转变',
      'glutathione':'谷胱甘肽',
      'cell plate':'单元板',
      'stroma':'基质',
@@ -1065,13 +1067,23 @@ d = {'histone methylation':'组织蛋白甲基化',
      'production of siRNA':'生产siRNA',
      'computationally aggregated experimental datasets':'由计算方法聚集的实验数据集',
      'inferred by author, from sequence similarity':'由作者从序列相似性推断',
+     'inferred by the author, from expression pattern':'由作者从表达模式推断',
+     'inferred by the author from genetic interaction':'由作者从基因交互作用推断',
+     'inferred by author, from enzymatic pathway':'路径由作者从酶路径推断',
+     'Statements in papers that a curator can\'t trace to another publication':'验证者无法在另外出版物找到此类陈述',
      'unknown molecular functions':'未知的分子功能',
      'unknown':'未知',
      'molecular function':'分子功能',
+     'molecular functions':'分子功能',
      '\'Unknown\' molecular function':'未知的分子功能',
+     'yeast two-hybrid assay':'酵母菌双杂交试验',
+     'yeast':'酵母菌',
      '\'Unknown\'':'未知的',
      'for':'为了',
      'original experiments are traceable through a review':'原始实验可通过综述跟踪',
+     'original experiments are traceable through an article':'原始实验可通过文章跟踪',
+     'inferred by author from multiple lines of evidence':'由作者从多种证据推断',
+     '(e.g.microarray data)':'（例如基因芯片数据）',
      'visible trait':'可见性状',
      'Sequence similarity (homologue of/most closely related to)':'序列相似性（同源染色体/最紧密联系）',
      'Enzyme assays':'酶分析',
@@ -1085,7 +1097,68 @@ d = {'histone methylation':'组织蛋白甲基化',
      'text book or dictionary; -material has become common knowledge':'书本或字典；已成常识',
      'Rho guanyl-nucleotide exchang':'rho鸟苷酸交换',
      'medium-chain':'中长链',
+     'sequence prediction':'序列预测',
+     'pull-down assay':'下拉分析',
+     'fucose-1-phosphate guanylyltransferase':'岩藻糖-1-磷酸盐尿苷转移酶',
+     'iron chelate':'氨基酸螯合铁',
+     'alkane 1-monooxygenase':'烷烃 1-单加氧酶',
+     'is downregulated by':'被向下调节',
+     'potassium:proton':'钾：质子',
+     'extracellular matrix':'细胞外基质',
+     'is subunit of':'是子单位',
+     'exon-exon junction':'外显子-外显子接合',
+     'sex determination':'性别确定',
+     'outward':'外向',
+     'oxidase':'氧化酶',
+     'mannan':'甘露聚糖酶',
+     'cellulase':'纤维素酶',
+     'interchromatin granule':'染色质间颗粒区',
+     'benzoic acid':'苯甲酸',
+     'heterologous system':'异种系统',
+     'immunolocalization':'免疫定位',
+     'uptake assay':'吸收试验分析',
+     'inferred from 2D-electrophoresis':'从二维电泳推断',
+     'in vitro assay':'离体实验',
+     'transferring acyl groups':'转移酰群',
+     'Correlation of expression with a physiological assay':'表达相关和并生理实验',
+     'immunogold labeling':'免疫金胶法标记',
+     'Bimolecular fluorescence complementation (BiFC)':'萤光双分子杂交技术',
+     'affinity capture':'类似捕捉',
      '------':'--------',
+     'co-fractionation':'共同分馏',
+     'energy':'能量',
+     'acyl':'酰',
+     'Co-immunoprecipitation':'免疫共沉淀法',
+     'immunoprecipitation':'免疫沉淀反应',
+     'experiments':'实验',
+     'interchromatin':'染色质间',
+     'granule':'颗粒区',
+     'diphosphokinase':'二磷酸激酶',
+     'red,':'红，',
+     'polyubiquitination':'聚泛素化',
+     'speck':'斑点',
+     'phototransduction':'光传导',
+     'aldehyde':'乙醛',
+     'decarbonylase':'脱碳酶',
+     'sex':'性别',
+     'determination':'确定',
+     'junction':'接合',
+     'exon':'外显子',
+     'intercellular':'细胞间',
+     'extracellular':'细胞外',
+     'matrix':'基质',
+     'exchange':'交换',
+     'specification':'确定',
+     'alkane':'烷烃',
+     'monooxygenase':'单加氧酶',
+     'iron':'铁',
+     'chelate':'螯合物',
+     'fruit':'水果',
+     'shape':'形状',
+     'salvage':'打捞',
+     'monopolar':'单极',
+     'guanylyltransferase':'尿苷转移酶',
+     'GDP-L-fucose':'GDP-L-岩藻糖',
      'required for':'为必须',
      'inductive':'诱导的',
      'fucokinase':'墨角藻糖激酶',
@@ -1231,49 +1304,6 @@ def make_gene_name_dict(file):
    return d
 
 
-def convert_to_locus(gene, filename):
-   gene = gene.strip().lower()
-   if gene == '':
-      return '无命名'
-   f = open(filename)
-   for line in f:
-      lst = line.split('\t')
-      locus = lst[0]
-      short_name = lst[1].strip().lower()
-      short_name_lst = short_name.split()
-      long_name = lst[2].strip().lower()
-      long_name_lst = long_name.split()
-      gene_lst = gene.split()
-      n = len(gene_lst)
-      count1 = 0
-      count2 = 0
-      for x in gene_lst:
-         if x in short_name_lst:
-            count1 += 1
-         if x in long_name_lst:
-            count2 += 1
-      if count1 == n or count2 == n:
-         return locus
-         
-   return '无命名'
-
-
-def get_gene_name(gene, file):
-
-   name = ''
-   f = open(file)
-   count = 0
-   for line in f:
-      lst = line.split('\t')
-      if gene == lst[0]:
-         name += ' '.join(lst[1:]).strip() + ';'
-         count += 1
-      if count > 10:
-         break
-   f.close()
-   return name
-
-
 # word is an annotation
 def translate_one_word(word):
    i = word.find('gene:')
@@ -1295,13 +1325,7 @@ def translate_one_word(word):
    if word in d:
       return d[word]
    else:
-      #for x in word.split():
-      #   x = x.strip()
-      #   if x in d:
-      #      t += d[x] +  ' '
-      #   else:
-      #      t += x + ' '
-      for k in range(5): # number of passes in translating
+      for k in range(8): # number of passes in translating
 
          translate_len = []
          translate_lst = []
@@ -1342,6 +1366,6 @@ for line in content[:2000]:
    description = gene + '\t'
    for s in lst[1:]:
       t = translate_one_word(s);
-      description += '\t' + t
+      description += '\t' + t.replace(' ', '')
    tfile.write(description + '\n')
 tfile.close()
