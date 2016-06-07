@@ -71,43 +71,45 @@ def get_gene_name(gene, file):
 
 
 # word is an annotation
-def translate_one_word(word):
+def translate_one_word(word, d):
+   word = word.strip()
+   if word == '':
+      return ''
+   
+   d0 = {'gene:':'基因', 'locus:':'基因座', 'Publication:':'出版物', 'AnalysisReference:':'分析参考', 'Communication:':'交流'}
+   for k in d0:
+      i = word.find(k)
+      if i > -1:
+         length = len(k)
+         return d0[k] + word[length-1:]
+
    if word in d:
       return d[word]
    else:
-      #for x in word.split():
-      #   x = x.strip()
-      #   if x in d:
-      #      t += d[x] +  ' '
-      #   else:
-      #      t += x + ' '
-      for k in range(5): # number of passes in translating
-
-         translate_len = []
-         translate_lst = []
-         lst = word.split()
-         n = len(lst)
-         for i in range(n):
-            found = 0
-            for j in range(n,i,-1):
-               s = ' '.join(lst[i:j])
-               if s in d:
-                  found = 1
-                  translate_len.append(j-i)
-                  translate_lst.append(' '.join(lst[:i]) + ' ' + d[s] + ' ' + ' '.join(lst[j:]))
-                  break
-         if len(translate_lst) > 0:
-            index = translate_len.index(max(translate_len))
-            word =  translate_lst[index]
+      i = 0
+      translate = ''
+      lst = word.split()
+      n = len(lst)      
+      while i < n: # number of passes in translating
+         found = 0
+         for j in range(n+1,i,-1):
+            s = ' '.join(lst[i:j])
+            if s in d:
+               found = 1
+               break
+         if found == 0:
+            translate += ' ' + lst[i]
+            i += 1
          else:
-            return word
+            translate += ' ' + d[s]
+            i += j - i;
+      return translate.strip()
 
-      return word
 
-def translate_words(word_lst):
+def translate_words(word_lst, d):
    lst = []
    for x in word_lst:
-      lst.append(translate_one_word(x))
+      lst.append(translate_one_word(x, d))
    return lst
 
 def find_gene_annotation(gene, lst):
@@ -128,11 +130,11 @@ def find_gene_annotation(gene, lst):
             f.append(a)
    s = ''
    if p:
-      s += '<br/><b>生物过程</b><br/>' + '<br/>'.join(translate_words(p)) + '<br/>'
+      s += '<br/><b>生物过程</b><br/>' + '<br/>'.join(translate_words(p, d)) + '<br/>'
    if f:
-      s += '<br/><b>分子功能</b><br/>' + '<br/>'.join(translate_words(f)) + '<br/>'
+      s += '<br/><b>分子功能</b><br/>' + '<br/>'.join(translate_words(f, d)) + '<br/>'
    if c:
-      s += '<br/><b>所在位置</b><br/>' + '<br/>'.join(translate_words(c)) + '<br/>'
+      s += '<br/><b>所在位置</b><br/>' + '<br/>'.join(translate_words(c, d)) + '<br/>'
    return s
 
 
