@@ -23,6 +23,17 @@ def make_gene_name_dict(file):
    f.close()
    return d
 
+
+def split_and_translate_component(w, d):
+   lst = w.split('-')
+   result = ''
+   for x in lst:
+      if x in d:
+         result += d[x] + '-'
+      else:
+         result += x + '-'
+   return result[:-1]
+   
 # word is an annotation
 def translate_one_word(word, d):
    word = word.strip()
@@ -51,7 +62,7 @@ def translate_one_word(word, d):
                found = 1
                break
          if found == 0:
-            translate += ' ' + lst[i]
+            translate += ' ' + split_and_translate_component(lst[i], d)
             i += 1
          else:
             translate += ' ' + d[s]
