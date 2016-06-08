@@ -33,7 +33,7 @@ def split_and_translate_component(w, d):
       else:
          result += x + '-'
    return result[:-1]
-   
+
 # word is an annotation
 def translate_one_word(word, d):
    word = word.strip()
